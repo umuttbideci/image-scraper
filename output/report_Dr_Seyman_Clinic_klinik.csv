@@ -1,0 +1,24 @@
+url,status,reason,pos,neg,margin,blur,save
+https://www.doktorsitesi.com/_next/image?url=https%3A%2F%2Fapi.doktorsitesi.com%2Fmedia%2Fcache%2Fprofil_500_webp%2Fuploads%2Fprofile_self_image%2F2705847_1611276487.webp&w=640&q=75,rejected,too_small 500x500,,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063684033561,error,download: cannot identify image file <_io.BytesIO object at 0x162f0c6d0>,,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1364701620586093,error,download: cannot identify image file <_io.BytesIO object at 0x1619c2ed0>,,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1248381178884805,error,download: cannot identify image file <_io.BytesIO object at 0x1679fdf80>,,,,,
+https://media.mymeditravel.com/711x470/uploads/property/gallery/5e67954381aee226ee3ec019/5e6796c881aee226243a05f5/medium.jpg,rejected,too_small 711x470,,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1133780387011552,error,download: cannot identify image file <_io.BytesIO object at 0x399f6b0b0>,,,,,
+https://www.drseyman-clinic.com/imaj/images/Manset/slider-1.jpg,error,download: cannot identify image file <_io.BytesIO object at 0x399f33060>,,,,,
+https://www.okanhastanesi.com.tr/images/doctors/doc-dr-ozan-seymen-sezen_20190402154446.jpg,error,"download: HTTPSConnectionPool(host='www.okanhastanesi.com.tr', port=443): Max retries exceeded with url: /images/doctors/doc-dr-ozan-seymen-sezen_20190402154446.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",,,,,
+https://media.mymeditravel.com/711x470/uploads/property/gallery/5e67954381aee226ee3ec019/5e6796bc81aee221977a813e/medium.jpg,rejected,too_small 711x470,,,,,
+https://cdn.whatclinic.com/hair-loss/turkey/antalya-province/antalya/dr-seyman-clinic/thumbnails/e510322e98e9c15a/whatsapp_image_20191022_at_131312.jpg?float-x=0.5&float-y=0.5&rotate=0&crop_x=0&crop_y=0&crop_w=1&crop_h=1&hmac=255ae6c14b6816ae6bfbcb108229bbdf8cf3a857,rejected,blur=15.5 < 100.0,,,,,
+"https://www.mymeditravel.com/cdn-cgi/image/f=auto,fit=contain,quality=75/uploads/property/gallery/5e67954381aee226ee3ec019/5e6796c881aee221977a8142/medium.jpg",rejected,too_small 800x428,,,,,
+https://drunzileseymancivelek.com/wp-content/uploads/2024/09/dr-unzile-seyman-civelek-klinik-2.jpg,approved,,0.2801837623119354,0.13371478021144867,0.14646898210048676,282.5952263083601,output/approved/Dr_Seyman_Clinic_klinik/577dbcd249.jpg
+https://drunzileseymancivelek.com/wp-content/uploads/2024/10/dr-unzile-seyman-civelek-klinigi-21.jpg,rejected,clip_threshold,0.26329243183135986,0.16249845921993256,0.10079397261142731,508.91433535545065,
+https://www.batmanobjektif.com/resimler/images/53(10).jpg,rejected,too_small 500x331,,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=457656133033851,error,download: cannot identify image file <_io.BytesIO object at 0x162fa86d0>,,,,,
+https://media.mymeditravel.com/711x470/uploads/property/gallery/5e67954381aee226ee3ec019/5e6796b681aee2219675f538/medium.jpg,rejected,too_small 711x470,,,,,
+"https://www.mymeditravel.com/cdn-cgi/image/f=auto,fit=contain,quality=75/uploads/property/gallery/5e67954381aee226ee3ec019/5e6796de81aee21f401ba47a/medium.jpg",rejected,too_small 800x585,,,,,
+https://drunzileseymancivelek.com/wp-content/uploads/2024/09/dr-unzile-seyman-civelek-klinik-5.jpg,approved,,0.31228742003440857,0.1551610827445984,0.15712633728981018,461.6272515408898,output/approved/Dr_Seyman_Clinic_klinik/8c2aa80574.jpg
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1058235221232736,error,download: cannot identify image file <_io.BytesIO object at 0x15eb57380>,,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3074915690603682015,error,download: cannot identify image file <_io.BytesIO object at 0x399f15c60>,,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3001582398668643941,error,download: cannot identify image file <_io.BytesIO object at 0x1679fd800>,,,,,
+https://drunzileseymancivelek.com/wp-content/uploads/2024/10/dr-unzile-seyman-civelek-klinigi-ic-mekan-7.jpg,rejected,clip_threshold,0.19541917741298676,0.17719033360481262,0.018228843808174133,233.64495500984515,
+https://www.drseymademirci.com/wp-content/uploads/2025/07/drseymademirci-klinik1.webp,approved,,0.2583712339401245,0.1336277425289154,0.1247434914112091,573.0939752777565,output/approved/Dr_Seyman_Clinic_klinik/c54e9fe9f8.jpg

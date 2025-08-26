@@ -1,0 +1,402 @@
+url,status,reason,pos,neg,margin,blur
+https://medihair.com/wp-content/uploads/2021/01/Medihair_Offers_Brochure.png,rejected,too_small 500x605,,,,
+https://media.invisioncic.com/o278943/monthly_2024_05/IMG_2692.jpeg.8500c3c72493c8fe74d4b023b4278c10.jpeg,rejected,clip_threshold,0.25241926312446594,0.1867930144071579,0.06562624871730804,402.9190166761298
+https://i.redd.it/dr-bekir-bek-ankara-3200-grefts-from-1-day-to-8-months-v0-ofpxo7ru5yge1.jpg?width=1200&format=pjpg&auto=webp&s=b42e76240f8721f4c343d15b5c2d3a5312517fca,rejected,clip_threshold,0.250506192445755,0.21147771179676056,0.039028480648994446,103.7878382319145
+https://media.invisioncic.com/o278943/monthly_2025_04/Bekir-Bek-3-day0-1.jpg.c5817d88920850a5ce71f51d7a1c4b98.jpg,rejected,clip_threshold,0.2600218653678894,0.18377305567264557,0.07624880969524384,594.4884999980244
+https://i.redd.it/dr-bekir-bek-ankara-3200-grefts-from-1-day-to-8-months-v0-jut2x5ru5yge1.jpg?width=1170&format=pjpg&auto=webp&s=bac66cb243a6950404d10474eecb976aa9fdbb71,rejected,clip_threshold,0.2511984705924988,0.2168377786874771,0.03436069190502167,358.56692899219087
+https://hairtransplantnetwork.com/sites/default/files/styles/patient_card_image/public/images/4d5792b3-a67a-4152-8889-b8539426eb78.JPG?itok=nFAIA4PV,rejected,too_small 360x220,,,,
+https://i.redd.it/dr-bekir-bek-ankara-3200-grefts-from-1-day-to-8-months-v0-mndeb6ru5yge1.jpg?width=2316&format=pjpg&auto=webp&s=852013d99062b8bd3a47531243b3be3a42f57310,rejected,clip_threshold,0.2560386061668396,0.20475779473781586,0.05128081142902374,358.2092796610216
+https://preview.redd.it/dr-bekir-bek-ankara-3200-grefts-from-1-day-to-8-months-v0-qh3gk6ru5yge1.jpg?width=640&crop=smart&auto=webp&s=f6aa7bdad2884790b9cec534c35c2f2a3e3e1824,rejected,clip_threshold,0.25230222940444946,0.19252470135688782,0.059777528047561646,311.1477621521312
+https://drbekhairtransplant.com/wp-content/uploads/2021/11/avatar_3.jpg,rejected,too_small 285x280,,,,
+https://hairtransplantnetwork.com/sites/default/files/feed-images/bdda26dc-7c6a-4c6d-b9c8-4fe17f028edd.jpeg,rejected,too_small 360x220,,,,
+https://drbekhairtransplant.com/wp-content/uploads/slider/cache/6125f47faaaacfd9e1ae65b113102170/ssmider2-1.jpg,rejected,blur=64.8 < 100.0,,,,
+https://drbekhairtransplant.com/wp-content/uploads/slider/cache/5db0808cef4cce5ae3fdb9c4d0a6ef70/ssmider1-1.jpg,rejected,blur=90.7 < 100.0,,,,
+https://drbekhairtransplant.com/wp-content/uploads/2023/10/oldlogots.png,rejected,clip_threshold,0.29520562291145325,0.18519003689289093,0.11001558601856232,788.5769519805908
+https://hairtransplantnetwork.com/sites/default/files/styles/patient_card_image/public/images/180e8402-1d4c-45e2-a029-78261b2b32b5.JPG?itok=3HewzvBE,rejected,too_small 360x220,,,,
+https://preview.redd.it/dr-bekir-bek-100th-day-update-v0-1aq4p8sck2bd1.jpg?width=640&crop=smart&auto=webp&s=516808c54b0a2034487774b85d868a110f8533da,rejected,clip_threshold,0.18705423176288605,0.20157283544540405,-0.014518603682518005,429.3177692547712
+https://hairtransplantnetwork.com/sites/default/files/images/untitled-design-60.png,rejected,clip_threshold,0.267803430557251,0.17421558499336243,0.09358784556388855,138.77876522874243
+https://media.invisioncic.com/o278943/monthly_2025_04/Bekir-Bek-5-design.jpg.4ae453d8eb23c25e57c0a43101f79dcc.jpg,rejected,clip_threshold,0.21875320374965668,0.18405914306640625,0.03469406068325043,983.1556277344534
+https://www.sacekimisonuclari.com/index.php?action=dlattach;topic=33335.0;attach=497858;image,rejected,too_small 500x375,,,,
+https://media.invisioncic.com/o278943/monthly_2025_04/Bekir-Bek-4-design.jpg.9f4b230f96d48c0eb69ee924367da247.jpg,rejected,clip_threshold,0.24809162318706512,0.19576795399188995,0.05232366919517517,203.94922426034768
+https://drbekhairtransplant.com/wp-content/uploads/2021/11/avatar_4.jpg,rejected,too_small 285x280,,,,
+https://medihair.com/wp-content/uploads/2021/08/Medihair_Clinic_Profil_Img_5.jpg,rejected,too_small 870x580,,,,
+https://i.redd.it/dr-bekir-bek-ankara-3200-grefts-from-1-day-to-8-months-v0-pv5d57ru5yge1.jpg?width=1170&format=pjpg&auto=webp&s=20693cff4bc976c89ed7d808048a02581c1591d1,rejected,clip_threshold,0.25785237550735474,0.23336748778820038,0.024484887719154358,189.8967927533621
+https://medihair.com/wp-content/uploads/2022/12/MH_disappointed_blue-2.svg,error,download: cannot identify image file <_io.BytesIO object at 0x16191f600>,,,,
+https://www.sacekimisonuclari.com/index.php?action=dlattach;topic=33675.0;attach=502664,rejected,clip_threshold,0.2821604609489441,0.18485087156295776,0.09730958938598633,213.6895510949923
+https://media.invisioncic.com/o278943/monthly_2025_04/Bekir-Bek-10-1-month.jpg.da90bbd1a670eebd980ff2667bf6e7ad.jpg,rejected,clip_threshold,0.2706276774406433,0.17664387822151184,0.09398379921913147,1288.5165806886107
+https://media.invisioncic.com/o278943/monthly_2025_04/Bekir-Bek-13-4-months.jpg.2a72b960aed330e1b872abcf04ef3d1d.jpg,rejected,clip_threshold,0.2604232430458069,0.18638673424720764,0.07403650879859924,1375.0639675391674
+https://media.invisioncic.com/o278943/monthly_2025_04/Bekir-Bek-6-after.jpg.ee7ddfb4b922a96e6b26fec01bda491b.jpg,rejected,clip_threshold,0.2501671612262726,0.1629924476146698,0.08717471361160278,608.2139555120632
+https://www.alopezie.de/foren/transplant/index.php/fa/63586/,rejected,clip_threshold,0.2589091360569,0.18731030821800232,0.0715988278388977,1431.872535119129
+https://i.redd.it/dr-bekir-bek-100th-day-update-v0-mo5ehirck2bd1.jpg?width=1737&format=pjpg&auto=webp&s=db62b21262b9b3ccc7c545bb15e50cb61cc8d48d,rejected,clip_threshold,0.22578108310699463,0.2208009958267212,0.0049800872802734375,311.6885169497371
+https://preview.redd.it/dr-bekir-bek-100th-day-update-v0-ddi0wirck2bd1.jpg?width=1080&crop=smart&auto=webp&s=ca36d82565cec598b80e7e013ddb7f2b5c4cd2da,rejected,blur=86.9 < 100.0,,,,
+https://www.sacekimisonuclari.com/index.php?action=dlattach;topic=33335.0;attach=497868;image,rejected,too_small 375x500,,,,
+https://www.sacekimisonuclari.com/index.php?action=dlattach;topic=33335.0;attach=497880;image,rejected,too_small 375x500,,,,
+https://i.redd.it/dr-bekir-bek-ankara-3200-grefts-from-1-day-to-8-months-v0-50k2h6ru5yge1.jpg?width=1170&format=pjpg&auto=webp&s=9888dc9e2eb46bd5bc429cf788430b3e07b49485,rejected,clip_threshold,0.2555807828903198,0.23010005056858063,0.025480732321739197,247.91893975173508
+https://medihair.com/wp-content/uploads/2020/12/Medihair_Dark-blue.svg,error,download: cannot identify image file <_io.BytesIO object at 0x16191fab0>,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3679260661415462511,error,download: cannot identify image file <_io.BytesIO object at 0x1619c2e30>,,,,
+https://www.tarsus.edu.tr/Images/Uploads/MyContents/29335-20231212160827916732.jpg,rejected,clip_threshold,0.20142419636249542,0.203460693359375,-0.0020364969968795776,1435.5251852159909
+https://media.invisioncic.com/o278943/monthly_2025_04/Bekir-Bek-9-day-10.jpg.5bd673d4bc7046fe8e550ada18b9a5b5.jpg,rejected,clip_threshold,0.25025129318237305,0.1855359524488449,0.06471534073352814,409.3326444394926
+https://www.tiktok.com/api/img/?itemId=7293220937313357062&location=3&aid=1988&index=0,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7293220937313357062&location=3&aid=1988&index=0,,,,
+https://hairtransplantnetwork.com/sites/default/files/styles/patient_card_image/public/images/9f24f03d-2c3c-4e7e-a73f-8af290d0f9c6.JPG?itok=KcULLgfV,rejected,too_small 360x220,,,,
+https://kibo.com.tr/kbservicefiles/kbimagepublic/0/prd/3/1/KB9786257795913.JPG,rejected,too_small 311x486,,,,
+https://i1.rgstatic.net/ii/profile.image/301848599777282-1448977722340_Q512/Gulfem-Ergun.jpg,rejected,too_small 512x512,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=623939087439884&get_thumbnail=1,error,download: cannot identify image file <_io.BytesIO object at 0x16191eed0>,,,,
+https://i.redd.it/dr-bekir-bek-ankara-3200-grefts-from-1-day-to-8-months-v0-stfv27ru5yge1.jpg?width=1170&format=pjpg&auto=webp&s=b07d08a8979b071f42be236f90d1ce5dd208f5a1,rejected,clip_threshold,0.25895270705223083,0.21508201956748962,0.04387068748474121,833.6999827245434
+x-raw-image:///339aa5cda962c808697353da08d6e3de859d5e4ddb1cb51b5d5de54ab6b20871,error,download: No connection adapters were found for 'x-raw-image:///339aa5cda962c808697353da08d6e3de859d5e4ddb1cb51b5d5de54ab6b20871',,,,
+https://www.gophastanesi.com.tr/media/t1/001/746/611/673/haydar-gok-big.png,rejected,too_small 420x480,,,,
+https://media.invisioncic.com/o278943/monthly_2025_04/Bekir-Bek-2-day0.jpg.6b6e5a778581da74dde6098089082927.jpg,rejected,clip_threshold,0.25836923718452454,0.1713864505290985,0.08698278665542603,209.51804038451172
+https://unis.trakya.edu.tr/app_files/2025/05/Kisi_Logo_3641_ff5dfa11.jpg,error,"download: HTTPSConnectionPool(host='unis.trakya.edu.tr', port=443): Max retries exceeded with url: /app_files/2025/05/Kisi_Logo_3641_ff5dfa11.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",,,,
+https://www.tiktok.com/api/img/?itemId=7303281712916745478&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7303281712916745478&location=0&aid=1988,,,,
+x-raw-image:///a995ad1ab49398ba7933538871c1960c7f15a528e10bc03345b3b6652681ddde,error,download: No connection adapters were found for 'x-raw-image:///a995ad1ab49398ba7933538871c1960c7f15a528e10bc03345b3b6652681ddde',,,,
+x-raw-image:///9dec86a5e5f7683ce07aa59468565b9ca4707fb084eb8ca337becec8a918b64c,error,download: No connection adapters were found for 'x-raw-image:///9dec86a5e5f7683ce07aa59468565b9ca4707fb084eb8ca337becec8a918b64c',,,,
+https://bulutklinik-pb.s3.eu-west-1.amazonaws.com/doctors/profile/12993/R8hcbepsNKAT6j5ZLFvtaPEnUJir0u,rejected,too_small 500x500,,,,
+https://image3.slideserve.com/5457902/grup-10-burak-ko-ak-bek-r-yaman-nder-sev-nd-k-sma-l-bayram-g-k-n-l.jpg,rejected,clip_threshold,0.20434033870697021,0.1822003424167633,0.02213999629020691,1221.6151471071764
+https://www.tarsus.edu.tr/Images/Uploads/PreDefined/banner.jpg,rejected,too_small 1920x554,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1491773019387527,error,download: cannot identify image file <_io.BytesIO object at 0x162f98090>,,,,
+https://unis.trakya.edu.tr/app_files/2024/10/Kisi_Logo_1336_3cdccb0c.jpg,error,"download: HTTPSConnectionPool(host='unis.trakya.edu.tr', port=443): Max retries exceeded with url: /app_files/2024/10/Kisi_Logo_1336_3cdccb0c.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",,,,
+https://i.calameoassets.com/250305082403-4cc3434d3354fc76ffd3788ac9713011/large.jpg,rejected,too_small 300x428,,,,
+https://www.egitenkitap.com/image/cache/catalog/products_2024/9088-400x580h.jpg,rejected,too_small 400x580,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3674187003945508133,error,download: cannot identify image file <_io.BytesIO object at 0x1679e5e90>,,,,
+https://kop.gov.tr/storage/media/media_item/default/851/851/conversions/458-webp.webp,error,"download: HTTPSConnectionPool(host='kop.gov.tr', port=443): Max retries exceeded with url: /storage/media/media_item/default/851/851/conversions/458-webp.webp (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",,,,
+https://img.ekstat.com/profiles/3310-unu-satan-bilge-638617786629705540.jpg,rejected,clip_threshold,0.2170909196138382,0.2145223319530487,0.0025685876607894897,417.6574166526557
+https://api.doktorsitesi.com/media/cache/profil_500_webp/uploads/profile_self_image/3301706_950510744.webp,rejected,too_small 309x309,,,,
+https://i1.rgstatic.net/ii/profile.image/277713286909961-1443223416057_Q512/Levent-Erkan.jpg,rejected,too_small 512x512,,,,
+https://makpirtuk.de/wp-content/uploads/2024/05/onurlu-yasam-davasi-demirtasin-savunmasi.jpg,rejected,too_small 500x720,,,,
+https://i.redd.it/dr-bekir-bek-ankara-3200-grefts-from-1-day-to-8-months-v0-pchki6ru5yge1.jpg?width=1170&format=pjpg&auto=webp&s=d1d9ffcfd335ab73f7de705ea7159a59f3d67e33,rejected,clip_threshold,0.23657402396202087,0.24056318402290344,-0.003989160060882568,397.322186443775
+x-raw-image:///6730d6855e6e49cec34afd461034389a3887db0dc32ed37bbb0bbd20f5357b4c,error,download: No connection adapters were found for 'x-raw-image:///6730d6855e6e49cec34afd461034389a3887db0dc32ed37bbb0bbd20f5357b4c',,,,
+https://i.calameoassets.com/200516223522-4b7140ebb90b747df5273b195df9c784/large.jpg,rejected,too_small 300x435,,,,
+https://online.fliphtml5.com/camlk/dotf/files/large/c1bf41d82adc8c5d53cce0ede0c16bbc.webp?1664186618&1664186618,rejected,clip_threshold,0.20628167688846588,0.1829138696193695,0.023367807269096375,331.2040288987873
+"https://static.wixstatic.com/media/bf711b_ac6826890358442085db32417ba9695e~mv2.jpg/v1/crop/x_0,y_26,w_277,h_336/fill/w_272,h_181,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/foto%20gen%C3%A7%20pediatri.jpg",rejected,too_small 272x181,,,,
+x-raw-image:///5c694db0169a91c8832310624ef83f9f695d3c7536aa52fafe0f6b96355a8d55,error,download: No connection adapters were found for 'x-raw-image:///5c694db0169a91c8832310624ef83f9f695d3c7536aa52fafe0f6b96355a8d55',,,,
+https://img.ekstat.com/profiles/nolimetangere-638908900048312369.jpg,rejected,clip_threshold,0.1795521080493927,0.17238309979438782,0.007169008255004883,2735.964392690659
+x-raw-image:///98e8e2b72b2508af02823d62bd324ab90bb5ddc05d10bf177ba485e92d925032,error,download: No connection adapters were found for 'x-raw-image:///98e8e2b72b2508af02823d62bd324ab90bb5ddc05d10bf177ba485e92d925032',,,,
+https://0.academia-photos.com/attachment_thumbnails/119639506/mini_magick20241117-1-1b8kla.png?1731871241,rejected,too_small 596x842,,,,
+https://www.etimesgutbelediyespor.org/wp-content/uploads/2025/04/488241437_18063631093960288_1015395659134776594_n-400x300.jpg,rejected,too_small 400x300,,,,
+https://media.licdn.com/dms/image/v2/D4E22AQGrA2MMbpYMOw/feedshare-shrink_800/B4EZgBfq0dGwAk-/0/1752371736616?e=2147483647&v=beta&t=xj4Df4a6UM-p9Tfubk92U7tm_JMNzKrXzshO3D9MK4I,rejected,clip_threshold,0.15887001156806946,0.17277422547340393,-0.013904213905334473,1328.7077920332563
+x-raw-image:///2ccf053c13b4906714f3c202fe7f72569947c4fd988bc0b3920de1f8d9c7f6a3,error,download: No connection adapters were found for 'x-raw-image:///2ccf053c13b4906714f3c202fe7f72569947c4fd988bc0b3920de1f8d9c7f6a3',,,,
+https://bulutklinik-pb.s3.eu-west-1.amazonaws.com/doctors/profile/11812/tv5T9po7PSsyaIFHWNLAO23QXwCRde,rejected,too_small 500x500,,,,
+https://www.tarsus.edu.tr/Images/Uploads/MyContents/29994-20250820105319341313.jpeg,rejected,clip_threshold,0.20106741786003113,0.17369046807289124,0.027376949787139893,471.7982781871603
+x-raw-image:///eb5a85d71ed914dbf7b63ff4d79168aae6e6ea8a39884958722b35f4a5e87658,error,download: No connection adapters were found for 'x-raw-image:///eb5a85d71ed914dbf7b63ff4d79168aae6e6ea8a39884958722b35f4a5e87658',,,,
+x-raw-image:///8c0e3e5de4a4e83bb90cb30f6aa7bad5fb3f20d4fd747a1465b6c3f7d8799044,error,download: No connection adapters were found for 'x-raw-image:///8c0e3e5de4a4e83bb90cb30f6aa7bad5fb3f20d4fd747a1465b6c3f7d8799044',,,,
+https://drbekhairtransplant.com/wp-content/uploads/2023/10/Logo-Black.png,rejected,too_small 675x240,,,,
+x-raw-image:///82066bd49e42c9dfba3095198f08d26ad3d406fe8841c89b80eab7f627233376,error,download: No connection adapters were found for 'x-raw-image:///82066bd49e42c9dfba3095198f08d26ad3d406fe8841c89b80eab7f627233376',,,,
+https://www.egitenkitap.com/image/cache/catalog/products_2024/9365-400x580.jpg,rejected,too_small 400x580,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3671288072915240407,error,download: cannot identify image file <_io.BytesIO object at 0x399f15030>,,,,
+https://www.sacekimisonuclari.com/index.php?action=dlattach;topic=33161.0;attach=495312;image,rejected,too_small 500x375,,,,
+https://bulutklinik-pb.s3.eu-west-1.amazonaws.com/doctors/profile/160385/ILBdONvwznVyRWoFkpCX985DP1iSZt,rejected,too_small 500x500,,,,
+https://imgv2-1-f.scribdassets.com/img/document/576443903/original/befd2f5d66/1?v=1,rejected,clip_threshold,0.18109481036663055,0.16118592023849487,0.01990889012813568,1861.2046788533464
+https://www.yumpu.com/tr/image/facebook/16136911.jpg,rejected,clip_threshold,0.2140478491783142,0.15967123210430145,0.054376617074012756,3372.9158961323765
+https://media.invisioncic.com/o278943/monthly_2025_04/Bekir-Bek-8-after.jpg.894313474d3941442a173eeca1b204c5.jpg,rejected,clip_threshold,0.25364217162132263,0.1677243858575821,0.08591778576374054,174.7705179303253
+https://imganuncios.mitula.net/yuva_mah_bulvar_uzeri_ada_gross_yakininda_55_m2_i_yeri_1400001750028868462.jpg,rejected,too_small 640x480,,,,
+https://www.sacekimisonuclari.com/index.php?action=dlattach;topic=33335.0;attach=497878;image,rejected,too_small 375x500,,,,
+https://www.sacekimisonuclari.com/index.php?action=dlattach;topic=33335.0;attach=497866;image,rejected,too_small 400x500,,,,
+https://hairtransplantnetwork.com/sites/default/files/styles/profile_thumbnail_meduim/public/images/untitled-design-60.png?itok=jRsRzE1Y,rejected,too_small 64x64,,,,
+https://www.yumpu.com/en/image/facebook/22920299.jpg,rejected,clip_threshold,0.1598588526248932,0.15757080912590027,0.00228804349899292,499.8586278597869
+https://malatyahaber.com/fotolar/2024/09/inonu-universitesi-rektorlugune-atama-yapildi-20240921003021.jpg,rejected,too_small 990x560,,,,
+https://s1.studylibtr.com/store/data/001885799_1-f095913a21f191e8bf1a0bce72aefec7-768x994.png,rejected,clip_threshold,0.1725926399230957,0.19688116014003754,-0.024288520216941833,1254.2676344244344
+https://www.tiktok.com/api/img/?itemId=7528359958484651271&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7528359958484651271&location=0&aid=1988,,,,
+https://w3.sdu.edu.tr/foto.aspx?sicil_no=03585,rejected,clip_threshold,0.22330036759376526,0.17365778982639313,0.04964257776737213,178.5931918895765
+https://imgv2-1-f.scribdassets.com/img/document/396926172/original/046038e2c7/1?v=1,rejected,clip_threshold,0.175032839179039,0.1544158011674881,0.020617038011550903,2102.352623772805
+https://images.provenexpert.com/00/14/9b9d4f43712216088f8bb245cd29/haartransplantation-vergleich-de_full_1497171456.jpg,rejected,too_small 344x344,,,,
+https://i1.rgstatic.net/ii/profile.image/272181544353810-1441904545450_Q512/Bekir-Kuru.jpg,rejected,too_small 512x512,,,,
+x-raw-image:///623819254559673d2374e8a3ae1162d797114aade4353709cdfdcf9d9d8f57ea,error,download: No connection adapters were found for 'x-raw-image:///623819254559673d2374e8a3ae1162d797114aade4353709cdfdcf9d9d8f57ea',,,,
+x-raw-image:///541ef71b1666dfa10a2c8ec011bb7da46775bbf814b8952b9d5be865347bb47a,error,download: No connection adapters were found for 'x-raw-image:///541ef71b1666dfa10a2c8ec011bb7da46775bbf814b8952b9d5be865347bb47a',,,,
+x-raw-image:///aaa0a057103a2eb9d0747ab081986d9692d5878f454ba3e54bcb66c77a5fce4f,error,download: No connection adapters were found for 'x-raw-image:///aaa0a057103a2eb9d0747ab081986d9692d5878f454ba3e54bcb66c77a5fce4f',,,,
+https://unis.trakya.edu.tr/app_files/2024/10/Kisi_Logo_2441_98bf4ce8.jpg,error,"download: HTTPSConnectionPool(host='unis.trakya.edu.tr', port=443): Max retries exceeded with url: /app_files/2024/10/Kisi_Logo_2441_98bf4ce8.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",,,,
+x-raw-image:///6a14cd048ade4f0adac14a8c3478e81991540547e67ce3c7cd71a8d987383f60,error,download: No connection adapters were found for 'x-raw-image:///6a14cd048ade4f0adac14a8c3478e81991540547e67ce3c7cd71a8d987383f60',,,,
+x-raw-image:///ed8ae13208b02a3af8d7ef59350a94c3257ab447fe422e45d3986210ce272565,error,download: No connection adapters were found for 'x-raw-image:///ed8ae13208b02a3af8d7ef59350a94c3257ab447fe422e45d3986210ce272565',,,,
+x-raw-image:///d524a65851764eb7e4fddde89da4d7884e643f919a490df0006b29970bd8cbb4,error,download: No connection adapters were found for 'x-raw-image:///d524a65851764eb7e4fddde89da4d7884e643f919a490df0006b29970bd8cbb4',,,,
+https://www.mu.edu.tr/asset/images/img2.jpg,rejected,too_small 325x155,,,,
+x-raw-image:///a4e143aaa9fc00570c8081f388ed0d96b631f1cce82c6ba5d9ccb3d164c7f657,error,download: No connection adapters were found for 'x-raw-image:///a4e143aaa9fc00570c8081f388ed0d96b631f1cce82c6ba5d9ccb3d164c7f657',,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=951040287166271,error,download: cannot identify image file <_io.BytesIO object at 0x16135ac00>,,,,
+x-raw-image:///5b3ddcd56e683328f6f847a39f11320df21e584b2c6ff818fcbd8d7e3038b7ee,error,download: No connection adapters were found for 'x-raw-image:///5b3ddcd56e683328f6f847a39f11320df21e584b2c6ff818fcbd8d7e3038b7ee',,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1206294208202478,error,download: cannot identify image file <_io.BytesIO object at 0x1619e7380>,,,,
+x-raw-image:///ff33f8e136d401d9417bd434db89d33873d1457b224af86c64bd3ee788bb9beb,error,download: No connection adapters were found for 'x-raw-image:///ff33f8e136d401d9417bd434db89d33873d1457b224af86c64bd3ee788bb9beb',,,,
+https://www.tiktok.com/api/img/?itemId=7522282960519777543&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7522282960519777543&location=0&aid=1988,,,,
+x-raw-image:///28072072ad1525003bb301d28a4b113cfa94ba97cf49e2d9b5a130c477927ebe,error,download: No connection adapters were found for 'x-raw-image:///28072072ad1525003bb301d28a4b113cfa94ba97cf49e2d9b5a130c477927ebe',,,,
+https://www.tiktok.com/api/img/?itemId=7531288118360591623&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7531288118360591623&location=0&aid=1988,,,,
+https://medihair.com/wp-content/uploads/2021/08/Medihair_Clinic_Profil_Img_1.jpg,rejected,too_small 870x580,,,,
+https://www.tarsus.edu.tr/Images/Uploads/MyContents/29975-20250717101155951380.jpg,rejected,clip_threshold,0.17398305237293243,0.1923384964466095,-0.018355444073677063,262.5845185987427
+https://bulutklinik-pb.s3.eu-west-1.amazonaws.com/doctors/profile/159335/ja4QMbJOgTqiVhCe72F9wvUyoKDLc8,rejected,too_small 500x500,,,,
+https://i1.rgstatic.net/publication/269697690_Prevalence_and_Antimicrobial_Susceptibilities_of_Anaerobic_Bacteria_Isolated_from_Perforated_Corneal_Ulcers_by_Culture_and_Multiplex_PCR_An_Evaluation_in_Cases_with_Keratitis_and_Endophthalmitis_Clin_/links/54d700460cf25013d0360f61/largepreview.png,rejected,clip_threshold,0.20394639670848846,0.18881934881210327,0.015127047896385193,9366.308651899662
+https://i1.rgstatic.net/publication/273362323_Ankilozan_Spondilitli_Hastalarda_Yas_ve_Cinsiyete_gore_Duzeltilmis_Gogus_Ekspansiyonunun_Klinik_Pratikte_Kullanimi/links/569a9e5a08aea147694f4506/largepreview.png,rejected,clip_threshold,0.19134831428527832,0.1410791575908661,0.05026915669441223,8401.4204342246
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=873176137510806,error,download: cannot identify image file <_io.BytesIO object at 0x16194ea70>,,,,
+https://i1.rgstatic.net/publication/5668959_An_evaluation_of_eight_cases_of_intraosseous_lipoma/links/5403f40d0cf23d9765a5d5b2/largepreview.png,rejected,clip_threshold,0.17240718007087708,0.1468980759382248,0.025509104132652283,12757.571360934618
+http://galeri3.arkitera.com/var/thumbs/ARKIV-06/atakoy-klinik-ve-ofis/atakoy_klinik%20(1).jpg.jpeg,rejected,too_small 300x225,,,,
+x-raw-image:///68032eae525b2911592f918fe205bbd39bc2438aa88c4617f5ec3ea7d7b075c1,error,download: No connection adapters were found for 'x-raw-image:///68032eae525b2911592f918fe205bbd39bc2438aa88c4617f5ec3ea7d7b075c1',,,,
+http://galeri3.arkitera.com/var/thumbs/ARKIV-06/klinik-29/slasharchitects-Clinic-29-01.jpg.jpeg,rejected,too_small 300x225,,,,
+x-raw-image:///586f9aab2e53df41d8a1f15a7024fb8228cf3009040612ddd0ac1cc25baca7ad,error,download: No connection adapters were found for 'x-raw-image:///586f9aab2e53df41d8a1f15a7024fb8228cf3009040612ddd0ac1cc25baca7ad',,,,
+x-raw-image:///77138b217420e8700d042afb57e26cb4d7fe1ed62d35f8f35c593fd6b5326b82,error,download: No connection adapters were found for 'x-raw-image:///77138b217420e8700d042afb57e26cb4d7fe1ed62d35f8f35c593fd6b5326b82',,,,
+https://medihair.com/wp-content/uploads/2021/08/Medihair_Clinic_Profil_Img_15.jpg,rejected,too_small 870x580,,,,
+https://www.egitenkitap.com/image/cache/catalog/products_2024/1832-400x580w.jpg,rejected,too_small 400x580,,,,
+https://online.fliphtml5.com/msbqq/mkib/files/shot.jpg,rejected,too_small 339x480,,,,
+x-raw-image:///0afb40f95ce44af7385d96c05f1649ef5e2006a52997ba675a05d08da06e58df,error,download: No connection adapters were found for 'x-raw-image:///0afb40f95ce44af7385d96c05f1649ef5e2006a52997ba675a05d08da06e58df',,,,
+https://i1.rgstatic.net/ii/profile.image/272441649922049-1441966559139_Q512/Murat-Hokelek.jpg,rejected,too_small 512x512,,,,
+https://bulutklinik-pb.s3.eu-west-1.amazonaws.com/doctors/profile/162528/xa5wGCJ2IPXEAfgp8k7tiOQB0Ldu3s,rejected,too_small 500x500,,,,
+https://s1.studylibtr.com/store/data/001462199_1-62f85face36a335199430742b736e464-768x994.png,rejected,clip_threshold,0.17246994376182556,0.19674037396907806,-0.024270430207252502,1246.3498726167022
+x-raw-image:///0c075e0d9aa20df2a10521fff5d46271300fd2bc16c69240d618f63bb3236d6e,error,download: No connection adapters were found for 'x-raw-image:///0c075e0d9aa20df2a10521fff5d46271300fd2bc16c69240d618f63bb3236d6e',,,,
+x-raw-image:///4a12603135f0f6c354daf6c7ef2afca11f79b1a74f25fe32446e942e1da75dd1,error,download: No connection adapters were found for 'x-raw-image:///4a12603135f0f6c354daf6c7ef2afca11f79b1a74f25fe32446e942e1da75dd1',,,,
+https://bulutklinik-pb.s3.eu-west-1.amazonaws.com/doctors/profile/26002/4wJcmd6zG2sWpUiT5Vfn8IvRgFrEMO.jpg,rejected,too_small 529x530,,,,
+x-raw-image:///013cfb67410ac111f111e590ce7d072aeb065df5163b86ce23e67449e921314c,error,download: No connection adapters were found for 'x-raw-image:///013cfb67410ac111f111e590ce7d072aeb065df5163b86ce23e67449e921314c',,,,
+https://online.fliphtml5.com/hsucp/wbva/files/large/1.webp?1618234810&1618234810,rejected,clip_threshold,0.15451449155807495,0.19181253015995026,-0.037298038601875305,2469.6114166666666
+x-raw-image:///63b7be9d9c37ca873fe5b45bcbf3cfaeeea9afdb80ba4c1b37d1d3c09bba1ef6,error,download: No connection adapters were found for 'x-raw-image:///63b7be9d9c37ca873fe5b45bcbf3cfaeeea9afdb80ba4c1b37d1d3c09bba1ef6',,,,
+x-raw-image:///f6cd2ccfa59f14a29a79a38c3db519d45556b2263c4d4760c9fad135c50f3152,error,download: No connection adapters were found for 'x-raw-image:///f6cd2ccfa59f14a29a79a38c3db519d45556b2263c4d4760c9fad135c50f3152',,,,
+x-raw-image:///9e5c8394ed7ec5d7e9f32c433c492dd664fe32021bae31fb49ae30fe2339ae5b,error,download: No connection adapters were found for 'x-raw-image:///9e5c8394ed7ec5d7e9f32c433c492dd664fe32021bae31fb49ae30fe2339ae5b',,,,
+x-raw-image:///446b21359f710cff320cfb4d3dffbbda7d8a1e9c973c03e9353af8e05d9f8e5c,error,download: No connection adapters were found for 'x-raw-image:///446b21359f710cff320cfb4d3dffbbda7d8a1e9c973c03e9353af8e05d9f8e5c',,,,
+http://www.mikrobiyolbul.org/managete/fu_folder/2018-04/images/2018-52-4-431-438-Resim1.jpg,rejected,too_small 619x443,,,,
+https://www.halkkitabevi.com/u/halkkitabevi/img/a/m/u/mujdat-gezenle-kurek-cekmek0b63706e7e4bae3c5370d1e543da16e7.png,rejected,too_small 239x250,,,,
+x-raw-image:///2aff1e7305a75d893000131571566f39b8a482c6f37906bd292f5f4ffd9555b8,error,download: No connection adapters were found for 'x-raw-image:///2aff1e7305a75d893000131571566f39b8a482c6f37906bd292f5f4ffd9555b8',,,,
+https://kibo.com.tr/kbservicefiles/kbimagepublic/0/prd/2/4/KB9786052999042.JPG,rejected,too_small 285x406,,,,
+x-raw-image:///701ad5fbd21e19f5b01c29e44cf7d896fd11b3a665540707d9167273169ec369,error,download: No connection adapters were found for 'x-raw-image:///701ad5fbd21e19f5b01c29e44cf7d896fd11b3a665540707d9167273169ec369',,,,
+x-raw-image:///a0d1fc926b3db8a3f8edb2dcb631cdb5070c8827a5c41d4c14d89d2e836584fe,error,download: No connection adapters were found for 'x-raw-image:///a0d1fc926b3db8a3f8edb2dcb631cdb5070c8827a5c41d4c14d89d2e836584fe',,,,
+x-raw-image:///6eb2db67bdfdd77310f365aaae45e2bbb48881097b57e6193ccdde5c2beaf459,error,download: No connection adapters were found for 'x-raw-image:///6eb2db67bdfdd77310f365aaae45e2bbb48881097b57e6193ccdde5c2beaf459',,,,
+x-raw-image:///eb66ddf14e6a7d3b8047953098d94ebeeaa57a612825983248912c90a4129e91,error,download: No connection adapters were found for 'x-raw-image:///eb66ddf14e6a7d3b8047953098d94ebeeaa57a612825983248912c90a4129e91',,,,
+x-raw-image:///9e6028dd188cc49895a62d9da835e5d9c3f2315b5f5e1388e93422c283f13611,error,download: No connection adapters were found for 'x-raw-image:///9e6028dd188cc49895a62d9da835e5d9c3f2315b5f5e1388e93422c283f13611',,,,
+https://bulutklinik-pb.s3.eu-west-1.amazonaws.com/doctors/profile/160013/Q4RPaNHOuCfoEyBw6FcUneMGW8iTDb,rejected,too_small 500x500,,,,
+x-raw-image:///016c0a0165aa625e972c2d8f72e304095b492c6508f9700c3f533d3a4a241d8b,error,download: No connection adapters were found for 'x-raw-image:///016c0a0165aa625e972c2d8f72e304095b492c6508f9700c3f533d3a4a241d8b',,,,
+x-raw-image:///5db19f0ee0dcfc4bedc4e6438c673958f0f9ccaba58dcffa7033e833f577cd69,error,download: No connection adapters were found for 'x-raw-image:///5db19f0ee0dcfc4bedc4e6438c673958f0f9ccaba58dcffa7033e833f577cd69',,,,
+x-raw-image:///8d7ae9044fd5d2b07aa4879f765cd7b9be6eb3f7a44528dc20d7ac05a6bddeeb,error,download: No connection adapters were found for 'x-raw-image:///8d7ae9044fd5d2b07aa4879f765cd7b9be6eb3f7a44528dc20d7ac05a6bddeeb',,,,
+x-raw-image:///c909ad89cfa8dc213b41e74a35722175bca32e86d3cef5b9f7a8ba732eca7286,error,download: No connection adapters were found for 'x-raw-image:///c909ad89cfa8dc213b41e74a35722175bca32e86d3cef5b9f7a8ba732eca7286',,,,
+https://www.yumpu.com/tr/image/facebook/6402290.jpg,rejected,clip_threshold,0.2110518366098404,0.17596110701560974,0.03509072959423065,184.59443740103632
+x-raw-image:///794d492798c159a086fb4c6d37224746b2de859e04915bab4ad169efa688d01d,error,download: No connection adapters were found for 'x-raw-image:///794d492798c159a086fb4c6d37224746b2de859e04915bab4ad169efa688d01d',,,,
+x-raw-image:///ec9aa92a1d53b5b30f8a6130707f567ea2063c669b7ac0229964d9f232c75c62,error,download: No connection adapters were found for 'x-raw-image:///ec9aa92a1d53b5b30f8a6130707f567ea2063c669b7ac0229964d9f232c75c62',,,,
+x-raw-image:///28e9a5c9660b5db23760863e6670ba7bc0c68ada4a6f730960494f7970d50c1c,error,download: No connection adapters were found for 'x-raw-image:///28e9a5c9660b5db23760863e6670ba7bc0c68ada4a6f730960494f7970d50c1c',,,,
+https://0.academia-photos.com/attachment_thumbnails/51290160/mini_magick20190125-29593-2x9jpy.png?1548480472,rejected,too_small 567x794,,,,
+https://0.academia-photos.com/attachment_thumbnails/58565246/mini_magick20240804-1-jh2shb.png?1722738578,rejected,too_small 595x842,,,,
+https://imgv2-1-f.scribdassets.com/img/document/498883024/original/f2c203fe4f/1?v=1,rejected,clip_threshold,0.13027514517307281,0.15032842755317688,-0.020053282380104065,184.10759351786524
+https://medihair.com/wp-content/uploads/2021/08/Medihair_Clinic_Profil_Img_20.jpg,rejected,too_small 870x580,,,,
+https://www.egitenkitap.com/image/cache/catalog/products_2024/9538-400x580w.jpg,rejected,too_small 400x580,,,,
+https://imgv2-1-f.scribdassets.com/img/document/396926172/298x396/33709f0183/1547123619?v=1,rejected,too_small 298x396,,,,
+http://tarsus.edu.tr/Images/Uploads/MyContents/29999-20250825142129604529.jpg,rejected,clip_threshold,0.15738245844841003,0.181425541639328,-0.02404308319091797,309.4507799536001
+https://bulutklinik-pb.s3.eu-west-1.amazonaws.com/doctors/profile/29677/5DKOpH0bcnjt3vSI7MYiJzWXqUFfZd.jpg,rejected,too_small 530x530,,,,
+https://img.yumpu.com/15355614/1/500x640/tklaynz-turk-pediatrik-kardiyoloji-ve-kalp-cerrahisi-dernegi.jpg,rejected,too_small 451x640,,,,
+https://img.yumpu.com/31286594/1/500x640/diabetes-mellitus-ve-komplikasyonlaranan-tanatedavi-ve-izlem-.jpg,rejected,too_small 422x640,,,,
+https://www.egitenkitap.com/image/cache/catalog/products_2024/WhatsApp-Image-2024-07-29-at-16.37.28-400x580w.jpg,rejected,too_small 400x580,,,,
+x-raw-image:///3a84c2a1897ed517770b8774a4c05bc2c4712d9547a7b70af9df57236b73fdbd,error,download: No connection adapters were found for 'x-raw-image:///3a84c2a1897ed517770b8774a4c05bc2c4712d9547a7b70af9df57236b73fdbd',,,,
+x-raw-image:///8eaa54202fb2f6df6bc6b0e2336bc2b149163030bd2c00b00072edffdb3f9249,error,download: No connection adapters were found for 'x-raw-image:///8eaa54202fb2f6df6bc6b0e2336bc2b149163030bd2c00b00072edffdb3f9249',,,,
+x-raw-image:///0a68e955a5a0e6eebf4c5b4ff315482c043af58b510ac4d3b6ec267b53c5c2a3,error,download: No connection adapters were found for 'x-raw-image:///0a68e955a5a0e6eebf4c5b4ff315482c043af58b510ac4d3b6ec267b53c5c2a3',,,,
+x-raw-image:///f17a1de75ae7aabce2f2ad1d044c405b1d86b0119e8d3fceadcc8f68719e6a50,error,download: No connection adapters were found for 'x-raw-image:///f17a1de75ae7aabce2f2ad1d044c405b1d86b0119e8d3fceadcc8f68719e6a50',,,,
+x-raw-image:///462a1d881fee36443bea90765ee22dc3d6284c14fce250d43c4df68a1d040689,error,download: No connection adapters were found for 'x-raw-image:///462a1d881fee36443bea90765ee22dc3d6284c14fce250d43c4df68a1d040689',,,,
+x-raw-image:///eb4e6277960369d6f42ba2bcaf3be535685f84775f61ec7e4e2c19f2d030ccba,error,download: No connection adapters were found for 'x-raw-image:///eb4e6277960369d6f42ba2bcaf3be535685f84775f61ec7e4e2c19f2d030ccba',,,,
+x-raw-image:///2958587feb0c0a5ab2f04ef32e500305c000bf33ef0eab964a77b29cc1a47cfd,error,download: No connection adapters were found for 'x-raw-image:///2958587feb0c0a5ab2f04ef32e500305c000bf33ef0eab964a77b29cc1a47cfd',,,,
+x-raw-image:///92273660ac226bec08d63ee6febb8ee9dc509cfbd4ec77a8673a2c9743dadaf6,error,download: No connection adapters were found for 'x-raw-image:///92273660ac226bec08d63ee6febb8ee9dc509cfbd4ec77a8673a2c9743dadaf6',,,,
+x-raw-image:///e56c9ba24b451bb6e0128c92314bb357ec8140d71a095ea1b728fd9a33c8bd30,error,download: No connection adapters were found for 'x-raw-image:///e56c9ba24b451bb6e0128c92314bb357ec8140d71a095ea1b728fd9a33c8bd30',,,,
+x-raw-image:///b1386300a8a203ca35e60ba08d2e2f3853c455990f043bec9e95755227db7c3f,error,download: No connection adapters were found for 'x-raw-image:///b1386300a8a203ca35e60ba08d2e2f3853c455990f043bec9e95755227db7c3f',,,,
+x-raw-image:///5fdd60237df75e6230b7ffe5b8da72bf64aa6cd3123e0379c8e2d98e03c8077c,error,download: No connection adapters were found for 'x-raw-image:///5fdd60237df75e6230b7ffe5b8da72bf64aa6cd3123e0379c8e2d98e03c8077c',,,,
+x-raw-image:///8c06e9d6abdc4451a7cacdb4fb3c2041061bcf38d6a225571d7e9c46fec417e5,error,download: No connection adapters were found for 'x-raw-image:///8c06e9d6abdc4451a7cacdb4fb3c2041061bcf38d6a225571d7e9c46fec417e5',,,,
+x-raw-image:///a381abaa5ae6a2b02a038c82f1b4ffd5df75013483fb57ff2ac3a2e8d304e8fa,error,download: No connection adapters were found for 'x-raw-image:///a381abaa5ae6a2b02a038c82f1b4ffd5df75013483fb57ff2ac3a2e8d304e8fa',,,,
+x-raw-image:///80c29b75686d32c9b9dd7878e16147260f41a66f446694f52fed3f377141b3ad,error,download: No connection adapters were found for 'x-raw-image:///80c29b75686d32c9b9dd7878e16147260f41a66f446694f52fed3f377141b3ad',,,,
+x-raw-image:///10f66bd21ec427d9d9e5d5fb7adcdc5c7c3f6833b62c95d9ebd9ddd06f015aea,error,download: No connection adapters were found for 'x-raw-image:///10f66bd21ec427d9d9e5d5fb7adcdc5c7c3f6833b62c95d9ebd9ddd06f015aea',,,,
+x-raw-image:///44c569af872f2c514dd274269b2d403b101c6f84a09d6c40b83ebe17afc734bf,error,download: No connection adapters were found for 'x-raw-image:///44c569af872f2c514dd274269b2d403b101c6f84a09d6c40b83ebe17afc734bf',,,,
+x-raw-image:///f27dc5a2e26f47a6dc1bb50acf2706ff6638206d2379face28abe6a639cb811a,error,download: No connection adapters were found for 'x-raw-image:///f27dc5a2e26f47a6dc1bb50acf2706ff6638206d2379face28abe6a639cb811a',,,,
+x-raw-image:///264fba3320925d67e9b9e21a0269e982953e4e88828a42fd5853eb1ee8ccfbe9,error,download: No connection adapters were found for 'x-raw-image:///264fba3320925d67e9b9e21a0269e982953e4e88828a42fd5853eb1ee8ccfbe9',,,,
+https://s3.cloud.ngn.com.tr/kitantik/images/2025-02-23/1br9qfwm7go9lri1c0c-thumb.jpg,rejected,too_small 187x249,,,,
+x-raw-image:///e98ca786dc936a2a07fa9247eab9e873e91b0ad825b2b8a9146ef3dde1db337e,error,download: No connection adapters were found for 'x-raw-image:///e98ca786dc936a2a07fa9247eab9e873e91b0ad825b2b8a9146ef3dde1db337e',,,,
+x-raw-image:///12689a1190e27b5b142ddcf9c36ce02a71dec9c622a7f0aebd3828876b113ceb,error,download: No connection adapters were found for 'x-raw-image:///12689a1190e27b5b142ddcf9c36ce02a71dec9c622a7f0aebd3828876b113ceb',,,,
+x-raw-image:///f1f7437fd0344518bf92b3a03f6365d8fccaf476dfebf4a1b1e19b07b7e21b73,error,download: No connection adapters were found for 'x-raw-image:///f1f7437fd0344518bf92b3a03f6365d8fccaf476dfebf4a1b1e19b07b7e21b73',,,,
+https://www.egitenkitap.com/image/cache/catalog/products_2024/9909-400x580.jpg,rejected,too_small 400x580,,,,
+https://makpirtuk.de/wp-content/uploads/2024/05/9786050848069.jpg,rejected,too_small 382x600,,,,
+x-raw-image:///27a9d79b1a09cb531fe3963df9fade2f3cb2d1d8782b3d9a8a7536a8c4df48cc,error,download: No connection adapters were found for 'x-raw-image:///27a9d79b1a09cb531fe3963df9fade2f3cb2d1d8782b3d9a8a7536a8c4df48cc',,,,
+https://s1.studylibtr.com/store/data/001675003_1-92b893cedced4bca4f0c3f6a65973a3b-768x994.png,rejected,clip_threshold,0.19865302741527557,0.1910109668970108,0.0076420605182647705,597.1243764671361
+https://imgv2-2-f.scribdassets.com/img/document/732737583/298x396/8e36c46478/1751828537?v=1,rejected,too_small 298x396,,,,
+x-raw-image:///34416499b25aa3895d0d8f823c2ee524f2dff64cd7785f05fa35b9c856863d82,error,download: No connection adapters were found for 'x-raw-image:///34416499b25aa3895d0d8f823c2ee524f2dff64cd7785f05fa35b9c856863d82',,,,
+x-raw-image:///90449725db269609bc4b1be02662f918b089212365043345ed67b70ef76cc11a,error,download: No connection adapters were found for 'x-raw-image:///90449725db269609bc4b1be02662f918b089212365043345ed67b70ef76cc11a',,,,
+x-raw-image:///23aeb637db308137285ee3444c5c5d231732cf08618b118d9d7c5cea2f5b8527,error,download: No connection adapters were found for 'x-raw-image:///23aeb637db308137285ee3444c5c5d231732cf08618b118d9d7c5cea2f5b8527',,,,
+x-raw-image:///ebaa07a91f10935e8dd87d169ac172590b9eff9c7af66e20418dcb9979d60dfd,error,download: No connection adapters were found for 'x-raw-image:///ebaa07a91f10935e8dd87d169ac172590b9eff9c7af66e20418dcb9979d60dfd',,,,
+https://media.babil.com/kitap/2185239_saglikta-butce-dagilimi_140_36539.jpeg,rejected,too_small 140x206,,,,
+x-raw-image:///b0429f450619500b9b2e0fd71479e244c4738464c63075000a29214854b376a2,error,download: No connection adapters were found for 'x-raw-image:///b0429f450619500b9b2e0fd71479e244c4738464c63075000a29214854b376a2',,,,
+x-raw-image:///22c3fa5e15f54b13360706b9ed8761cb785d69611f7ed1919e1a749949370ac5,error,download: No connection adapters were found for 'x-raw-image:///22c3fa5e15f54b13360706b9ed8761cb785d69611f7ed1919e1a749949370ac5',,,,
+x-raw-image:///c17d1305f6135cc0a4d34bd8c0f730ea6a615bd5600ce3ad939c3275e39e38a5,error,download: No connection adapters were found for 'x-raw-image:///c17d1305f6135cc0a4d34bd8c0f730ea6a615bd5600ce3ad939c3275e39e38a5',,,,
+x-raw-image:///8b4d975a1ded7687b857ef38230ba75e4461a5ac64d94e289192f2224ebb2cda,error,download: No connection adapters were found for 'x-raw-image:///8b4d975a1ded7687b857ef38230ba75e4461a5ac64d94e289192f2224ebb2cda',,,,
+x-raw-image:///c51f1ff33d83b2b7f41000095c5c4f0f76c8fb61bfd503fc6ad0ef9050a42f91,error,download: No connection adapters were found for 'x-raw-image:///c51f1ff33d83b2b7f41000095c5c4f0f76c8fb61bfd503fc6ad0ef9050a42f91',,,,
+https://www.kitapstore.com/Gorsel/Urun/72/722570-1.jpg?Width=160,rejected,too_small 160x255,,,,
+x-raw-image:///c8be2692279533a98467281c18efe5932a46afaf9c4becb0e425aea76f13d572,error,download: No connection adapters were found for 'x-raw-image:///c8be2692279533a98467281c18efe5932a46afaf9c4becb0e425aea76f13d572',,,,
+https://www.dogushaberajansi.com/static/2024/11/17/gso-gaziantep-in-yildizlari-2024-odul-toreni-gerceklestirildi-1731809287-389_small.jpg,rejected,too_small 405x270,,,,
+x-raw-image:///a0f5ff13e6c6a5deea0312545570904237c295673587013b19aea5204c68de99,error,download: No connection adapters were found for 'x-raw-image:///a0f5ff13e6c6a5deea0312545570904237c295673587013b19aea5204c68de99',,,,
+x-raw-image:///01a1316ae88889e05a674e91322226905e05bb96ef3dca35c352888ce24ec73e,error,download: No connection adapters were found for 'x-raw-image:///01a1316ae88889e05a674e91322226905e05bb96ef3dca35c352888ce24ec73e',,,,
+x-raw-image:///f07967f4dc106259dcbd47973dc43c18bbe2be268d42af54cc3a400eb340372a,error,download: No connection adapters were found for 'x-raw-image:///f07967f4dc106259dcbd47973dc43c18bbe2be268d42af54cc3a400eb340372a',,,,
+x-raw-image:///f2fd534f753a0867f1fcf651377b4e912a7a29c4574ab0a98833c8735d1a503f,error,download: No connection adapters were found for 'x-raw-image:///f2fd534f753a0867f1fcf651377b4e912a7a29c4574ab0a98833c8735d1a503f',,,,
+https://i.dr.com.tr/cache/180x245-0/originals/0002010042001-1.jpg,rejected,too_small 168x245,,,,
+x-raw-image:///053c9224db6f967ef3669239bf059a41bc8dfc51ac1e722ef3cec91bb733c4a4,error,download: No connection adapters were found for 'x-raw-image:///053c9224db6f967ef3669239bf059a41bc8dfc51ac1e722ef3cec91bb733c4a4',,,,
+x-raw-image:///2287fc0fad938ea3e13572ddbba9d0ba471b2ac3dae008cf8474c4a769020e76,error,download: No connection adapters were found for 'x-raw-image:///2287fc0fad938ea3e13572ddbba9d0ba471b2ac3dae008cf8474c4a769020e76',,,,
+x-raw-image:///9ede42244b5017825d8008bc8a33924a7c8267df7e54f8affb6c2e17173a4aff,error,download: No connection adapters were found for 'x-raw-image:///9ede42244b5017825d8008bc8a33924a7c8267df7e54f8affb6c2e17173a4aff',,,,
+x-raw-image:///ef43c21b1eb26f94f6d02f3a229be851b7427c23dca64a5f2a377789230196f3,error,download: No connection adapters were found for 'x-raw-image:///ef43c21b1eb26f94f6d02f3a229be851b7427c23dca64a5f2a377789230196f3',,,,
+x-raw-image:///e38428ac2dad3167be30e3ace958a1da8ef4920060a11e4be5b7ad5e04d47d9c,error,download: No connection adapters were found for 'x-raw-image:///e38428ac2dad3167be30e3ace958a1da8ef4920060a11e4be5b7ad5e04d47d9c',,,,
+x-raw-image:///48da256c7eb3fde17fa2e097f7e244727719c5e3a9b933fa893d42bf4cf399b0,error,download: No connection adapters were found for 'x-raw-image:///48da256c7eb3fde17fa2e097f7e244727719c5e3a9b933fa893d42bf4cf399b0',,,,
+x-raw-image:///2663718fb2b42099342f61d714ca00ca0195061bed25ea35da849d38a8e8f6c3,error,download: No connection adapters were found for 'x-raw-image:///2663718fb2b42099342f61d714ca00ca0195061bed25ea35da849d38a8e8f6c3',,,,
+x-raw-image:///4a528e7f2e207200bd6be533ce77f107697f76a2ce59de471b28588fbf3b6244,error,download: No connection adapters were found for 'x-raw-image:///4a528e7f2e207200bd6be533ce77f107697f76a2ce59de471b28588fbf3b6244',,,,
+x-raw-image:///098d589c9bddfc643c3b6431138a2565bb90a5c8f26b3c58343f5a8881ee67a1,error,download: No connection adapters were found for 'x-raw-image:///098d589c9bddfc643c3b6431138a2565bb90a5c8f26b3c58343f5a8881ee67a1',,,,
+https://cdn.iuc.edu.tr/FileHandler.ashx?f=Xz9xIa0P3UOaCS2DBDX4pw,rejected,clip_threshold,0.1928865760564804,0.1755155622959137,0.01737101376056671,1558.0395010288066
+x-raw-image:///8e5373f1563e69ceb33d36419f3cb9dcde9805b7aaabbe1c6839767f0f557989,error,download: No connection adapters were found for 'x-raw-image:///8e5373f1563e69ceb33d36419f3cb9dcde9805b7aaabbe1c6839767f0f557989',,,,
+x-raw-image:///9dd954b373f0393c466282f3f9d0bb57347d799aa811d9dcee92131b6d310f5e,error,download: No connection adapters were found for 'x-raw-image:///9dd954b373f0393c466282f3f9d0bb57347d799aa811d9dcee92131b6d310f5e',,,,
+https://kardelengazetesi.com/resimler/2024-6/4/33701541217716.webp,rejected,clip_threshold,0.16030989587306976,0.19334723055362701,-0.03303733468055725,422.52455963302754
+x-raw-image:///67e9844299fd903e1113860a364f7b916086cc33d4647c329b82f89c69458290,error,download: No connection adapters were found for 'x-raw-image:///67e9844299fd903e1113860a364f7b916086cc33d4647c329b82f89c69458290',,,,
+x-raw-image:///1e7ac4561d204616aa80e641ee1c26fc3995ac1a4741f53d58320efd75cf711a,error,download: No connection adapters were found for 'x-raw-image:///1e7ac4561d204616aa80e641ee1c26fc3995ac1a4741f53d58320efd75cf711a',,,,
+https://media.licdn.com/dms/image/v2/D4D22AQEBOTOtXMyAQA/feedshare-shrink_800/B4DZhm3JWYH4Ag-/0/1754072390057?e=2147483647&v=beta&t=_F3lS4r9FhxVdEZeyE13q6D7JWhLL7qDCzcQtXpUjJw,rejected,clip_threshold,0.16874445974826813,0.16995014250278473,-0.0012056827545166016,304.2581220407657
+x-raw-image:///16232092bfcf3a60ab543e69ccce34ef5c87a9d0b6391a684e100c77def334af,error,download: No connection adapters were found for 'x-raw-image:///16232092bfcf3a60ab543e69ccce34ef5c87a9d0b6391a684e100c77def334af',,,,
+x-raw-image:///2a53063ce84f76374d310a197975de75d7ebd0668a700d2ee4d2af13c5232d5f,error,download: No connection adapters were found for 'x-raw-image:///2a53063ce84f76374d310a197975de75d7ebd0668a700d2ee4d2af13c5232d5f',,,,
+https://cdn.iuc.edu.tr/FileHandler.ashx?f=cSe8vNFkJEqbW3OSfPnbEA,rejected,clip_threshold,0.16763128340244293,0.18735462427139282,-0.01972334086894989,1729.9837757201647
+https://image.milimaj.com/i/milliyet/75/0x0/5fbfa0255542841134225393.jpg,rejected,clip_threshold,0.22877536714076996,0.2024604231119156,0.02631494402885437,183.79297508743082
+x-raw-image:///f89df3c8cd652ed0352dd5f34abf6a21bf79af12cc5a7a27e23b1f1867f0842f,error,download: No connection adapters were found for 'x-raw-image:///f89df3c8cd652ed0352dd5f34abf6a21bf79af12cc5a7a27e23b1f1867f0842f',,,,
+x-raw-image:///b976aec80f07c3580021455987078231a1a0bd3dc18a23bcd83f3a55ff8d4f0c,error,download: No connection adapters were found for 'x-raw-image:///b976aec80f07c3580021455987078231a1a0bd3dc18a23bcd83f3a55ff8d4f0c',,,,
+x-raw-image:///921a0bccd259617074cc01ea81913081c949426c35e042b89da68ae549b93db9,error,download: No connection adapters were found for 'x-raw-image:///921a0bccd259617074cc01ea81913081c949426c35e042b89da68ae549b93db9',,,,
+x-raw-image:///bad2529cd6c53e1d6a4993892949a4f711dd944ad8df2272403f33e1aa0152c0,error,download: No connection adapters were found for 'x-raw-image:///bad2529cd6c53e1d6a4993892949a4f711dd944ad8df2272403f33e1aa0152c0',,,,
+https://depodavardir.com/uploads/p/p/s/zihinsel-yetolan-coc-geometrik-kavramlarin-yapilandirmaci-ogrenme-yaklasimi_1.jpg,rejected,too_small 480x696,,,,
+x-raw-image:///54fb636ba332775df76b0ead6e8ec743480abb0b0aff55c56aa13211979cca77,error,download: No connection adapters were found for 'x-raw-image:///54fb636ba332775df76b0ead6e8ec743480abb0b0aff55c56aa13211979cca77',,,,
+https://img.kitapyurdu.com/v1/getImage/fn:11605625/wi:400/wh:true,rejected,too_small 400x576,,,,
+https://s1.studylibtr.com/store/data/001779498_1-9eb7c4c52bb4c18ef49010ed9c62681b-768x994.png,duplicate,pHash,,,,
+https://s3.cloud.ngn.com.tr/kitantik/images/2025-02-23/1br9qfwm7go9lri1cqa-thumb.jpg,rejected,too_small 187x249,,,,
+x-raw-image:///bdbbde69c29276cbb80546029ecff93388535edc5dab9cbe186faa75c712f6c3,error,download: No connection adapters were found for 'x-raw-image:///bdbbde69c29276cbb80546029ecff93388535edc5dab9cbe186faa75c712f6c3',,,,
+https://www.pelikankitabevi.com.tr/u/pelikankitabevi/img/b/h/e/hemsirelik-uygulamalarinda-klinik-mikrobiyoloji-ve-enfeksiyon-hastaliklari-ahmet-basustaoglu-ahmet-ze549836b2c34ac6b73cd3a510014d14d-1747316734.png,rejected,too_small 200x300,,,,
+https://guncelbobrek.org/10.guncel_bobrek/images/hdt_kongre_ozet_kitabi.jpg,rejected,clip_threshold,0.21200382709503174,0.19447895884513855,0.01752486824989319,436.3739038405187
+http://galeri3.arkitera.com/var/thumbs/ARKIV-06/avansas-zincir-magazalar-tasarimi/Avansas-001.jpg.jpeg,rejected,too_small 300x225,,,,
+https://i.calameoassets.com/231012134334-efacad252bef97f0f2baff332758484c/large.jpg,rejected,too_small 300x426,,,,
+https://unis.trakya.edu.tr/app_files/2023/10/Kisi_Logo_2217_415d3cbb.jpg,error,"download: HTTPSConnectionPool(host='unis.trakya.edu.tr', port=443): Max retries exceeded with url: /app_files/2023/10/Kisi_Logo_2217_415d3cbb.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",,,,
+https://online.fliphtml5.com/telt/yakw/files/large/2.webp,rejected,clip_threshold,0.14734937250614166,0.14852166175842285,-0.001172289252281189,2585.357804137711
+https://makpirtuk.de/wp-content/uploads/2024/05/9786057744517.jpg,rejected,too_small 421x600,,,,
+https://i1.rgstatic.net/publication/369503359_Comparison_of_echocardiographic_parameters_of_amputee_football_players_with_active_football_players_and_sedentary_individuals/links/641e676c315dfb4ccea96b73/largepreview.png,rejected,clip_threshold,0.17699815332889557,0.14944246411323547,0.027555689215660095,7575.591535226624
+https://media.invisioncic.com/o278943/monthly_2024_05/IMG_3654.jpeg.b80ad97d4bdc686f4b3b55277214820d.jpeg,rejected,clip_threshold,0.23670420050621033,0.17836754024028778,0.058336660265922546,791.3874835944861
+https://www.doktorsitesi.com/_next/image?url=https%3A%2F%2Fapi.doktorsitesi.com%2Fmedia%2Fcache%2Fprofil_500_webp%2Fuploads%2Fprofile_self_image%2F3381539_1694908610.webp&w=640&q=75,rejected,too_small 350x350,,,,
+https://www.nobelyayin.com/nblyyn/nobelyayin_com_21081.jpg,rejected,clip_threshold,0.1972338855266571,0.18773998320102692,0.009493902325630188,738.3559971965784
+http://turkjplastsurg.com/wp-content/uploads/2020/05/2010-Vol18-Issue2-cover.jpg,rejected,clip_threshold,0.1718091368675232,0.1999674141407013,-0.0281582772731781,6525.430660261432
+x-raw-image:///da248bc247c700fb96c8aab512c46d3ee181e0fb1937b74993f9154f3f798119,error,download: No connection adapters were found for 'x-raw-image:///da248bc247c700fb96c8aab512c46d3ee181e0fb1937b74993f9154f3f798119',,,,
+x-raw-image:///b0525ac94f68cfe014425c3ea999c21fdc572f1305f411bc365428fb741b3351,error,download: No connection adapters were found for 'x-raw-image:///b0525ac94f68cfe014425c3ea999c21fdc572f1305f411bc365428fb741b3351',,,,
+x-raw-image:///308737c8c8ec1b87ebf290d5f72b6f8c05322619e368ab12a2e753107b55ae61,error,download: No connection adapters were found for 'x-raw-image:///308737c8c8ec1b87ebf290d5f72b6f8c05322619e368ab12a2e753107b55ae61',,,,
+x-raw-image:///de20809d56ef505eeb9270711af61ad924793c40c1bded1d205b8f94bca85799,error,download: No connection adapters were found for 'x-raw-image:///de20809d56ef505eeb9270711af61ad924793c40c1bded1d205b8f94bca85799',,,,
+x-raw-image:///ee88e80051c0232ec56969cc54dbeb1cbca73ace214abeb4b3dbde08a6c33a1a,error,download: No connection adapters were found for 'x-raw-image:///ee88e80051c0232ec56969cc54dbeb1cbca73ace214abeb4b3dbde08a6c33a1a',,,,
+x-raw-image:///6f81f6ae94fd3a16c6742133a5c0b96a155a2466bcea043562d6d53273886246,error,download: No connection adapters were found for 'x-raw-image:///6f81f6ae94fd3a16c6742133a5c0b96a155a2466bcea043562d6d53273886246',,,,
+x-raw-image:///5a8220f3a3f3047010c979dcbfcdee30414a15148e9ed9464260fe1a837490a4,error,download: No connection adapters were found for 'x-raw-image:///5a8220f3a3f3047010c979dcbfcdee30414a15148e9ed9464260fe1a837490a4',,,,
+x-raw-image:///ece91130b7047f583f5bcbcf71681d83f50b28e91d83161a881344968c59f6a0,error,download: No connection adapters were found for 'x-raw-image:///ece91130b7047f583f5bcbcf71681d83f50b28e91d83161a881344968c59f6a0',,,,
+x-raw-image:///5eb559b53e70214675a563cf0556441828e58b307e44d7e9bc83fde8e54302c5,error,download: No connection adapters were found for 'x-raw-image:///5eb559b53e70214675a563cf0556441828e58b307e44d7e9bc83fde8e54302c5',,,,
+x-raw-image:///a59a46ac1714c6c7e0e4d9dcdc5ef0781fa1c5b47670d5cdf2ce4d0336695c05,error,download: No connection adapters were found for 'x-raw-image:///a59a46ac1714c6c7e0e4d9dcdc5ef0781fa1c5b47670d5cdf2ce4d0336695c05',,,,
+x-raw-image:///7f49ff6cb28ac9f02ca362e850dec6f3150222f50c5d69fc143442e5319629ce,error,download: No connection adapters were found for 'x-raw-image:///7f49ff6cb28ac9f02ca362e850dec6f3150222f50c5d69fc143442e5319629ce',,,,
+x-raw-image:///c4e6e2f72d43f803c893e001832479c19a248b40a206a1ca8c5ae505a04d6382,error,download: No connection adapters were found for 'x-raw-image:///c4e6e2f72d43f803c893e001832479c19a248b40a206a1ca8c5ae505a04d6382',,,,
+x-raw-image:///c94492b9563961a4265c810cbe3228e05432d6e6f087d0f71f0cae2d2eed90bb,error,download: No connection adapters were found for 'x-raw-image:///c94492b9563961a4265c810cbe3228e05432d6e6f087d0f71f0cae2d2eed90bb',,,,
+x-raw-image:///cb2f3b03cef5fbcc72b06d0775009e61170f7b0111bb3fb9c12a6e505782931f,error,download: No connection adapters were found for 'x-raw-image:///cb2f3b03cef5fbcc72b06d0775009e61170f7b0111bb3fb9c12a6e505782931f',,,,
+https://unis.trakya.edu.tr/app_files/2024/10/Kisi_Logo_253_6092ba86.jpg,error,"download: HTTPSConnectionPool(host='unis.trakya.edu.tr', port=443): Max retries exceeded with url: /app_files/2024/10/Kisi_Logo_253_6092ba86.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",,,,
+x-raw-image:///3cf978c751ee1dd21c665b10a14c1b8f49a2fc262755990fe7c112cfcfe20898,error,download: No connection adapters were found for 'x-raw-image:///3cf978c751ee1dd21c665b10a14c1b8f49a2fc262755990fe7c112cfcfe20898',,,,
+x-raw-image:///7a42bd245fc111c872491164144ab80b1676ca2b363a9de92b13244014bf9f8e,error,download: No connection adapters were found for 'x-raw-image:///7a42bd245fc111c872491164144ab80b1676ca2b363a9de92b13244014bf9f8e',,,,
+x-raw-image:///24eac8cade2fd7c92c4c76dd9c10ac9536e28332fbf1272e5dd40ec69da27fe5,error,download: No connection adapters were found for 'x-raw-image:///24eac8cade2fd7c92c4c76dd9c10ac9536e28332fbf1272e5dd40ec69da27fe5',,,,
+x-raw-image:///3ace8f439e6cc648207aa4ac8baa0740c816c4af17af628f32984f0a519a2a1b,error,download: No connection adapters were found for 'x-raw-image:///3ace8f439e6cc648207aa4ac8baa0740c816c4af17af628f32984f0a519a2a1b',,,,
+http://izmirhaberim.net/resimler/addtext_07-13-015201_e80941abf25b16204878.jpg,rejected,clip_threshold,0.2369404137134552,0.18853069841861725,0.04840971529483795,1823.3943941726927
+https://s3.cloud.ngn.com.tr/kitantik/images/2025-02-23/1br9qfwm7go9lri1d50-thumb.jpg,rejected,too_small 187x249,,,,
+https://makpirtuk.de/wp-content/uploads/2024/05/9786057744661.jpg,rejected,too_small 416x600,,,,
+https://www.halkkitabevi.com/u/halkkitabevi/img/a/a/s/asla-vazgecmecc7829ed45c26d6274d6d9c4529fdd38.png,rejected,too_small 164x250,,,,
+https://www.etimesgutbelediyespor.org/wp-content/uploads/2025/04/030415-400x300.png,rejected,too_small 400x300,,,,
+x-raw-image:///38975c0b9318b1df157fcb2a478dcf18524f65dfd735e1614cf237149c5b43cc,error,download: No connection adapters were found for 'x-raw-image:///38975c0b9318b1df157fcb2a478dcf18524f65dfd735e1614cf237149c5b43cc',,,,
+x-raw-image:///9b2d6ef59587766aa18432e54551dd03cee7106ebfc1cf03b8841dfccf44cf66,error,download: No connection adapters were found for 'x-raw-image:///9b2d6ef59587766aa18432e54551dd03cee7106ebfc1cf03b8841dfccf44cf66',,,,
+x-raw-image:///05f834209433fd53a9db1e575bdc54e569f6cd3ddb0fe50285f550bd5f675d47,error,download: No connection adapters were found for 'x-raw-image:///05f834209433fd53a9db1e575bdc54e569f6cd3ddb0fe50285f550bd5f675d47',,,,
+x-raw-image:///714aec44d354f92fee10271baa08d5ffdeb29aa2fde1b0cebb1bf79940ac110d,error,download: No connection adapters were found for 'x-raw-image:///714aec44d354f92fee10271baa08d5ffdeb29aa2fde1b0cebb1bf79940ac110d',,,,
+x-raw-image:///71977cd599add94f95202c16643cb3da3d2e7b60c742876019f49d86b0dc0855,error,download: No connection adapters were found for 'x-raw-image:///71977cd599add94f95202c16643cb3da3d2e7b60c742876019f49d86b0dc0855',,,,
+x-raw-image:///31279fe8923a6e8d03d793eadfe9705ceed464666cb0c39378aea0aadcf450bb,error,download: No connection adapters were found for 'x-raw-image:///31279fe8923a6e8d03d793eadfe9705ceed464666cb0c39378aea0aadcf450bb',,,,
+x-raw-image:///857e4e49ecdaa5e5d09d0546a6a64ecf55f7cfe63191abd9b38c9b76f8568aff,error,download: No connection adapters were found for 'x-raw-image:///857e4e49ecdaa5e5d09d0546a6a64ecf55f7cfe63191abd9b38c9b76f8568aff',,,,
+x-raw-image:///9dd0827978d26b21d51a841edc6d65cd632362df01a220ce9aeeb0700e33a953,error,download: No connection adapters were found for 'x-raw-image:///9dd0827978d26b21d51a841edc6d65cd632362df01a220ce9aeeb0700e33a953',,,,
+x-raw-image:///ac7c21e37b2171555d87cb6494d8ffc2a6e2e75c240a177f385ee226e77d725f,error,download: No connection adapters were found for 'x-raw-image:///ac7c21e37b2171555d87cb6494d8ffc2a6e2e75c240a177f385ee226e77d725f',,,,
+https://www.kitapstore.com/Gorsel/Urun/58/585131-1.jpg?Width=160,rejected,too_small 160x264,,,,
+https://www.nobelyayin.com/nblyyn/nobelyayin_com_16620.jpg,rejected,too_small 320x471,,,,
+x-raw-image:///2614ae9f474efe4e1f1a3f7f6cb0d7fddc021f8bfbcf73db2faf4ad354e0e59d,error,download: No connection adapters were found for 'x-raw-image:///2614ae9f474efe4e1f1a3f7f6cb0d7fddc021f8bfbcf73db2faf4ad354e0e59d',,,,
+https://i.ytimg.com/vi/_as1QtLeDbw/maxresdefault.jpg,rejected,clip_threshold,0.14321446418762207,0.1835954487323761,-0.04038098454475403,813.5754296826777
+x-raw-image:///ee1cdd4beefacf33920c63d36391ebb7b67c80f8692f2ced3778203720ca5a89,error,download: No connection adapters were found for 'x-raw-image:///ee1cdd4beefacf33920c63d36391ebb7b67c80f8692f2ced3778203720ca5a89',,,,
+x-raw-image:///d9a245b044d13ec40c2377060150801e8842ebfae0026ce93ddf65385e37c2b3,error,download: No connection adapters were found for 'x-raw-image:///d9a245b044d13ec40c2377060150801e8842ebfae0026ce93ddf65385e37c2b3',,,,
+x-raw-image:///9f515f02e90f20997f7be74b2378c0ef131502f663bfa4b8a0650dce12535d2c,error,download: No connection adapters were found for 'x-raw-image:///9f515f02e90f20997f7be74b2378c0ef131502f663bfa4b8a0650dce12535d2c',,,,
+x-raw-image:///600222b7fdf152a9246ca64c0d14fd25b42c321cd8bedfec729dc69b15d5c027,error,download: No connection adapters were found for 'x-raw-image:///600222b7fdf152a9246ca64c0d14fd25b42c321cd8bedfec729dc69b15d5c027',,,,
+https://s3.cloud.ngn.com.tr/kitantik/images/2025-02-23/1br9qfwm7go9lri1cwl-thumb.jpg,rejected,too_small 187x249,,,,
+https://www.kitapstore.com/Gorsel/Urun/66/662169-1.jpg?Width=160,rejected,too_small 160x233,,,,
+x-raw-image:///d656a0c5f547fc71aafc09735b3241c2e8af4e799a0b3f614494142ae6065500,error,download: No connection adapters were found for 'x-raw-image:///d656a0c5f547fc71aafc09735b3241c2e8af4e799a0b3f614494142ae6065500',,,,
+x-raw-image:///9f142ed3337bdd9defc28a521e582f5cc34a1a733689f07beee37d6a973cfe2f,error,download: No connection adapters were found for 'x-raw-image:///9f142ed3337bdd9defc28a521e582f5cc34a1a733689f07beee37d6a973cfe2f',,,,
+x-raw-image:///c2345ceb1abd50bcf327e41bfe8e75cf9f91b6dd9b703e43e537a14fdcd4be90,error,download: No connection adapters were found for 'x-raw-image:///c2345ceb1abd50bcf327e41bfe8e75cf9f91b6dd9b703e43e537a14fdcd4be90',,,,
+x-raw-image:///c91eff5cfd669c9cbdc21a5f92aed3c069b456682c56110133580df901fa48cb,error,download: No connection adapters were found for 'x-raw-image:///c91eff5cfd669c9cbdc21a5f92aed3c069b456682c56110133580df901fa48cb',,,,
+x-raw-image:///83ea46f6456218c80a7fd0c4cf03ca52d3f491a66cde1b00483febabb9a82078,error,download: No connection adapters were found for 'x-raw-image:///83ea46f6456218c80a7fd0c4cf03ca52d3f491a66cde1b00483febabb9a82078',,,,
+https://s1.studylibtr.com/store/data/001930001_1-9a5608d37d3ee1b4f503772310efd8f7-768x994.png,rejected,clip_threshold,0.1879088282585144,0.1678304523229599,0.020078375935554504,1510.143019575788
+x-raw-image:///70a381c54ab8f3c83885c1a7a30bdecc2976f889a055ba25e1d31af898c19aa3,error,download: No connection adapters were found for 'x-raw-image:///70a381c54ab8f3c83885c1a7a30bdecc2976f889a055ba25e1d31af898c19aa3',,,,
+https://img.kitapyurdu.com/v1/getImage/fn:11619611/wi:400/wh:true,rejected,too_small 400x609,,,,
+https://img.ekstat.com/profiles/pinokyo-638663230861193214.jpg,rejected,blur=85.0 < 100.0,,,,
+x-raw-image:///15231728986858ed485b682a8db6e8f4bed4f499f0451e09b77be0dd3c1984f0,error,download: No connection adapters were found for 'x-raw-image:///15231728986858ed485b682a8db6e8f4bed4f499f0451e09b77be0dd3c1984f0',,,,
+https://0.academia-photos.com/attachment_thumbnails/54092690/mini_magick20190118-11831-1xm7ng1.png?1547830522,rejected,too_small 469x709,,,,
+x-raw-image:///333e95ac7fc6e47adf1907b78b3eb04ab81d2f8df0166689af2fbd8e78bbf28e,error,download: No connection adapters were found for 'x-raw-image:///333e95ac7fc6e47adf1907b78b3eb04ab81d2f8df0166689af2fbd8e78bbf28e',,,,
+https://i.redd.it/dr-bekir-bek-ankara-3200-grefts-from-1-day-to-8-months-v0-ghvog6ru5yge1.jpg?width=1170&format=pjpg&auto=webp&s=857137ab37ecc757fa4182557dea8176f4433ac7,rejected,clip_threshold,0.25374385714530945,0.20765963196754456,0.04608422517776489,393.23113412073144
+x-raw-image:///37c92feb4b1ec0d37494dd7ae4656a9b5ca70fe2a69376d0c62dc18bc1a9b4e3,error,download: No connection adapters were found for 'x-raw-image:///37c92feb4b1ec0d37494dd7ae4656a9b5ca70fe2a69376d0c62dc18bc1a9b4e3',,,,
+https://unis.trakya.edu.tr/app_files/2024/10/Kisi_Logo_780_d526048f.jpg,error,"download: HTTPSConnectionPool(host='unis.trakya.edu.tr', port=443): Max retries exceeded with url: /app_files/2024/10/Kisi_Logo_780_d526048f.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",,,,
+x-raw-image:///25a62efc646038180e79b23ecdcd7027f0a394d54570e48b30b8eb0c079255f6,error,download: No connection adapters were found for 'x-raw-image:///25a62efc646038180e79b23ecdcd7027f0a394d54570e48b30b8eb0c079255f6',,,,
+x-raw-image:///8d23b9287ea544080c829b34aa9ac3dc022d2d60b813018e9815b3d4588d1396,error,download: No connection adapters were found for 'x-raw-image:///8d23b9287ea544080c829b34aa9ac3dc022d2d60b813018e9815b3d4588d1396',,,,
+https://img.kitapyurdu.com/v1/getImage/fn:11867592/wi:400/wh:true,rejected,too_small 400x607,,,,
+https://media.invisioncic.com/o278943/monthly_2025_04/Bekir-Bek-12-4-months.jpg.a09573f7269dab1289596313af94d7d3.jpg,rejected,clip_threshold,0.25829729437828064,0.1769927591085434,0.08130453526973724,1106.2404032699387
+x-raw-image:///eeb7803a100dfbb0069be0919c73c3291bd3ae1fe776883ebba70718d21cc156,error,download: No connection adapters were found for 'x-raw-image:///eeb7803a100dfbb0069be0919c73c3291bd3ae1fe776883ebba70718d21cc156',,,,
+x-raw-image:///2fed7c1a47e08b6bba124c5633c501d3040ea18405f390b1d3680d1d0b99cf0a,error,download: No connection adapters were found for 'x-raw-image:///2fed7c1a47e08b6bba124c5633c501d3040ea18405f390b1d3680d1d0b99cf0a',,,,
+https://online.fliphtml5.com/jgogv/rhhu/files/large/97f9ec77eef1f8753962f1d55990d257.webp?1672933454&1672933454,rejected,clip_threshold,0.1640200912952423,0.1560041457414627,0.008015945553779602,1094.2696648635904
+x-raw-image:///04db0358919ba807569cdb894c400339900b1d39d292e1a711cc197a0f046c58,error,download: No connection adapters were found for 'x-raw-image:///04db0358919ba807569cdb894c400339900b1d39d292e1a711cc197a0f046c58',,,,
+https://online.pubhtml5.com/hdma/jmwn/files/thumb/1.jpg?1623913443,rejected,too_small 355x480,,,,
+https://www.egitenkitap.com/image/cache/catalog/products_2024/9390-400x580h.jpg,rejected,too_small 400x580,,,,
+x-raw-image:///ceb7887e9f6fe729db126f1316046619c57c79dcec52adfa2803f14bb4e5d4c2,error,download: No connection adapters were found for 'x-raw-image:///ceb7887e9f6fe729db126f1316046619c57c79dcec52adfa2803f14bb4e5d4c2',,,,
+https://www.etimesgutbelediyespor.org/wp-content/uploads/2025/02/aciklama-1-400x300.png,rejected,too_small 400x300,,,,
+https://makpirtuk.de/wp-content/uploads/2024/05/9786057092175.jpg,rejected,too_small 429x600,,,,
+https://media.invisioncic.com/o278943/monthly_2025_04/Bekir-Bek-11-3-months.jpg.1cf3c498c05686e905e139d25dcfc9d4.jpg,rejected,blur=69.6 < 100.0,,,,
+https://img.ekstat.com/profiles/erkanyonsei-638542499989049884.jpg,rejected,clip_threshold,0.18917812407016754,0.20666319131851196,-0.01748506724834442,364.5616156975687
+https://www.etimesgutbelediyespor.org/wp-content/uploads/2025/02/SVSvES3-400x300.png,rejected,too_small 400x300,,,,
+https://0.academia-photos.com/attachment_thumbnails/51987341/mini_magick20220708-14915-1kgaalx.png?1657329204,rejected,too_small 595x842,,,,
+https://imgv2-2-f.scribdassets.com/img/document/772336534/original/66cf30f38f/1?v=1,rejected,clip_threshold,0.1726614087820053,0.19190382957458496,-0.01924242079257965,714.6972210105096
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=24324190830545679,error,download: cannot identify image file <_io.BytesIO object at 0x16194d170>,,,,
+https://media.licdn.com/dms/image/v2/D4D22AQHHB5NE8ntNIA/feedshare-shrink_800/B4DZZYVcKuG0Ag-/0/1745238740029?e=2147483647&v=beta&t=rnn_yychMbVY61ZMYBoPPafVwMF3Nx1FAHQCgSNtXy4,rejected,clip_threshold,0.14293459057807922,0.19839346408843994,-0.05545887351036072,936.1040937308334
+https://s1.studylibtr.com/store/data/001947592_1-d2d59c1fc12327ba148fb277155b2304-768x994.png,rejected,clip_threshold,0.184883713722229,0.19898614287376404,-0.014102429151535034,425.1090949963635
+https://i.redd.it/dr-bekir-bek-ankara-3200-grefts-from-1-day-to-8-months-v0-npp8mcru5yge1.jpg?width=1200&format=pjpg&auto=webp&s=9ad60d484759a0cf8251e657ef167ed301000357,rejected,clip_threshold,0.24164235591888428,0.19090890884399414,0.05073344707489014,143.7340436692828
+https://online.fliphtml5.com/mbrfn/fopu/files/large/594170053719896a11eb08ee513813d5.webp?1674417732&1674417732,rejected,clip_threshold,0.20938846468925476,0.15354901552200317,0.05583944916725159,2941.1297564794127
+https://i1.rgstatic.net/publication/361275239_COVID-19_Pandemi_Surecinde_Algilanan_Stres_ile_Kariyer_Iyimserligi_Iliskisi_Universiteler_Icin_Yol_Haritasi_The_Relationship_Between_Perceived_Stress_and_Career_Optimism_in_the_COVID-19_Pandemic_Proce/links/62a81b31a3fe3e3df875ed1f/largepreview.png,rejected,clip_threshold,0.16740670800209045,0.17802679538726807,-0.010620087385177612,8792.285701434355
+x-raw-image:///646e1deeab43c67248a9e638c2f7b37206d51489206edf709e1ecd70edc17220,error,download: No connection adapters were found for 'x-raw-image:///646e1deeab43c67248a9e638c2f7b37206d51489206edf709e1ecd70edc17220',,,,
+x-raw-image:///9ce74977f8b98cd07f653722da48807cd27db516dfe1c5784a751c40dc2fc592,error,download: No connection adapters were found for 'x-raw-image:///9ce74977f8b98cd07f653722da48807cd27db516dfe1c5784a751c40dc2fc592',,,,
+x-raw-image:///7f6854efbc5194338f203f38667cba19753cd696beb3e6ed1c53708d07d64b25,error,download: No connection adapters were found for 'x-raw-image:///7f6854efbc5194338f203f38667cba19753cd696beb3e6ed1c53708d07d64b25',,,,
+x-raw-image:///9c2feee64896d095b91cd78146fe8b19951b5dc2a27b5eb6aceda7fd0aed7858,error,download: No connection adapters were found for 'x-raw-image:///9c2feee64896d095b91cd78146fe8b19951b5dc2a27b5eb6aceda7fd0aed7858',,,,
+x-raw-image:///c42466be6f9347ce344b025f63dfbae5433d83978e680acf29b58b5312a14721,error,download: No connection adapters were found for 'x-raw-image:///c42466be6f9347ce344b025f63dfbae5433d83978e680acf29b58b5312a14721',,,,
+x-raw-image:///cc7f5fb1ee75cc6e449c8ccf700734cdc73ce62fca03a025b85b26e631cdc9bf,error,download: No connection adapters were found for 'x-raw-image:///cc7f5fb1ee75cc6e449c8ccf700734cdc73ce62fca03a025b85b26e631cdc9bf',,,,
+x-raw-image:///cb7739de1f2294bd11ff66a76a12e065ea9f0960045c6ffe7d130fe81fe5fb2f,error,download: No connection adapters were found for 'x-raw-image:///cb7739de1f2294bd11ff66a76a12e065ea9f0960045c6ffe7d130fe81fe5fb2f',,,,
+x-raw-image:///74b9deeb23bf5f1b4a7f2eea0f68b3bfeac7c966dcc6b4abdecaaf7e80b6926a,error,download: No connection adapters were found for 'x-raw-image:///74b9deeb23bf5f1b4a7f2eea0f68b3bfeac7c966dcc6b4abdecaaf7e80b6926a',,,,
+x-raw-image:///9f0183a8e250e6a8f540afc80ec8ac621be94cbd75d5a4c65cc93cbd5270c797,error,download: No connection adapters were found for 'x-raw-image:///9f0183a8e250e6a8f540afc80ec8ac621be94cbd75d5a4c65cc93cbd5270c797',,,,
+x-raw-image:///157adb928ef37d3f4c504123c2d5a19660317dcf2a6d4f754f75cfc56b095da7,error,download: No connection adapters were found for 'x-raw-image:///157adb928ef37d3f4c504123c2d5a19660317dcf2a6d4f754f75cfc56b095da7',,,,
+x-raw-image:///5312a0703bc52e50b1a98459869beda61984df050c581e35c57b47abac5ead07,error,download: No connection adapters were found for 'x-raw-image:///5312a0703bc52e50b1a98459869beda61984df050c581e35c57b47abac5ead07',,,,
+x-raw-image:///3f13974eb3c637c744773c7477cc9a60dc05a5ac6860582bc7830f0cd2500763,error,download: No connection adapters were found for 'x-raw-image:///3f13974eb3c637c744773c7477cc9a60dc05a5ac6860582bc7830f0cd2500763',,,,
+x-raw-image:///782956c6cb5ea5f4afe093205ab7171894de413fd69c3a5eb175395ce0aea7bf,error,download: No connection adapters were found for 'x-raw-image:///782956c6cb5ea5f4afe093205ab7171894de413fd69c3a5eb175395ce0aea7bf',,,,
+x-raw-image:///92d85317864d4144388a28b1aec7428cd916f9b582503840a2a23c18eb076c72,error,download: No connection adapters were found for 'x-raw-image:///92d85317864d4144388a28b1aec7428cd916f9b582503840a2a23c18eb076c72',,,,
+x-raw-image:///a80c80bac1300756bffbd0d96b676eab34acefa27f8ac019e4f0b4bfa6360535,error,download: No connection adapters were found for 'x-raw-image:///a80c80bac1300756bffbd0d96b676eab34acefa27f8ac019e4f0b4bfa6360535',,,,
+x-raw-image:///511c595b2a1c8f8140331abcbe46331eeec78c2bb37dc005b1b34afd5316a4ff,error,download: No connection adapters were found for 'x-raw-image:///511c595b2a1c8f8140331abcbe46331eeec78c2bb37dc005b1b34afd5316a4ff',,,,
+x-raw-image:///b004429f9e59ca384a5c6b57ca1c5fb832ff60866c3b1d27be8a37fd0a53a072,error,download: No connection adapters were found for 'x-raw-image:///b004429f9e59ca384a5c6b57ca1c5fb832ff60866c3b1d27be8a37fd0a53a072',,,,
+x-raw-image:///58f48549ca518de6b6a37b4caefbb9ebdf0fa5e71e5c4d71030e1a5454081bc4,error,download: No connection adapters were found for 'x-raw-image:///58f48549ca518de6b6a37b4caefbb9ebdf0fa5e71e5c4d71030e1a5454081bc4',,,,
+x-raw-image:///f572bf3e43c5e585b03553404d6ecc6a412526213f8373d6d61e40ececbbd3ca,error,download: No connection adapters were found for 'x-raw-image:///f572bf3e43c5e585b03553404d6ecc6a412526213f8373d6d61e40ececbbd3ca',,,,
+x-raw-image:///ec98f1626711d7cd2cc02f0575fd41ce952bf5d7f9d9b2e6131d232943852bae,error,download: No connection adapters were found for 'x-raw-image:///ec98f1626711d7cd2cc02f0575fd41ce952bf5d7f9d9b2e6131d232943852bae',,,,
+x-raw-image:///5557d7c7805797bb2f97f7a0e9b8f08512e0d25ff7409d1d91b3652c4c42a923,error,download: No connection adapters were found for 'x-raw-image:///5557d7c7805797bb2f97f7a0e9b8f08512e0d25ff7409d1d91b3652c4c42a923',,,,
+x-raw-image:///655ed5cac2ebe21fd1c8b3f46ee4229afa9a0f2086c37cb1c64bc5617b1fc81e,error,download: No connection adapters were found for 'x-raw-image:///655ed5cac2ebe21fd1c8b3f46ee4229afa9a0f2086c37cb1c64bc5617b1fc81e',,,,
+x-raw-image:///489c57fbdd78003172d091b2c982540862585654ac7701e30ad420e6db3537d6,error,download: No connection adapters were found for 'x-raw-image:///489c57fbdd78003172d091b2c982540862585654ac7701e30ad420e6db3537d6',,,,
+x-raw-image:///ca04590bd71b685435cfb44f076d2b009b6ed9c683a199c760beebb2023d8a4d,error,download: No connection adapters were found for 'x-raw-image:///ca04590bd71b685435cfb44f076d2b009b6ed9c683a199c760beebb2023d8a4d',,,,
+x-raw-image:///41a8f858f10e839b5a827d84bd4fd8e59a04ef165c65e0bfb35d4291a10e7bc9,error,download: No connection adapters were found for 'x-raw-image:///41a8f858f10e839b5a827d84bd4fd8e59a04ef165c65e0bfb35d4291a10e7bc9',,,,
+x-raw-image:///fb5e98c91c464f67ddb360f7314846341cc7f4ad82292ce6bfed1c84fc471025,error,download: No connection adapters were found for 'x-raw-image:///fb5e98c91c464f67ddb360f7314846341cc7f4ad82292ce6bfed1c84fc471025',,,,
+x-raw-image:///d35d57b92408063ec9432adfb2c284947c26d125aafeabd6eb49caafe9a8a57c,error,download: No connection adapters were found for 'x-raw-image:///d35d57b92408063ec9432adfb2c284947c26d125aafeabd6eb49caafe9a8a57c',,,,
+http://galeri3.arkitera.com/var/thumbs/ARKIV-06/bagcilar-isitme-ve-konusma-engelliler-egitim-ve-rehabilitasyon-merkezi/bagcilar_rehabilitasyon_m%20(1).jpg.jpeg,rejected,too_small 300x225,,,,
+x-raw-image:///e21b23a2fbb5189b392b691f2278e6a7a5be64511ca4c6d707e165aab53c2f84,error,download: No connection adapters were found for 'x-raw-image:///e21b23a2fbb5189b392b691f2278e6a7a5be64511ca4c6d707e165aab53c2f84',,,,
+x-raw-image:///d0bffc98ef6baa9774a789162f373a64a921ee74c77097cc5564062e3786b58b,error,download: No connection adapters were found for 'x-raw-image:///d0bffc98ef6baa9774a789162f373a64a921ee74c77097cc5564062e3786b58b',,,,
+x-raw-image:///ec418fd417e90d6c586411efb0291c80f1d04cdcd09c9f67f644de87e084292e,error,download: No connection adapters were found for 'x-raw-image:///ec418fd417e90d6c586411efb0291c80f1d04cdcd09c9f67f644de87e084292e',,,,
+x-raw-image:///46a1b877d7b45673d91dd2040f7efe841747e49e00119c56c3b16cd26230fba0,error,download: No connection adapters were found for 'x-raw-image:///46a1b877d7b45673d91dd2040f7efe841747e49e00119c56c3b16cd26230fba0',,,,
+http://galeri3.arkitera.com/var/thumbs/ARKIV-06/adnan-buyukdeniz-dijital-kutuphane/dkt01_8373b.jpg.jpeg,rejected,too_small 300x225,,,,
+x-raw-image:///90ccf8af40f4645e3afa1cf4b87c194f8546d188b412640182c19676c250b1d8,error,download: No connection adapters were found for 'x-raw-image:///90ccf8af40f4645e3afa1cf4b87c194f8546d188b412640182c19676c250b1d8',,,,
+x-raw-image:///90f7bec4a1e985c707778025486fabbc3d3ad56b99d7b88e06bdc6f4c2f8d9f3,error,download: No connection adapters were found for 'x-raw-image:///90f7bec4a1e985c707778025486fabbc3d3ad56b99d7b88e06bdc6f4c2f8d9f3',,,,
+x-raw-image:///45c22c6158a392b432cac30af3754a111096d1cff359a10ae844064ef2f9ec41,error,download: No connection adapters were found for 'x-raw-image:///45c22c6158a392b432cac30af3754a111096d1cff359a10ae844064ef2f9ec41',,,,
+http://galeri3.arkitera.com/var/thumbs/arkiv-2/proje/erginoglu-calislar/denizbank-genel-mudurlugu/a%20(1).jpg.jpeg,rejected,too_small 300x225,,,,
+https://www.egitenkitap.com/image/cache/catalog/products_2024/8893-400x580.jpg,rejected,too_small 400x580,,,,
+https://img.kitapyurdu.com/v1/getImage/fn:11971103/wi:400/wh:true,rejected,too_small 400x606,,,,
+https://makpirtuk.de/wp-content/uploads/2024/10/9786256772533.jpg,rejected,too_small 387x600,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1304961517661837,error,download: cannot identify image file <_io.BytesIO object at 0x399f30040>,,,,
+https://cakuavis.karatekin.edu.tr/assets/img/book.png,rejected,too_small 276x290,,,,
+https://media.licdn.com/dms/image/v2/D4D22AQEluillyrFe9A/feedshare-shrink_800/B4DZWTPV4AHkBs-/0/1741932028164?e=2147483647&v=beta&t=PVRrklo5Q5nAAOcEGf2JKNi4ET9tABKsbstQcc1sMd8,rejected,too_small 800x418,,,,
+https://img.kitapyurdu.com/v1/getImage/fn:12009377/wi:400/wh:true,rejected,too_small 400x600,,,,
+x-raw-image:///e6b469121aae6db647b90bdfdab1e48f14177ad633cc83eb9e821546edc8c19e,error,download: No connection adapters were found for 'x-raw-image:///e6b469121aae6db647b90bdfdab1e48f14177ad633cc83eb9e821546edc8c19e',,,,
+https://www.etimesgutbelediyespor.org/wp-content/uploads/2025/03/Tip-Bayrami-400x300.png,rejected,too_small 400x300,,,,
+https://www.nobelyayin.com/nblyyn/nobelyayin_com_18632.jpg,rejected,clip_threshold,0.18092802166938782,0.16695517301559448,0.013972848653793335,1454.0024262976044
+https://media.invisioncic.com/o278943/monthly_2024_11/WhatsAppImage2024-11-03at10_04_14AM.jpeg.aba2794770b125dfc794b74b3ae991de.jpeg,rejected,clip_threshold,0.26407885551452637,0.1871822476387024,0.07689660787582397,102.38131335974781
+https://img.kitapyurdu.com/v1/getImage/fn:11841687/wi:400/wh:true,rejected,too_small 400x607,,,,
+https://www.etimesgutbelediyespor.org/wp-content/uploads/2025/02/250201-400x300.png,rejected,too_small 400x300,,,,
+https://0.academia-photos.com/attachment_thumbnails/84937490/mini_magick20220425-25961-1jy2khl.png?1650942797,rejected,too_small 595x844,,,,
+https://media.invisioncic.com/o278943/monthly_2024_11/WhatsAppImage2024-11-03at9_23.00AM(2).jpeg.865cf48c94e5f0f46b7b9e4b01ec6c6b.jpeg,rejected,clip_threshold,0.2555176913738251,0.16980426013469696,0.08571343123912811,306.7031204933113
+https://media.invisioncic.com/o278943/monthly_2024_11/WhatsAppImage2024-11-03at9_23.00AM(4).thumb.jpeg.d4e6d73ab21a52b8dc7b91d23c8de717.jpeg,rejected,clip_threshold,0.24495181441307068,0.15821430087089539,0.08673751354217529,1090.2782845328309
+https://media.invisioncic.com/o278943/monthly_2024_11/WhatsAppImage2024-11-03at9_22_59AM.jpeg.e1bfa2b7806dc3dd3b0c91ed4bc8ddfc.jpeg,rejected,clip_threshold,0.230991393327713,0.15899410843849182,0.07199728488922119,259.8966813648174
+https://media.invisioncic.com/o278943/monthly_2024_11/WhatsAppImage2024-11-03at10_04.14AM(1).jpeg.1399b1ac81adb5b536cc3eda7e7eb38a.jpeg,rejected,clip_threshold,0.2666071951389313,0.17899438738822937,0.0876128077507019,132.68253143599446
+https://media.invisioncic.com/o278943/monthly_2024_11/WhatsAppImage2024-11-03at10_04.14AM(5).jpeg.32c26b43aa648e674decc39596be7b19.jpeg,rejected,clip_threshold,0.2779395878314972,0.1813279539346695,0.0966116338968277,358.6656627028105
+https://media.invisioncic.com/o278943/monthly_2024_12/2.jpg.32016f3f93b63d60919de71374d2193f.jpg,rejected,clip_threshold,0.2744195759296417,0.17235234379768372,0.10206723213195801,1898.1291430851238
+https://media.invisioncic.com/o278943/monthly_2024_12/IMG_8414.jpeg.f3d57b9e46821a84b4c8499bf8462545.jpeg,rejected,clip_threshold,0.24721750617027283,0.18644942343235016,0.06076808273792267,106.82094243802374
+https://media.invisioncic.com/o278943/monthly_2024_12/1.jpg.ef0f179c9d3b1ff8ea0d0743c1d2ad38.jpg,rejected,clip_threshold,0.27120277285575867,0.19057056307792664,0.08063220977783203,1637.3667876036077

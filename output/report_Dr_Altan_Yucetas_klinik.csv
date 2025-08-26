@@ -1,0 +1,485 @@
+url,status,reason,pos,neg,margin,blur
+https://api.doktorsitesi.com/media/cache/profil_500_webp/uploads/profile_self_image/2165037.webp,rejected,too_small 169x252,,,,
+https://i.ytimg.com/vi/OKsEpJcQqUI/maxresdefault.jpg,rejected,blur=93.3 < 100.0,,,,
+https://media.belorens.com/storage/uploads/doctor/avatar/2023/08/dr-alt-yucetas-profile20230808130511.570974.jpg,rejected,blur=49.4 < 100.0,,,,
+https://altanyucetas.com/wp-content/uploads/2018/07/altan-yucetas-hakkinda-1-600x800-1.jpg,rejected,clip_threshold,0.24985408782958984,0.18678699433803558,0.06306709349155426,453.58902557759984
+https://i.ytimg.com/vi/yNZgqQ07MUU/hqdefault.jpg,rejected,too_small 480x360,,,,
+https://altanyucetas.com/wp-content/uploads/2018/06/anasayfa-klinik.jpg.webp,rejected,too_small 250x150,,,,
+https://altanyucetas.com/wp-content/uploads/2018/11/ay-kimdir.jpg.webp,rejected,clip_threshold,0.23971690237522125,0.17859649658203125,0.06112040579319,1073.8761893198116
+https://www.placidway.com/images/doctor_images/logo-1665163050Dr.-Altan-Yucetas.jpg,rejected,too_small 300x300,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=635139623323899&get_thumbnail=1,error,download: cannot identify image file <_io.BytesIO object at 0x1619c3c90>,,,,
+https://media.licdn.com/dms/image/v2/C4E03AQHbYhARTYOl2w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516962969581?e=2147483647&v=beta&t=q03v44xo0RgZcYidbvZ_tdDwvSd8rFQWAwDwi3KNobQ,rejected,too_small 200x200,,,,
+https://i.ytimg.com/vi/Hw9ptG-igsU/maxresdefault.jpg,rejected,clip_threshold,0.24866455793380737,0.17412088811397552,0.07454366981983185,103.2793676622167
+https://altanyucetas.com/wp-content/uploads/2018/06/anasayfa-blog-sac-ekimi-2.jpg.webp,rejected,too_small 325x365,,,,
+https://altanyucetas.com/wp-content/uploads/2018/06/anasayfa-blog-vucut-estetigi-1.jpg.webp,rejected,too_small 325x365,,,,
+https://s3-eu-west-1.amazonaws.com/eniyihekim.com/doctor/d59d25/d59d254699418071b3504844ed920acc_large.jpg,rejected,too_small 529x530,,,,
+https://i.ytimg.com/vi/kuWI_ja5ks4/sddefault.jpg,rejected,too_small 640x480,,,,
+https://i.ytimg.com/vi/cs65MXJbDZA/hqdefault.jpg,rejected,too_small 480x360,,,,
+https://i.ytimg.com/vi/k3t7bRLqvf4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAEM6oZrCqblV4cJSfVZDzUpZT4cw,rejected,too_small 686x386,,,,
+https://i.ytimg.com/vi/1I_69pCrxA4/maxresdefault.jpg,rejected,clip_threshold,0.1960238218307495,0.188224196434021,0.007799625396728516,134.96085080238518
+https://climedio.com/wp-content/uploads/2022/03/altan-yucetas-doktor.jpg,rejected,clip_threshold,0.25564414262771606,0.1888359636068344,0.06680817902088165,1246.8344689738992
+https://i.ytimg.com/vi/EwRdeFbEhuc/hqdefault.jpg,rejected,too_small 480x360,,,,
+https://altanyucetas.com/wp-content/uploads/2018/06/anasayfa-blog-yuz-estetigi.jpg,rejected,too_small 325x365,,,,
+https://media.licdn.com/dms/image/v2/C4E22AQEJhff1fS3XfQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1576339374319?e=2147483647&v=beta&t=4TRa0x7-onJoBud_2EUVS_ATGCJts7Ol-mgM--K8lkU,rejected,clip_threshold,0.2637975513935089,0.2082054316997528,0.055592119693756104,184.6485175168759
+https://www.clinicadvisor.com/pictures/social_media/pimage-964-60-photo.jpg,rejected,too_small 201x267,,,,
+https://clinichunter.com/wp-content/themes/clinichunter/img/plastic-surgery/6.jpg,rejected,too_small 880x450,,,,
+https://media.licdn.com/dms/image/v2/C4E22AQEnRyb8PdCa0A/feedshare-shrink_800/feedshare-shrink_800/0/1577626966816?e=2147483647&v=beta&t=P4Qe6t15pRacBUOAP4-dnc6sgd8lFBRpgL2k5TLgX2k,rejected,clip_threshold,0.2361850142478943,0.19930480420589447,0.03688021004199982,2382.59162211859
+https://media.belorens.com/storage/uploads/procedure/beforeAfterFeatured/2023/11/cheek-filler20231106154949.802845.webp,rejected,too_small 512x512,,,,
+https://i.ytimg.com/vi/DtNMDyy4jsg/sddefault.jpg,rejected,too_small 640x480,,,,
+https://media.licdn.com/dms/image/v2/C4E22AQGrMiDmm4IzYQ/feedshare-shrink_800/feedshare-shrink_800/0/1574763394510?e=2147483647&v=beta&t=PqR9U_JjpvGyg8bWibXn9PNxJ_hFl-sTvzNC_IGH9G8,rejected,too_small 800x450,,,,
+https://www.placidway.com/cdn-cgi/image/quality=50/images/experience/thumbnail/1711688244Gynecology-Treatment-Ankara-Turkey.png,rejected,clip_threshold,0.21084216237068176,0.1686118096113205,0.04223035275936127,109.36974226027606
+https://i.ytimg.com/vi/1PzriwHer5M/mqdefault.jpg,rejected,too_small 320x180,,,,
+https://media.belorens.com/storage/uploads/procedure/beforeAfterFeatured/cheek-lift-card-20230316111346.627992.webp,rejected,too_small 350x350,,,,
+https://altanyucetas.com/wp-content/uploads/2018/06/logo-altan-yucetas-1.png,rejected,too_small 319x96,,,,
+https://cdn.whatclinic.com/thumbnails/766f2912e0423a41/altanyucetasisvecklinikdoktoru.jpg?width=243&height=324&background-color=0xffffff&operation=pad&float-x=0.5&float-y=0.5&rotate=0&crop_x=0.2986321&crop_y=0.019&crop_w=0.2759434&crop_h=0.65&hmac=0967b505ecd1048805c3d3e2b4cafab379b6682c,rejected,too_small 243x324,,,,
+https://bulutklinik-pb.s3.eu-west-1.amazonaws.com/dummy/no_doctor_image.jpg,rejected,too_small 450x300,,,,
+https://www.health-tourism.com/_resources/business/218750/BusinessPage.jpeg,rejected,too_small 255x309,,,,
+https://i.ytimg.com/vi/2T7JrTf0ffQ/maxresdefault.jpg,rejected,clip_threshold,0.16837374866008759,0.1695297807455063,-0.0011560320854187012,194.6240306832761
+https://media.licdn.com/dms/image/v2/C4E22AQGbn66I-Bx3Cg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1580532084916?e=2147483647&v=beta&t=U_oaFhO0EcdA9w2kPnLv1HCW-HVR0jE1rv7cPIk5KVE,rejected,clip_threshold,0.2122180163860321,0.24182794988155365,-0.029609933495521545,241.56044636876842
+https://altanyucetas.com/wp-content/uploads/2018/06/anasayfa-blog-burun-estetigi.jpg,rejected,too_small 325x365,,,,
+https://yt3.googleusercontent.com/ytc/AIdro_nQT03Ia2KnkcGC7HBV5lj7ZCq2ACOLpxnP8gVoAAsBBQ=s900-c-k-c0x00ffffff-no-rj,rejected,blur=79.3 < 100.0,,,,
+https://cdn.whatclinic.com//cosmetic-plastic-surgery/turkey/istanbul-province/istanbul/isvec-klinik/thumbnails/766f2912e0423a41/altanyucetasisvecklinikdoktoru.jpg?width=400&height=400&background-color=0xeeede8&operation=pad&float-y=0.25&hmac=f604096f25c9bb8dabdf52f784768117b74ec8d3,rejected,too_small 400x400,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=886098339399972&get_thumbnail=1,error,download: cannot identify image file <_io.BytesIO object at 0x16191d7b0>,,,,
+https://i.ytimg.com/vi/gLOvc--BgIA/hqdefault.jpg,rejected,too_small 480x360,,,,
+https://media.licdn.com/dms/image/v2/C5612AQFa_No9PDhmWg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520208193593?e=2147483647&v=beta&t=KgBiT7U2X54CeHFqltpyN2En4TbMgsIhut08fwpfwYA,rejected,clip_threshold,0.25296255946159363,0.19489051401615143,0.0580720454454422,1089.4586134367155
+https://drahmedaltan.com/uploads/slider/5045B32E-4A1A-49CC-96BF-C971167A3B00.PNG,rejected,blur=68.7 < 100.0,,,,
+https://www.acibadem.com.tr/assets/images/doctors/altan-goktas-banner.png,rejected,too_small 460x600,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1202243574018939&get_thumbnail=1,error,download: cannot identify image file <_io.BytesIO object at 0x1679fd6c0>,,,,
+https://i.ytimg.com/vi/lI2hqY4BaKs/maxresdefault.jpg,rejected,clip_threshold,0.2101922333240509,0.185294508934021,0.024897724390029907,421.0273967641088
+https://clinichunter.com/wp-content/themes/clinichunter/img/plastic-surgery/12.jpg,rejected,too_small 880x450,,,,
+"https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=1419,fit=crop/A3Qa9nK3lOcZXqgk/img_cfd2df18416c-1-A1a19yXe9DcK86n6.jpeg",rejected,clip_threshold,0.24911744892597198,0.20078356564044952,0.04833388328552246,516.8623700239425
+https://files.sikayetvar.com/company/screenshot/op/op-dr-altan-yucetas.png,rejected,clip_threshold,0.15014895796775818,0.17360252141952515,-0.023453563451766968,285.90786388888887
+https://www.placidway.com/cdn-cgi/image/quality=50/images/experience/thumbnail/1703591878Dental-Treatment-in-Turkey-thumbnail.png,rejected,clip_threshold,0.2201455980539322,0.22350358963012695,-0.003357991576194763,619.8713207636144
+https://airomedical.com/_next/image?url=https%3A%2F%2Fstorage.airomedical.com%2Fimages%2Fdoctors%2F1385%2Fcldkmymw8000z08mu9lo49oag.jpg&w=1920&q=100,rejected,blur=81.9 < 100.0,,,,
+"https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=768,fit=crop/A3Qa9nK3lOcZXqgk/photo-2025-01-16-12-08-14-mnlq415Dy1IxjkqZ.JPEG",rejected,clip_threshold,0.2984848916530609,0.20460988581180573,0.09387500584125519,581.5141862399408
+https://www.sarica.net/blog/wp-content/uploads/2015/09/altan-yucetas.jpg,rejected,clip_threshold,0.21974967420101166,0.20838353037834167,0.011366143822669983,1523.7168012837355
+https://drahmedaltan.com/uploads/slider/BEFDC18C-6D0A-4A90-A795-866AB3296A98-1.PNG,rejected,clip_threshold,0.1866791546344757,0.14366894960403442,0.043010205030441284,150.49994288285234
+https://baudentalinternational.com/wp-content/uploads/2025/01/altan-varol.jpg,rejected,too_small 400x400,,,,
+https://media.licdn.com/dms/image/v2/C5612AQGYiZdY1NaaPg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520059539201?e=2147483647&v=beta&t=TW_rwaCd0Zbuivq9JO8zwPoaV-g0xgrz_97v2uFl4UE,rejected,clip_threshold,0.21972766518592834,0.1913919895887375,0.028335675597190857,490.4270357910115
+https://i.ytimg.com/vi/gHHGjUpJ2VA/mqdefault.jpg,rejected,too_small 320x180,,,,
+https://cdn.whatclinic.com/thumbnails/a9a24bb361184349/altan1.jpg?float-x=0.5&float-y=0.5&rotate=0&crop_x=0.03161457&crop_y=0.0608983&crop_w=1.1&crop_h=0.9155279&hmac=c7702fe964364b319fc294ec1ad123c2ca6a0cc9,rejected,too_small 390x590,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1054191475289073&get_thumbnail=1,error,download: cannot identify image file <_io.BytesIO object at 0x162f70ef0>,,,,
+https://drahmedaltan.com/uploads/contents/thumb/about-us.jpg,rejected,blur=53.5 < 100.0,,,,
+https://i.ytimg.com/vi/vNI9lyk53fg/maxresdefault.jpg,rejected,clip_threshold,0.2094535529613495,0.2194172739982605,-0.00996372103691101,204.7774001736111
+https://www.placidway.com/editor_images/1665163108_contact-2.png,rejected,too_small 417x104,,,,
+https://i.ytimg.com/vi/0MNx1C33Lz0/hqdefault.jpg,rejected,too_small 480x360,,,,
+http://medilocation.com/site/assets/files/2062/op__dr__altan_alim.jpg,error,download: 403 Client Error: Forbidden for url: http://medilocation.com/site/assets/files/2062/op__dr__altan_alim.jpg,,,,
+https://media.licdn.com/dms/image/v2/C5612AQFC_U2HtFlyUw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520159476482?e=2147483647&v=beta&t=iAXj32iSafzhkxvgTzErzOB5y4XzR9YoovzoHou49FU,rejected,clip_threshold,0.22952675819396973,0.1742294877767563,0.05529727041721344,617.1727827587507
+https://www.livhospital.com/uploads/971a4af1-1f9a-4ed5-851b-cabdfad5ecbf_tahirkaradeniz.webp,rejected,too_small 464x620,,,,
+https://avesis.hacettepe.edu.tr/user/image/6665,rejected,too_small 309x381,,,,
+"https://static.wixstatic.com/media/f40d23_4da7d82e0d1d4da4be1f896fa3e94054~mv2.jpg/v1/fill/w_640,h_1036,al_tr,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/f40d23_4da7d82e0d1d4da4be1f896fa3e94054~mv2.jpg",rejected,clip_threshold,0.23545709252357483,0.20637783408164978,0.02907925844192505,17303.040192954726
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=680784040378538&get_thumbnail=1,error,download: cannot identify image file <_io.BytesIO object at 0x146496b60>,,,,
+https://i.ytimg.com/vi/knRQ4BuWUQk/hqdefault.jpg,rejected,too_small 480x360,,,,
+https://airomedical.com/_next/image?url=https%3A%2F%2Fstorage.airomedical.com%2Fimages%2Fdoctors%2F1318%2Fcldhm04da00bi09mm1jve2m30.jpg&w=1920&q=75,rejected,blur=69.6 < 100.0,,,,
+https://avesis.cu.edu.tr/user/image/1644,rejected,too_small 321x373,,,,
+https://api.doktorsitesi.com/media/cache/profil_160_webp/uploads/profile_self_image/c22ba8d18b30542b251ad98f4f7aef50.webp,rejected,too_small 160x160,,,,
+https://drahmedaltan.com/templates/images/og-img.png,rejected,too_small 955x546,,,,
+https://volkanizol.com/wp-content/uploads/2022/05/volkan-izol-klinik.jpg,rejected,clip_threshold,0.20802822709083557,0.19120928645133972,0.01681894063949585,580.1373571355285
+https://ik.imagekit.io/clinicadvisor/pictures/profile/pimage-66-456-photo.jpg,rejected,too_small 162x216,,,,
+https://www.aktip.com.tr/Admin/Media/Proje/9b0098cc-cb67-4d55-a449-d1e5d5e300cf.jpg,rejected,clip_threshold,0.24248483777046204,0.2256571501493454,0.016827687621116638,1005.2263618557143
+https://adana.baskenthastaneleri.com/uploads/images/doktorlar/egee.jpg,rejected,too_small 265x385,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=8473056679403613&get_thumbnail=1,error,download: cannot identify image file <_io.BytesIO object at 0x15eace890>,,,,
+"https://static.wixstatic.com/media/f40d23_617910f4b0d546089890b1905677d1be~mv2.jpg/v1/fill/w_280,h_391,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/ali%20altan%20i%C5%9F%20foto%C4%9Fraf%C4%B1%205_edited.jpg",rejected,too_small 280x391,,,,
+https://www.health-tourism.com/_resources/Photos/Countries/003_001_000211_00000090.Jpg,rejected,too_small 1920x454,,,,
+https://media.belorens.com/storage/uploads/procedure/beforeAfterFeatured/breast-implants-card-20230316102256.995123.webp,rejected,too_small 350x350,,,,
+https://cdn.whatclinic.com/cosmetic-plastic-surgery/turkey/antalya-province/antalya/altan-tekin-clinic/thumbnails/d73b357b1b630027/altan2.jpg?width=400&height=400&float-y=0.25&hmac=75bb00517a51e608caf5aab6ea22dfa269f84795,rejected,too_small 400x400,,,,
+https://www.acibadem.com.tr/assets/images/doctors/altan-goktas-og-banner.webp,rejected,too_small 600x315,,,,
+https://media.licdn.com/dms/image/v2/C5612AQFajsPsqy5S6w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520105877291?e=2147483647&v=beta&t=pviAiG1KkOOm0GZYpk__hFPIAfLs5eeodMRhh2n8Xdc,rejected,clip_threshold,0.21040412783622742,0.1827155351638794,0.027688592672348022,825.4929005350374
+https://airomedical.com/_next/image?url=https%3A%2F%2Fstorage.airomedical.com%2Fimages%2Fdoctors%2F919%2Fclcoolfhh000909nrgzfn8k4t.jpg&w=1920&q=75,rejected,clip_threshold,0.2536032199859619,0.1818135380744934,0.0717896819114685,113.4296835517937
+https://api.doktorsitesi.com/media/cache/profil_160_webp/uploads/profile_self_image/7cc4cbf2bc5d4ed8c77151a735b1d542.webp,rejected,too_small 160x160,,,,
+"https://www.placidway.com/cdn-cgi/image/quality=50/images/experience/thumbnail/1704184927Hair-Transplantation-in-Antalya,-Turkey-Thumbnail.jpg",rejected,blur=71.1 < 100.0,,,,
+https://i.ytimg.com/vi/upjcXny8wag/maxresdefault.jpg,rejected,clip_threshold,0.218575119972229,0.16409656405448914,0.05447855591773987,414.50764949045066
+https://img.youtube.com/vi/-3PQmcQzmLs/0.jpg,rejected,too_small 480x360,,,,
+https://ayt-files.s3.amazonaws.com/user_photos/Dr.Altan_Tekin_v2_1.jpg,rejected,blur=91.2 < 100.0,,,,
+https://eminkapi.com/wp-content/uploads/2019/07/cropped-DSC_8348.jpg,rejected,blur=56.8 < 100.0,,,,
+https://www.yenihayattipmerkezi.com/wp-content/uploads/2022/08/op-dr-ertugrul-yucesan.jpg,rejected,clip_threshold,0.2611989974975586,0.21630573272705078,0.04489326477050781,329.10022375694416
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3682951384609641455,error,download: cannot identify image file <_io.BytesIO object at 0x14633c4a0>,,,,
+https://s3-eu-west-1.amazonaws.com/doktortakvimi.com/doctor/09e11c/09e11cb1df045633727fe6ed0aa4e749_large.jpg,rejected,too_small 528x530,,,,
+https://www.health-tourism.com/_resources/Photos/Countries/003_001_000211_00000285.Jpg,rejected,too_small 1920x454,,,,
+https://www.health-tourism.com/_resources/Photos/Countries/003_001_000211_00000091.Jpg,rejected,too_small 1920x454,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3679514400372478635,error,download: cannot identify image file <_io.BytesIO object at 0x16130af20>,,,,
+https://www.doktoruzman.com/img/doktor/altanatakanozcan30127.webp,error,"download: HTTPSConnectionPool(host='www.doktoruzman.com', port=443): Max retries exceeded with url: /img/doktor/altanatakanozcan30127.webp (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x134d22850>, 'Connection to www.doktoruzman.com timed out. (connect timeout=15)'))",,,,
+https://api.doktorsitesi.com/media/cache/profil_160_webp/uploads/profile_self_image/0a8face1d731b607dd49bd78f045e5bc.webp,rejected,too_small 160x160,,,,
+https://www.oztanhastanesi.com/wp-content/uploads/2023/08/altanacar.png,rejected,too_small 356x403,,,,
+https://plasurgery.com/uploaded-files/doctor/37/image4x4.webp,rejected,too_small 400x400,,,,
+https://plasurgery.com/uploaded-files/doctor/41/image4x4.webp,rejected,too_small 400x400,,,,
+https://reyaphastanesi.com.tr/wp-content/uploads/2023/03/aytac-cetinkaya-web-770x770.webp,rejected,blur=92.2 < 100.0,,,,
+https://drahmedaltan.com/uploads/contents/thumb/459919F7-7CE9-40C9-8252-B47CAA561388.JPG,rejected,blur=53.5 < 100.0,,,,
+https://volkanizol.com/wp-content/uploads/2025/03/1W4A8322-1-scaled.jpg,rejected,blur=29.5 < 100.0,,,,
+https://cdn.whatclinic.com/cosmetic-plastic-surgery/turkey/antalya-province/antalya/altan-tekin-clinic/thumbnails/40f8510b09dedc3c/white_and_blue_professional_dental_clinic_instagram_post_kopyas%C4%B1.jpg?float-x=0.5&float-y=0.5&rotate=0&crop_x=0&crop_y=0&crop_w=1&crop_h=1&hmac=d4f815d873c2b3369f56ee91e05b5dfddc0f1708,rejected,clip_threshold,0.2850366234779358,0.2138163149356842,0.07122030854225159,717.0002888862005
+https://tusahospital.com/assets/doctor/ortopedi.jpg,rejected,blur=49.3 < 100.0,,,,
+x-raw-image:///34beddf25e63e044e246be652de0fd9f91c104b5ebb0876e932ff28dd921e5e2,error,download: No connection adapters were found for 'x-raw-image:///34beddf25e63e044e246be652de0fd9f91c104b5ebb0876e932ff28dd921e5e2',,,,
+https://remedacademy.com/wp-content/uploads/2023/10/img-3573_495.jpg,rejected,too_small 539x540,,,,
+https://www.acibadem.com.tr/assets/images/doctors/aylin-altan-kus-banner.webp,rejected,too_small 460x600,,,,
+https://media.licdn.com/dms/image/v2/C4E22AQEnlPwK1n697A/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1579218975381?e=2147483647&v=beta&t=gxfJhZXLxlI7vVLZUut617Z-h6kfcpAG8Vx0xMRrXRo,rejected,blur=58.2 < 100.0,,,,
+https://avatars.mds.yandex.net/get-altay/15157522/2a000001945c007fe02f5d57bd27a0b1cbbf/orig,rejected,clip_threshold,0.22522865235805511,0.12779729068279266,0.09743136167526245,5177.965470594586
+"https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/A3Qa9nK3lOcZXqgk/img_9805-Yg29ew9QDOf8GxpL.jpg",rejected,blur=38.6 < 100.0,,,,
+https://fikirliderleri.b-cdn.net/wp-content/uploads/2022/10/Ekran-Resmi-2022-10-16-20.54.29.png,rejected,clip_threshold,0.19480052590370178,0.16175806522369385,0.033042460680007935,246.30912757460555
+https://avatars.mds.yandex.net/get-altay/9895050/2a00000191739e6636fff3f134c1b3838764/L_height,rejected,too_small 384x500,,,,
+"https://static.wixstatic.com/media/021a87_b6393182ff0d4971beb8c3578f7409d0~mv2.jpg/v1/fill/w_534,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/021a87_b6393182ff0d4971beb8c3578f7409d0~mv2.jpg",rejected,too_small 534x400,,,,
+https://storage.airomedical.com/images/doctors/3361/cljwnwaqp000909qqhm4wcuz2.jpg,rejected,blur=93.4 < 100.0,,,,
+https://airomedical.com/_next/image?url=https%3A%2F%2Fstorage.airomedical.com%2Fimages%2Fdoctors%2F492%2Fcl4kbkn9l00010hs6e5dg8met.jpg&w=1920&q=75,rejected,blur=45.9 < 100.0,,,,
+https://www.istanbulhospital.com.tr/wp-content/uploads/2022/05/Uzm.-Dr.-Riza-Guzelsoy-kopya-575x575.jpg,rejected,too_small 575x575,,,,
+https://i.ytimg.com/vi/6UZmIO1L4gA/mqdefault.jpg,rejected,too_small 320x180,,,,
+https://sagliktahaber.com/wp-content/uploads/2023/11/estetik-operasyon-doktor.jpg,rejected,too_small 640x375,,,,
+https://pixel-p2.s3.eu-central-1.amazonaws.com/doctor/photos/f1e04923/f1e04923-f23c-4726-b1b9-3844e7ff69a0_large.jpg,rejected,clip_threshold,0.20103587210178375,0.18874205648899078,0.012293815612792969,239.4776436064956
+https://iasbh.tmgrup.com.tr/6bdebb/650/488/0/0/0/0?u=https://isbh.tmgrup.com.tr/sbh/2022/01/08/650x344/bilimsel-yeniliklere-imza-atan-medical-park-gazian-1641637834623.jpg,rejected,too_small 650x488,,,,
+"https://www.placidway.com/cdn-cgi/image/quality=50,fit=contain,width=192/images/1769/estethica-healthy-beauty-profile-slider-image-modified-001.jpg",rejected,too_small 192x153,,,,
+http://turkjplastsurg.com/wp-content/uploads/2020/04/1980-81-cover.jpg,rejected,too_small 586x836,,,,
+x-raw-image:///f00098309ac1780676d6d998dc5d36b1e69f0ed9e235a06b00d31fd538c1c6e1,error,download: No connection adapters were found for 'x-raw-image:///f00098309ac1780676d6d998dc5d36b1e69f0ed9e235a06b00d31fd538c1c6e1',,,,
+https://avesis.marmara.edu.tr/user/image/1564,rejected,too_small 265x265,,,,
+https://esencanhastanesi.com.tr/en/wp-content/uploads/2024/07/dr-toghrul-mastandzade-1.jpg,error,download: 404 Client Error: Not Found for url: https://esencanhastanesi.com.tr/en/wp-content/uploads/2024/07/dr-toghrul-mastandzade-1.jpg,,,,
+https://www.dokuclinic.com/wp-content/uploads/2025/12/Doku_AnaSlider_profilo-mobil.jpg,rejected,clip_threshold,0.24873985350131989,0.1949557065963745,0.053784146904945374,107.48699948578951
+x-raw-image:///a40c6335eb07a4e853c162be9359a0405c39881b2d243d144c9cc1f636206937,error,download: No connection adapters were found for 'x-raw-image:///a40c6335eb07a4e853c162be9359a0405c39881b2d243d144c9cc1f636206937',,,,
+https://plasurgery.com/uploaded-files/doctor/36/image4x4.webp,rejected,too_small 400x400,,,,
+"https://static.wixstatic.com/media/021a87_16921025973c454180fb36fe7a9c1ff4~mv2.jpg/v1/fill/w_300,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/021a87_16921025973c454180fb36fe7a9c1ff4~mv2.jpg",rejected,too_small 300x400,,,,
+x-raw-image:///efbbfc74463a7cc63a8dd42753424e7c0b1bdadd17a74c5a5047151cadb99e0f,error,download: No connection adapters were found for 'x-raw-image:///efbbfc74463a7cc63a8dd42753424e7c0b1bdadd17a74c5a5047151cadb99e0f',,,,
+x-raw-image:///508d5cc5c1966e2c3f7392c8b5076eb9557268e79f160628122b444726c2bf22,error,download: No connection adapters were found for 'x-raw-image:///508d5cc5c1966e2c3f7392c8b5076eb9557268e79f160628122b444726c2bf22',,,,
+https://www.dokuclinic.com/wp-content/uploads/2025/06/Doku_NewWeb_Mobil_AnaSlider_2023-1.jpg,rejected,blur=45.3 < 100.0,,,,
+https://api.doktorsitesi.com/media/cache/profil_160_webp/uploads/profile_self_image/e71520b541224c367c22b9aad7d4ece1.webp,rejected,too_small 160x160,,,,
+x-raw-image:///522b03b67b6da7dd7a2ba05677bfef3b1943f1153372fd2d7f1c030234a31a1b,error,download: No connection adapters were found for 'x-raw-image:///522b03b67b6da7dd7a2ba05677bfef3b1943f1153372fd2d7f1c030234a31a1b',,,,
+https://img.piri.net/mnresize/1200/-/resim/upload/2025/04/10/03/19/2db84d5558440246.jpg,rejected,blur=69.8 < 100.0,,,,
+https://www.okanhastanesi.com.tr/images/doctors/dr-ogr-uyesi-alireza-soltanzadeh_20250618144028.png,error,"download: HTTPSConnectionPool(host='www.okanhastanesi.com.tr', port=443): Max retries exceeded with url: /images/doctors/dr-ogr-uyesi-alireza-soltanzadeh_20250618144028.png (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",,,,
+x-raw-image:///b2d96d573eecb5d7d885f7968e11ca80821883a6761588dda4bdcadff1638660,error,download: No connection adapters were found for 'x-raw-image:///b2d96d573eecb5d7d885f7968e11ca80821883a6761588dda4bdcadff1638660',,,,
+https://tusahospital.com/assets/doctor/cagatay-acar.jpg,rejected,blur=16.7 < 100.0,,,,
+https://static.medigence.com/uploads/doctor/images/1689171172_5b0a84309b6f87c5abf1.jpg,rejected,too_small 390x390,,,,
+https://baudentalinternational.com/wp-content/uploads/2025/01/selcuk-basa.jpg,rejected,too_small 400x400,,,,
+https://adana.baskenthastaneleri.com/uploads/images/doktorlar/GAST-1182-T6248XHQ.jpg,rejected,too_small 265x385,,,,
+https://www.maslakimplant.com/images/g1.jpg,rejected,too_small 500x281,,,,
+https://www.istanbulhospital.com.tr/wp-content/uploads/2022/06/Op.-Dr.-Kenan-Yuce-kopya-575x575-1.jpg,rejected,too_small 575x575,,,,
+https://static.medigence.com/uploads/doctor/images/1706856517_9ffdef9d576235573223.jpg,rejected,too_small 390x390,,,,
+x-raw-image:///3df6e559523ed4e024d1fa773c40f5f584c755098c0658251e6d2d3d8b1ac8cc,error,download: No connection adapters were found for 'x-raw-image:///3df6e559523ed4e024d1fa773c40f5f584c755098c0658251e6d2d3d8b1ac8cc',,,,
+https://www.maslakimplant.com/images/main-slider/content-image.png,rejected,clip_threshold,0.26644790172576904,0.22831250727176666,0.03813539445400238,1061.7082549612117
+"https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=538,fit=crop/A3Qa9nK3lOcZXqgk/beautiful-woman-model-with-no-makeup-clean-healthy-skin-face-black-Aq2ebl39KphM4nx8.jpg",rejected,too_small 768x538,,,,
+https://tusahospital.com/assets/doctor/celil.jpg,rejected,clip_threshold,0.24258281290531158,0.17052718997001648,0.0720556229352951,172.20327152096544
+x-raw-image:///169c1e1d84a03490cf12d5d50a02b6a3d1a5f73b77332c4ab2a69801c7afa6fb,error,download: No connection adapters were found for 'x-raw-image:///169c1e1d84a03490cf12d5d50a02b6a3d1a5f73b77332c4ab2a69801c7afa6fb',,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3654035474581911682,error,download: cannot identify image file <_io.BytesIO object at 0x15eacf650>,,,,
+https://cdn.whatclinic.com/cosmetic-plastic-surgery/turkey/istanbul-province/istanbul/isvec-klinik/thumbnails/e2a3734942b8fea2/ozerakinciisvecklinikdrimplant.jpg?width=400&height=400&float-y=0.25&hmac=84ad630fd74bd20a88de2751a01ff2664e680116,rejected,too_small 400x400,,,,
+https://media.licdn.com/dms/image/v2/C4E22AQECwsT-vki6Mg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1577088205283?e=2147483647&v=beta&t=S6ueknmV5p-K1HGpu4pEYjss4a7bxTrNjv_PMuXc-NY,rejected,clip_threshold,0.264926940202713,0.17799702286720276,0.08692991733551025,848.8372187120059
+https://online.fliphtml5.com/nwunk/bnuz/files/large/edd570f606915fb997af128b2d23897f.webp?1711350941&1711350941,rejected,clip_threshold,0.18010279536247253,0.1544106900691986,0.025692105293273926,347.39045770527935
+https://ayt-files.s3.amazonaws.com/user_photos/Dr.Mehmet_Ali_korkmaz_1.jpg,rejected,blur=65.8 < 100.0,,,,
+https://avatars.mds.yandex.net/get-altay/13754922/2a000001927ff98d54f74aa31b5478436e80/L_height,rejected,too_small 500x500,,,,
+https://www.dokuclinic.com/wp-content/uploads/2023/02/Doku_NewWeb_Mobil_AnaSlider_yazisiz-05-scaled-1.jpg,rejected,blur=5.2 < 100.0,,,,
+https://api.doktorsitesi.com/media/cache/profil_160_webp/uploads/profile_self_image/c098eb8b22dc9805216f2bfd33a9b804.webp,rejected,too_small 160x160,,,,
+x-raw-image:///ca6360582819ecdeb763a13142ed206a1ba4dcbea4b30a02010b0399de42fe16,error,download: No connection adapters were found for 'x-raw-image:///ca6360582819ecdeb763a13142ed206a1ba4dcbea4b30a02010b0399de42fe16',,,,
+https://www.livhospital.com/assets/medical2.svg,error,download: cannot identify image file <_io.BytesIO object at 0x162f72ac0>,,,,
+https://www.dentapolitan.com/assets/img/doctors/dt-mehmet-ali.webp,rejected,too_small 340x413,,,,
+http://turkjplastsurg.com/wp-content/uploads/2020/05/2010-Vol18-Issue2-cover.jpg,rejected,clip_threshold,0.1718091368675232,0.1999674141407013,-0.0281582772731781,6525.430660261432
+x-raw-image:///2fd4a9fafb6fd26c5c1066914ec24e0cf9496b34954866ed323f5bc0ca2ac625,error,download: No connection adapters were found for 'x-raw-image:///2fd4a9fafb6fd26c5c1066914ec24e0cf9496b34954866ed323f5bc0ca2ac625',,,,
+x-raw-image:///894801006b7c82574121db03c9587f3b30e2ef79ea600d2da97952f2388e255c,error,download: No connection adapters were found for 'x-raw-image:///894801006b7c82574121db03c9587f3b30e2ef79ea600d2da97952f2388e255c',,,,
+https://i.ytimg.com/vi/xCzZ5bLe5-8/hqdefault.jpg,rejected,too_small 480x360,,,,
+https://erbakan.edu.tr/assets/template/img/akademik_takvim_banner.jpg,rejected,clip_threshold,0.21939174830913544,0.11401252448558807,0.10537922382354736,549.3401263309913
+x-raw-image:///33bdcac5fe53e968f9234426289890929d19b4a2151afb1b9c99756107f3e035,error,download: No connection adapters were found for 'x-raw-image:///33bdcac5fe53e968f9234426289890929d19b4a2151afb1b9c99756107f3e035',,,,
+https://i1.rgstatic.net/ii/profile.image/11431281083000868-1662364037018_Q512/Ali-Tarik-Altunc.jpg,rejected,too_small 512x512,,,,
+https://altanyucetas.com/wp-content/uploads/2018/06/anasayfa-blog-meme-estetigi.jpg.webp,rejected,too_small 325x365,,,,
+https://storage.airomedical.com/images/doctors/3475/clk2h4pd1002d0ar0ea0hhsim.jpg,rejected,blur=51.7 < 100.0,,,,
+https://baudentalinternational.com/wp-content/uploads/2025/01/taha-ozyurek.jpg,rejected,too_small 400x400,,,,
+https://s3-eu-west-1.amazonaws.com/doktortakvimi.com/doctor/5b190f/5b190fdd247b1766b5089f80666733a6_large.jpg,rejected,too_small 447x447,,,,
+https://istanbulbaskentuniversitesi.com/upload/doctors/uzm_dr_alpay_yesilaltay.jpg,rejected,clip_threshold,0.22665779292583466,0.1875312179327011,0.039126574993133545,151.57443850888814
+https://www.placidway.com/cdn-cgi/image/quality=50/images/experience/thumbnail/1707473031Penile-Implants-in-Antalya-Turkey-Thumbnail.png,rejected,clip_threshold,0.21290282905101776,0.20032116770744324,0.012581661343574524,1974.6757113266096
+https://megapolhospital.com.tr/de/wp-content/uploads/2024/05/dr2.jpg,rejected,clip_threshold,0.22094714641571045,0.19457128643989563,0.02637585997581482,251.72820148124683
+x-raw-image:///6b380dbcd5ecad88bb13b2dd2a4cf09c90cf25af7dc76616a082af52976524bf,error,download: No connection adapters were found for 'x-raw-image:///6b380dbcd5ecad88bb13b2dd2a4cf09c90cf25af7dc76616a082af52976524bf',,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3456749588745657914,error,download: cannot identify image file <_io.BytesIO object at 0x162fe5440>,,,,
+https://api.ateksis.com/storage?path=news&file=20210909121044_goztepesehirhastanesi.jpg,rejected,too_small 1000x566,,,,
+https://www.yenihayattipmerkezi.com/wp-content/uploads/2025/07/OP-DR-ZERRIN-KARABULUT.jpg,rejected,clip_threshold,0.2538483738899231,0.19911867380142212,0.05472970008850098,344.64211555190184
+https://secure.gravatar.com/avatar/54a945c6818b7027d6ace2fbcef92a27?s=500&d=mm&r=g,rejected,too_small 500x500,,,,
+https://drahmedaltan.com/uploads/contents/thumb/layer-7.jpg,rejected,blur=19.0 < 100.0,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=28943468885266969,error,download: cannot identify image file <_io.BytesIO object at 0x399f17d80>,,,,
+https://ayt-files.s3.amazonaws.com/user_photos/Dr.Kamil_Manav_1.jpg,rejected,clip_threshold,0.28910699486732483,0.2148316651582718,0.07427532970905304,2165.844384430727
+https://www.yumpu.com/en/image/facebook/22920299.jpg,rejected,clip_threshold,0.1598588526248932,0.15757080912590027,0.00228804349899292,499.8586278597869
+https://0.academia-photos.com/attachment_thumbnails/51868454/mini_magick20180818-12984-1wr7asv.png?1534608456,rejected,too_small 454x652,,,,
+https://www.evrensel.net/upload/dosya/187796.jpg,rejected,blur=15.1 < 100.0,,,,
+https://cdn.whatclinic.com/cosmetic-plastic-surgery/turkey/istanbul-province/istanbul/isvec-klinik/thumbnails/e2a3734942b8fea2/ozerakinciisvecklinikdrimplant.jpg?float-x=0.5&float-y=0.5&rotate=0&crop_x=0.3594838&crop_y=0.07160729&crop_w=0.2759434&crop_h=0.65&hmac=f431b4cae0da8c27b2c4ed2021dc5d1f392abcaa,rejected,too_small 235x312,,,,
+https://www.dokuclinic.com/wp-content/uploads/2025/06/Doku_NewWeb_Mobil_AnaSlider_2023.jpg,rejected,blur=93.6 < 100.0,,,,
+https://image.winudf.com/v2/image/Y29tLmVnZXNpbmVyamkuZHJiYXl0ZWtpbl9zY3JlZW5fMF81eDI2MHAyZw/screen-0.jpg?fakeurl=1&type=.jpg,rejected,clip_threshold,0.23165570199489594,0.17654772102832794,0.05510798096656799,352.667998960649
+https://imgv2-2-f.scribdassets.com/img/document/674688954/original/8cf3efde6c/1?v=1,rejected,clip_threshold,0.21490177512168884,0.16031205654144287,0.05458971858024597,1186.7190906492112
+https://img.piri.net/mnresize/1200/-/resim/upload/2025/04/10/03/19/7009bc4758440248.jpg,rejected,blur=43.0 < 100.0,,,,
+https://www.yumpu.com/tr/image/facebook/17746476.jpg,rejected,clip_threshold,0.17377083003520966,0.18793225288391113,-0.014161422848701477,206.7697254181391
+x-raw-image:///14edffc3aaaafa10e4253fd1ea8e5c05ecfd8afe7a0ce02f753c33d89bed2500,error,download: No connection adapters were found for 'x-raw-image:///14edffc3aaaafa10e4253fd1ea8e5c05ecfd8afe7a0ce02f753c33d89bed2500',,,,
+x-raw-image:///d15e7f37d348b71390b39c2418b301694b5adc7049258eb180404a1ee2494179,error,download: No connection adapters were found for 'x-raw-image:///d15e7f37d348b71390b39c2418b301694b5adc7049258eb180404a1ee2494179',,,,
+x-raw-image:///053c9224db6f967ef3669239bf059a41bc8dfc51ac1e722ef3cec91bb733c4a4,error,download: No connection adapters were found for 'x-raw-image:///053c9224db6f967ef3669239bf059a41bc8dfc51ac1e722ef3cec91bb733c4a4',,,,
+x-raw-image:///10d49e83c866aab96d411f45cf74410905b0b43813717f9bc76fbc2ab1a1399b,error,download: No connection adapters were found for 'x-raw-image:///10d49e83c866aab96d411f45cf74410905b0b43813717f9bc76fbc2ab1a1399b',,,,
+x-raw-image:///7064de98ea93647e672afb5f8c816db0dcbacc134656a21946d7968c75182513,error,download: No connection adapters were found for 'x-raw-image:///7064de98ea93647e672afb5f8c816db0dcbacc134656a21946d7968c75182513',,,,
+https://www.oztanhastanesi.com/wp-content/uploads/2024/05/olcayeserweb.png,rejected,too_small 356x403,,,,
+x-raw-image:///ed503d3efe005ea89cbbef87229c50e03d6eaabb0beb9959c85b62a1ead801f2,error,download: No connection adapters were found for 'x-raw-image:///ed503d3efe005ea89cbbef87229c50e03d6eaabb0beb9959c85b62a1ead801f2',,,,
+https://ik.imagekit.io/clinicadvisor/images/ClinicAdvisor-Exceptinal.svg,error,download: cannot identify image file <_io.BytesIO object at 0x1619e52b0>,,,,
+https://www.maslakimplant.com/images/g5.jpg,rejected,too_small 500x281,,,,
+https://www.acibadem.com.tr/assets/images/units/idrar-yolu-enfeksiyonu-og-banner.webp,rejected,too_small 600x315,,,,
+https://plasurgery.com/uploaded-files/doctor/38/image4x4.webp,rejected,too_small 400x400,,,,
+https://mediviahospital.com.tr/is_dosyalar/2025/04/23/is_1413.jpg,rejected,clip_threshold,0.2635049521923065,0.22259123623371124,0.040913715958595276,1071.376077045403
+https://i.ytimg.com/vi/qChhnTQxtgQ/hqdefault.jpg,rejected,too_small 480x360,,,,
+https://yellowpages.com.tr/static/media/oztSMJtcRC81XOTtdY7o.jpg,error,download: 403 Client Error: Forbidden for url: https://yellowpages.com.tr/static/media/oztSMJtcRC81XOTtdY7o.jpg,,,,
+x-raw-image:///3cccd4babe24a456b90d66adc8f85d8afb6357c9c133d35b3e36ac2928f73d93,error,download: No connection adapters were found for 'x-raw-image:///3cccd4babe24a456b90d66adc8f85d8afb6357c9c133d35b3e36ac2928f73d93',,,,
+https://0.academia-photos.com/attachment_thumbnails/97727697/mini_magick20230124-1-1w1i9tp.png?1674553235,rejected,too_small 595x842,,,,
+https://tusahospital.com/assets/doctor/mediha.jpg,rejected,blur=96.3 < 100.0,,,,
+x-raw-image:///ce4578817a6a9b22cee4f8675f71b8b1b7b0c7ab82ec7c53b8de20370db13970,error,download: No connection adapters were found for 'x-raw-image:///ce4578817a6a9b22cee4f8675f71b8b1b7b0c7ab82ec7c53b8de20370db13970',,,,
+x-raw-image:///acab24f517a73f0c86d96d9e361a8a716e259a54c936d15eb14306a9874c7f4c,error,download: No connection adapters were found for 'x-raw-image:///acab24f517a73f0c86d96d9e361a8a716e259a54c936d15eb14306a9874c7f4c',,,,
+x-raw-image:///b9218666d465de2f3012a1bc806047a47aa1763b1c6d1200b46f93bb07ee7d5e,error,download: No connection adapters were found for 'x-raw-image:///b9218666d465de2f3012a1bc806047a47aa1763b1c6d1200b46f93bb07ee7d5e',,,,
+https://www.turkiyeklinikleri.tv/uploads/arsiv/q0QBFwn3NmsX2E1rlVjQJgrtvn71LwHP62Kq3LRF.jpeg,rejected,too_small 960x540,,,,
+https://altanyucetas.com/wp-content/uploads/2018/06/anasayfa-blog-botoks.jpg,rejected,too_small 325x365,,,,
+https://adana.baskenthastaneleri.com/uploads/images/doktorlar/GAST-1267-EKBWMAWF.jpg,rejected,too_small 265x385,,,,
+https://i.ytimg.com/vi/zv-utOB-WxQ/maxresdefault.jpg,rejected,clip_threshold,0.20366103947162628,0.19273169338703156,0.010929346084594727,419.1733853865259
+https://megapolhospital.com.tr/de/wp-content/uploads/2024/05/dr1.jpg,rejected,clip_threshold,0.2467634379863739,0.19482479989528656,0.05193863809108734,133.79807284782845
+https://baudentalinternational.com/wp-content/uploads/2025/01/bebek-serra-oguz-ahmet.jpg,rejected,too_small 400x400,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122131370522723255,error,download: cannot identify image file <_io.BytesIO object at 0x15eacdb20>,,,,
+https://www.oztanhastanesi.com/wp-content/uploads/2024/08/yasin-gunes.png,rejected,too_small 356x403,,,,
+https://i1.rgstatic.net/publication/275481379_Evaluation_of_Medical_Records_of_a_Dental_Patient_Population_Which_Admitted_to_a_University_Hospital_Dental_Clinic_Turkish/links/5691664d08ae0f920dcb8d4c/largepreview.png,rejected,clip_threshold,0.19328051805496216,0.2079954743385315,-0.014714956283569336,10548.345711229946
+x-raw-image:///af50c1c4c63b8c932b1893d8e6b7f279c3f4cafd8948ff6000c86c62a98546ab,error,download: No connection adapters were found for 'x-raw-image:///af50c1c4c63b8c932b1893d8e6b7f279c3f4cafd8948ff6000c86c62a98546ab',,,,
+x-raw-image:///58bb8a3c0957423e89392155afd7b2452cf8f24efe88a258612b32142d3795f7,error,download: No connection adapters were found for 'x-raw-image:///58bb8a3c0957423e89392155afd7b2452cf8f24efe88a258612b32142d3795f7',,,,
+"https://static.wixstatic.com/media/021a87_2a59f5a341674317b968dc9a2026995a.jpg/v1/crop/x_0,y_6,w_5490,h_1780/fill/w_248,h_149,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/021a87_2a59f5a341674317b968dc9a2026995a.jpg",rejected,too_small 248x149,,,,
+x-raw-image:///149fdc6a968eb5b49ad842109136cacca4dc69b7a894c6a499850fe029c60de5,error,download: No connection adapters were found for 'x-raw-image:///149fdc6a968eb5b49ad842109136cacca4dc69b7a894c6a499850fe029c60de5',,,,
+x-raw-image:///79b5a1e56c1b11a547eac787fa5b7ffdfbea1b683f013176405b4bfe8b927e87,error,download: No connection adapters were found for 'x-raw-image:///79b5a1e56c1b11a547eac787fa5b7ffdfbea1b683f013176405b4bfe8b927e87',,,,
+x-raw-image:///561d8521cb686a7863bfe266e1a830128d950f506b6a4ca3345e66b9fd7e05a9,error,download: No connection adapters were found for 'x-raw-image:///561d8521cb686a7863bfe266e1a830128d950f506b6a4ca3345e66b9fd7e05a9',,,,
+https://volkanizol.com/wp-content/plugins/elementor/assets/images/placeholder.png,rejected,blur=5.7 < 100.0,,,,
+x-raw-image:///2fb4e966b1a5710efec1d1836c1ce351353228829b7929163e3ec34151fdbf74,error,download: No connection adapters were found for 'x-raw-image:///2fb4e966b1a5710efec1d1836c1ce351353228829b7929163e3ec34151fdbf74',,,,
+x-raw-image:///18c25abddd4cbf22ce22795cd22ec2fa85595baa5a2f8ecfd6b121780d0d2560,error,download: No connection adapters were found for 'x-raw-image:///18c25abddd4cbf22ce22795cd22ec2fa85595baa5a2f8ecfd6b121780d0d2560',,,,
+https://tusahospital.com/assets/doctor/ilhan-bey.jpg,rejected,blur=60.0 < 100.0,,,,
+x-raw-image:///185ff4a1cc958adb0ed93ede101bc626f7854f2037aacf46d630878ef0a79685,error,download: No connection adapters were found for 'x-raw-image:///185ff4a1cc958adb0ed93ede101bc626f7854f2037aacf46d630878ef0a79685',,,,
+https://img.piri.net/mnresize/720/-/resim/upload/2025/04/10/03/19/951b09da58440245.jpg,rejected,too_small 720x479,,,,
+https://clinichunter.com/wp-content/uploads/2020/11/Amerimed-hospital-obesity-center.jpg.webp,rejected,clip_threshold,0.21682286262512207,0.15651902556419373,0.060303837060928345,475.5993901963119
+https://media.licdn.com/dms/image/v2/C5612AQFUL7Su_Q30BQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520159329412?e=2147483647&v=beta&t=IFkIOlOvYvL2JqLmyUar1iK9CWr2tJ9-x-D1nLPsksg,rejected,clip_threshold,0.22237302362918854,0.18078483641147614,0.0415881872177124,838.5655312285039
+x-raw-image:///ec32870afd2f2bb1a996e6dc9b1bba93357c146ab28c0c075b1b75fa048a023f,error,download: No connection adapters were found for 'x-raw-image:///ec32870afd2f2bb1a996e6dc9b1bba93357c146ab28c0c075b1b75fa048a023f',,,,
+https://esencanhastanesi.com.tr/en/wp-content/uploads/2024/11/SERDAR-TURGUT.jpg,error,download: 404 Client Error: Not Found for url: https://esencanhastanesi.com.tr/en/wp-content/uploads/2024/11/SERDAR-TURGUT.jpg,,,,
+x-raw-image:///06c68f9e72543493fbbdd6347a53bb4a67a609a31acaf02a7e08f28bc712ef2b,error,download: No connection adapters were found for 'x-raw-image:///06c68f9e72543493fbbdd6347a53bb4a67a609a31acaf02a7e08f28bc712ef2b',,,,
+https://online.pubhtml5.com/gtol/jppz/files/large/1.jpg?1613634232,rejected,clip_threshold,0.21022197604179382,0.18372279405593872,0.026499181985855103,435.162425581785
+https://ayt-files.s3.amazonaws.com/user_photos/Dr.tevfik_3_11zon.jpg,rejected,clip_threshold,0.2908375561237335,0.2099306583404541,0.08090689778327942,108.43977471460099
+x-raw-image:///6813120ee1fb61a401300aa1aeb06d778e394fd57c6642059d785c59a053d37b,error,download: No connection adapters were found for 'x-raw-image:///6813120ee1fb61a401300aa1aeb06d778e394fd57c6642059d785c59a053d37b',,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2412692691643515765,error,download: cannot identify image file <_io.BytesIO object at 0x14632df80>,,,,
+x-raw-image:///8138763d2edd8c760ec829101fc819649178be1bb51a12bc611bd814429a3867,error,download: No connection adapters were found for 'x-raw-image:///8138763d2edd8c760ec829101fc819649178be1bb51a12bc611bd814429a3867',,,,
+https://esencanhastanesi.com.tr/en/wp-content/uploads/2024/06/dr-atakan-ozkan.jpg,error,download: 404 Client Error: Not Found for url: https://esencanhastanesi.com.tr/en/wp-content/uploads/2024/06/dr-atakan-ozkan.jpg,,,,
+https://plasticeraclinic.com/wp-content/uploads/2024/11/bina-dis-cephe.jpeg,rejected,clip_threshold,0.2658504843711853,0.1752299666404724,0.09062051773071289,1554.0701748014615
+https://sagliktahaber.com/wp-content/uploads/2023/11/hastane-doktor-adresleri.jpg,rejected,too_small 640x375,,,,
+x-raw-image:///b962603e4bda16bfa62f2a287819c0b217716f1a02a72dc3de223967e65fdd7c,error,download: No connection adapters were found for 'x-raw-image:///b962603e4bda16bfa62f2a287819c0b217716f1a02a72dc3de223967e65fdd7c',,,,
+x-raw-image:///0c74c6f758eeaa48a40521f64b8979762298b851d2089f8e0864eb8be28907de,error,download: No connection adapters were found for 'x-raw-image:///0c74c6f758eeaa48a40521f64b8979762298b851d2089f8e0864eb8be28907de',,,,
+https://www.dokuclinic.com/wp-content/uploads/2024/12/dokuwebbanner-mobil.jpg,rejected,clip_threshold,0.2420157790184021,0.20028948783874512,0.04172629117965698,353.1464641643306
+http://medilocation.com/site/assets/files/1761/2d623bbb-1007-4430-9bdc-862f23f5d29f.300x300.jpg,error,download: 403 Client Error: Forbidden for url: http://medilocation.com/site/assets/files/1761/2d623bbb-1007-4430-9bdc-862f23f5d29f.300x300.jpg,,,,
+https://www.maslakimplant.com/images/main-slider/content-image-3.png,rejected,clip_threshold,0.2668823301792145,0.22129027545452118,0.0455920547246933,2268.9468392342505
+https://www.istanbulhospital.com.tr/wp-content/uploads/2022/06/Uzm.-Dr.-Zubeyde-Yuce-Algan-kopya-575x575-1.jpg,rejected,too_small 575x575,,,,
+https://www.acibadem.com.tr/assets/images/doctors/selim-aydin-banner.webp,rejected,too_small 460x600,,,,
+https://altanyucetas.com/wp-content/uploads/2018/06/anasayfa-danisma.jpg.webp,rejected,too_small 250x150,,,,
+x-raw-image:///6c07b80a883691fc779cca7bf42676c0f1a0a4fd30baed3ad947a1282f23d4f9,error,download: No connection adapters were found for 'x-raw-image:///6c07b80a883691fc779cca7bf42676c0f1a0a4fd30baed3ad947a1282f23d4f9',,,,
+https://www.aktip.com.tr/Admin/Media/Proje/81b61388-2f85-426e-897f-a8ffcb355f2a.jpg,rejected,clip_threshold,0.23559902608394623,0.1979493945837021,0.03764963150024414,486.4931569442274
+https://plasurgery.com/uploaded-files/doctor/39/image4x4.webp,rejected,too_small 400x400,,,,
+https://drahmedaltan.com/templates/images/hairliner.svg,error,download: cannot identify image file <_io.BytesIO object at 0x1619c3c90>,,,,
+x-raw-image:///0f50155d691eae28a22f515a853169a20070d650abfe117b715cb93ccb9d2927,error,download: No connection adapters were found for 'x-raw-image:///0f50155d691eae28a22f515a853169a20070d650abfe117b715cb93ccb9d2927',,,,
+https://baudentalinternational.com/wp-content/uploads/2025/01/candan-pelin-gunes.jpg,rejected,too_small 400x400,,,,
+https://imgv2-1-f.scribdassets.com/img/document/719109791/original/04b2b40b28/1?v=1,rejected,clip_threshold,0.15287689864635468,0.19504369795322418,-0.04216679930686951,2714.6870012292597
+x-raw-image:///f176aec42b048238a9b88beb1e3585bd8ff9b2eba9ed6c6aa43d0d6942a32b62,error,download: No connection adapters were found for 'x-raw-image:///f176aec42b048238a9b88beb1e3585bd8ff9b2eba9ed6c6aa43d0d6942a32b62',,,,
+x-raw-image:///446ad72cc84626fed2ba64c9edf027e9a0886745d73003d3306b437418c07f87,error,download: No connection adapters were found for 'x-raw-image:///446ad72cc84626fed2ba64c9edf027e9a0886745d73003d3306b437418c07f87',,,,
+https://www.aktip.com.tr/Admin/Media/Proje/a472e58c-0b8a-4431-af36-5ac57f6dc101.jpg,rejected,clip_threshold,0.19109436869621277,0.17766186594963074,0.013432502746582031,881.9031784808985
+x-raw-image:///df314c39c9f09fd75e80df8f3987ea6de5b4290e31ffcd99a749b89e28afb92f,error,download: No connection adapters were found for 'x-raw-image:///df314c39c9f09fd75e80df8f3987ea6de5b4290e31ffcd99a749b89e28afb92f',,,,
+https://www.yenihayattipmerkezi.com/wp-content/uploads/2024/02/Erol-Mutlu.jpg,rejected,too_small 500x500,,,,
+https://s3.cloud.ngn.com.tr/kitantik/images/2024-04-26/1br9qfwlvg3vlu7150v.JPG,rejected,clip_threshold,0.18801738321781158,0.1970990002155304,-0.009081616997718811,3933.0189512482634
+https://doktorinfo.hacettepe.edu.tr/images/doktorlar/357/doktorid_357.jpg,error,"download: HTTPSConnectionPool(host='doktorinfo.hacettepe.edu.tr', port=443): Max retries exceeded with url: /images/doktorlar/357/doktorid_357.jpg (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1032)')))",,,,
+x-raw-image:///eba6b80395bc7d66323a258771d320612a0ef49cadb9b813e03aefcaf99f6f50,error,download: No connection adapters were found for 'x-raw-image:///eba6b80395bc7d66323a258771d320612a0ef49cadb9b813e03aefcaf99f6f50',,,,
+x-raw-image:///388eaddd3c2f151715bd6729f443b4763763a65a08eb6b76ddc561988c5ca97b,error,download: No connection adapters were found for 'x-raw-image:///388eaddd3c2f151715bd6729f443b4763763a65a08eb6b76ddc561988c5ca97b',,,,
+https://plasticeraclinic.com/wp-content/uploads/2024/10/op-dr-serkan-balta-md.jpg,rejected,blur=97.3 < 100.0,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3532408625276611900,error,download: cannot identify image file <_io.BytesIO object at 0x1619c2cf0>,,,,
+https://www.oztanhastanesi.com/wp-content/uploads/2024/07/Ilker-Cingoz-Yuvarlak.png,rejected,too_small 356x403,,,,
+https://www.livhospital.com/uploads/f006d0e6-81ca-445e-9d2e-f7766e461567_yapay-mesane.webp,rejected,too_small 592x327,,,,
+https://famax.org/frontend/uploads/2022/10/ozbekistan_mehmet_bey2-1024x1024.jpg,rejected,clip_threshold,0.27318274974823,0.20544956624507904,0.06773318350315094,106.05754538580237
+https://famax.org/frontend/uploads/2022/10/ozbekistan_gidis_kapak.jpg,rejected,too_small 600x400,,,,
+https://adana.baskenthastaneleri.com/uploads/images/doktorlar/enes_kalintas_web.jpg,rejected,too_small 591x858,,,,
+https://www.dokuclinic.com/wp-content/uploads/2025/02/Doku_NewWeb_Mobil_AnaSlider_240216-19-1.jpg,rejected,blur=93.4 < 100.0,,,,
+"https://static.wixstatic.com/media/021a87_b44cc79905f841a4ba012bc1ff4d90c6~mv2.jpg/v1/fill/w_534,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/021a87_b44cc79905f841a4ba012bc1ff4d90c6~mv2.jpg",rejected,too_small 534x400,,,,
+https://istanbulbaskentuniversitesi.com/upload/doctors/uzm_dr_merve_metin.jpg,rejected,clip_threshold,0.18183493614196777,0.18792274594306946,-0.006087809801101685,156.92022083360013
+https://www.sakaryakent.com/images/haberler/2016/11/iki-poliklinik-daha-mesai-disi-hizmet-verecek.jpg,rejected,too_small 650x360,,,,
+https://www.turkiyeklinikleri.tv/uploads/arsiv/X4zAaj5rLTsFSzlLVGpQrJjb1pGPxDl48xnZSpQx.png,rejected,too_small 952x532,,,,
+https://en.doktoruzman.com/images/dr_noimage.svg,error,"download: HTTPSConnectionPool(host='en.doktoruzman.com', port=443): Max retries exceeded with url: /images/dr_noimage.svg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x16198c550>, 'Connection to en.doktoruzman.com timed out. (connect timeout=15)'))",,,,
+x-raw-image:///f8ef58aed8a948b9e5f7fbbee09087f071b6789126e89afa4404c06ed5c6e117,error,download: No connection adapters were found for 'x-raw-image:///f8ef58aed8a948b9e5f7fbbee09087f071b6789126e89afa4404c06ed5c6e117',,,,
+x-raw-image:///809dce1219249b586714fd43d1d2bb31c01ad42a28d599178d07349b20bd9e64,error,download: No connection adapters were found for 'x-raw-image:///809dce1219249b586714fd43d1d2bb31c01ad42a28d599178d07349b20bd9e64',,,,
+x-raw-image:///79150862348fe8125b166b4177110eeff1acec57060b7d360c9157aadbdec0a4,error,download: No connection adapters were found for 'x-raw-image:///79150862348fe8125b166b4177110eeff1acec57060b7d360c9157aadbdec0a4',,,,
+x-raw-image:///4cc05d516f1e9f2c80af70403cbc1af14d4a4e3b69b515ae4e33047fb732c8a6,error,download: No connection adapters were found for 'x-raw-image:///4cc05d516f1e9f2c80af70403cbc1af14d4a4e3b69b515ae4e33047fb732c8a6',,,,
+x-raw-image:///6ac2b9ddeb40b07ef364164c7ff47b07aec97f9a9adb43495ffe9a76a58c3315,error,download: No connection adapters were found for 'x-raw-image:///6ac2b9ddeb40b07ef364164c7ff47b07aec97f9a9adb43495ffe9a76a58c3315',,,,
+x-raw-image:///478d25bbfa9ce8b28b5af9bdb4308db2d26b9fec857a2c6012f3c373e7801332,error,download: No connection adapters were found for 'x-raw-image:///478d25bbfa9ce8b28b5af9bdb4308db2d26b9fec857a2c6012f3c373e7801332',,,,
+x-raw-image:///a5ae8465e795d611046b25af5c133839bf7365293914994b1465a4ac8f8ce079,error,download: No connection adapters were found for 'x-raw-image:///a5ae8465e795d611046b25af5c133839bf7365293914994b1465a4ac8f8ce079',,,,
+https://altanyucetas.com/wp-content/uploads/2018/06/anasayfa-blog-vaser-liposuction.jpg,rejected,too_small 325x365,,,,
+https://i.ytimg.com/vi/HLpkxBO5tMs/hqdefault.jpg,rejected,too_small 480x360,,,,
+https://istanbulbaskentuniversitesi.com/upload/doctors/prof-dr-feza-yarbug-karakayali.jpg,rejected,too_small 310x310,,,,
+https://gundemartvincom.teimg.com/gundemartvin-com/uploads/2024/07/medya/temmuz-24/whatsapp-image-2024-07-10-at-152317.jpeg,rejected,clip_threshold,0.21033120155334473,0.18285976350307465,0.02747143805027008,572.0126669626347
+https://imgv2-1-f.scribdassets.com/img/document/817355396/298x396/0377e39c0b/1737240844?v=1,rejected,too_small 298x396,,,,
+x-raw-image:///d8dc4c01dcbc13399cb9b2e81bd53d7ce47a75349974b0af9c9f9d5f197d2677,error,download: No connection adapters were found for 'x-raw-image:///d8dc4c01dcbc13399cb9b2e81bd53d7ce47a75349974b0af9c9f9d5f197d2677',,,,
+https://clinichunter.com/wp-content/uploads/2016/06/dentistry_380x310-1.jpg.webp,rejected,too_small 380x310,,,,
+https://clinicalesta.com.tr/wp-content/uploads/2023/05/Clinic-Alesta-Hakkimizda-1.png.webp,rejected,clip_threshold,0.26995596289634705,0.17093075811862946,0.09902520477771759,1341.0622556706141
+x-raw-image:///3a0988f581efe8a4a92e253513f3f25f8b5d74e15aa638fa419dd6f0aea354cd,error,download: No connection adapters were found for 'x-raw-image:///3a0988f581efe8a4a92e253513f3f25f8b5d74e15aa638fa419dd6f0aea354cd',,,,
+x-raw-image:///2c718c5661b358e1a0527f0b2026f6159a8df3d7dbf85cf44a843518642926bf,error,download: No connection adapters were found for 'x-raw-image:///2c718c5661b358e1a0527f0b2026f6159a8df3d7dbf85cf44a843518642926bf',,,,
+x-raw-image:///4c7693837ea225a764e8b3a144bbccd1c691ecb98a4591a30d2a7f7bda247223,error,download: No connection adapters were found for 'x-raw-image:///4c7693837ea225a764e8b3a144bbccd1c691ecb98a4591a30d2a7f7bda247223',,,,
+https://www.istanbulkitapcisi.com/saglik-bilim-2024-fizyoterapi-ve-rehabilitasyon-ii-tip-saglik-efe-akademi-yayinlari-kolektif-1067128-10-O.jpg,rejected,too_small 320x435,,,,
+x-raw-image:///1c8988f0067c04bf00837ea82e70bfc215e4f0c7f7f037c0ded2a1968a0f03c5,error,download: No connection adapters were found for 'x-raw-image:///1c8988f0067c04bf00837ea82e70bfc215e4f0c7f7f037c0ded2a1968a0f03c5',,,,
+https://tusahospital.com/assets/doctor/i-guvenc-yuksel.jpg,rejected,blur=61.1 < 100.0,,,,
+x-raw-image:///144cee50052dc7461bd38fd4607c732fa7c9f832dbfb477435ce40a20eeb2d3b,error,download: No connection adapters were found for 'x-raw-image:///144cee50052dc7461bd38fd4607c732fa7c9f832dbfb477435ce40a20eeb2d3b',,,,
+https://famax.org/frontend/uploads/2022/10/ozbekistan_mehmet_bey3-1024x1024.jpg,rejected,blur=81.5 < 100.0,,,,
+https://sagliktahaber.com/wp-content/uploads/2023/10/doktor-adresi-nerede.jpg,rejected,too_small 425x255,,,,
+x-raw-image:///02c488caf25aa00a84ca3531314cf09da60366b0efd09f22f1c746657b94ffd2,error,download: No connection adapters were found for 'x-raw-image:///02c488caf25aa00a84ca3531314cf09da60366b0efd09f22f1c746657b94ffd2',,,,
+x-raw-image:///9d4d44ed7c640b6eee7c6ca1256b029ba40fdee0cd5d06ab2b569515cf681ff5,error,download: No connection adapters were found for 'x-raw-image:///9d4d44ed7c640b6eee7c6ca1256b029ba40fdee0cd5d06ab2b569515cf681ff5',,,,
+https://kbud.org.tr/wp-content/uploads/2024/06/IMG-20240601-WA0020.jpg,rejected,clip_threshold,0.16266721487045288,0.1916758269071579,-0.029008612036705017,109.90033618706588
+x-raw-image:///e46d547f0dede0e147cdffe81f41cc5e8bab93ebcc741d23ed8fdbfc14851c69,error,download: No connection adapters were found for 'x-raw-image:///e46d547f0dede0e147cdffe81f41cc5e8bab93ebcc741d23ed8fdbfc14851c69',,,,
+x-raw-image:///ebae16e89217fbff94ecce65902902658b8a2db82f0c4944f62b5b89525a6652,error,download: No connection adapters were found for 'x-raw-image:///ebae16e89217fbff94ecce65902902658b8a2db82f0c4944f62b5b89525a6652',,,,
+https://www.maslakimplant.com/images/g2.jpg,rejected,too_small 500x281,,,,
+https://www.istanbulhospital.com.tr/wp-content/uploads/2022/01/Uzm.-Dr.-Semra-Haytac-kopya-570x570.jpg,rejected,too_small 570x570,,,,
+https://media.licdn.com/dms/image/v2/C5612AQGRDApKFrPbqA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520044214404?e=2147483647&v=beta&t=xCk1AssqyO__S4p35huT-o7lGEhtu42QRQgcvWiLJDY,rejected,clip_threshold,0.24507233500480652,0.1794005036354065,0.06567183136940002,465.0654682654381
+https://plasticeraclinic.com/wp-content/uploads/2018/11/surgery_slide_02-1.png,rejected,clip_threshold,0.24897733330726624,0.21309739351272583,0.035879939794540405,257.9708643175614
+x-raw-image:///2e350e4a90149be6dc69479084fa907f695efc637d520b89605beaa0ffde8190,error,download: No connection adapters were found for 'x-raw-image:///2e350e4a90149be6dc69479084fa907f695efc637d520b89605beaa0ffde8190',,,,
+https://img.yumpu.com/30283621/1/500x640/algili-dosyaya-bilgisayaranaza-indirmek-iain-taklayanaz-astanbul-.jpg,rejected,too_small 453x640,,,,
+https://www.researchgate.net/publication/384601685/figure/fig1/AS:11431281281699179@1727975446804/axis-visualization-of-42-white-matter-tracts-obtained-with-the-probabilistic-tractography_Q320.jpg,rejected,too_small 320x320,,,,
+https://fi.realself.com/300/e/7/0/userimage-fbadfa71-a72d-4f42-b47f-9eeab3d3fb74.jpeg,rejected,too_small 300x166,,,,
+https://www.aktip.com.tr/images/ozel-hastane.jpg,rejected,clip_threshold,0.21861013770103455,0.14792868494987488,0.07068145275115967,1407.1578375572699
+x-raw-image:///5c7a61f32123e03bf674fea25bf9bd264154641e4eca05ee58fbcf5687f1b3bc,error,download: No connection adapters were found for 'x-raw-image:///5c7a61f32123e03bf674fea25bf9bd264154641e4eca05ee58fbcf5687f1b3bc',,,,
+x-raw-image:///de1d9669af11883862717b2ae5543706b68e72ee5b2436ae791e55f15709381a,error,download: No connection adapters were found for 'x-raw-image:///de1d9669af11883862717b2ae5543706b68e72ee5b2436ae791e55f15709381a',,,,
+https://static.medigence.com/uploads/doctor/images/1689163306_13985f9427f5225031d9.jpg,rejected,too_small 390x390,,,,
+https://doktorinfo.hacettepe.edu.tr/images/doktorlar/384/doktorid_384.jpg,error,"download: HTTPSConnectionPool(host='doktorinfo.hacettepe.edu.tr', port=443): Max retries exceeded with url: /images/doktorlar/384/doktorid_384.jpg (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1032)')))",,,,
+x-raw-image:///7e16aba62a6c4e469e62434bc59ae88b6e3dbc39e38184ad8701c4b2aa662436,error,download: No connection adapters were found for 'x-raw-image:///7e16aba62a6c4e469e62434bc59ae88b6e3dbc39e38184ad8701c4b2aa662436',,,,
+x-raw-image:///c7b123220edec0fe359c29b08f2f7c0aa961d6da54d49c182fcb80218f5da4f2,error,download: No connection adapters were found for 'x-raw-image:///c7b123220edec0fe359c29b08f2f7c0aa961d6da54d49c182fcb80218f5da4f2',,,,
+x-raw-image:///f50712ee1ebda07a4c5582be1244985ced4cadc7d769df062a0fd0781004028c,error,download: No connection adapters were found for 'x-raw-image:///f50712ee1ebda07a4c5582be1244985ced4cadc7d769df062a0fd0781004028c',,,,
+https://www.acibadem.com.tr/assets/images/doctors/ahmet-kaya-bilge-banner.webp,rejected,too_small 460x600,,,,
+x-raw-image:///87415fce6bcde6b0cd98ddb68aff952a9461a3d2aa4012ea0b83f20a1ab21c62,error,download: No connection adapters were found for 'x-raw-image:///87415fce6bcde6b0cd98ddb68aff952a9461a3d2aa4012ea0b83f20a1ab21c62',,,,
+https://megapolhospital.com.tr/de/wp-content/uploads/2024/05/dr7.jpg,rejected,clip_threshold,0.23601625859737396,0.2092059701681137,0.026810288429260254,587.3248371335429
+x-raw-image:///2905b994876728ab5638293e9c50240b7b30a03f8196dfd0f3e1eee03ebeaf41,error,download: No connection adapters were found for 'x-raw-image:///2905b994876728ab5638293e9c50240b7b30a03f8196dfd0f3e1eee03ebeaf41',,,,
+https://www.oztanhastanesi.com/wp-content/uploads/2024/05/mervetavsan_doktorweb.png,rejected,too_small 356x403,,,,
+x-raw-image:///e31d738732f3f2e2703b1eeaf49b979549fc51b6aaf11ae4ebaa17c6431bbb2c,error,download: No connection adapters were found for 'x-raw-image:///e31d738732f3f2e2703b1eeaf49b979549fc51b6aaf11ae4ebaa17c6431bbb2c',,,,
+x-raw-image:///83c3600fd8b145cdd8c27f966470a858af1622b2705f4109b939735753d2c5d8,error,download: No connection adapters were found for 'x-raw-image:///83c3600fd8b145cdd8c27f966470a858af1622b2705f4109b939735753d2c5d8',,,,
+https://istanbulbaskentuniversitesi.com/upload/doctors/doc_dr_burak_hunuk_min.jpg,rejected,blur=62.5 < 100.0,,,,
+https://plasurgery.com/img/Doctors.webp,rejected,clip_threshold,0.25253263115882874,0.21327100694179535,0.039261624217033386,133.28341999305485
+https://esencanhastanesi.com.tr/en/wp-content/uploads/2024/11/dr-ozen-1.jpg,error,download: 404 Client Error: Not Found for url: https://esencanhastanesi.com.tr/en/wp-content/uploads/2024/11/dr-ozen-1.jpg,,,,
+https://altanyucetas.com/wp-content/uploads/2018/06/anasayfa-blog-liposuction.jpg.webp,rejected,too_small 325x365,,,,
+https://ayt-files.s3.amazonaws.com/user_photos/hhuuu.jpg,rejected,blur=80.1 < 100.0,,,,
+x-raw-image:///d44e0a3dc1fd4fa3065a140bf617adcbd794d4e0e6a4e5fd6282fb5fd7741b0a,error,download: No connection adapters were found for 'x-raw-image:///d44e0a3dc1fd4fa3065a140bf617adcbd794d4e0e6a4e5fd6282fb5fd7741b0a',,,,
+x-raw-image:///8e54e58abb6ba2f6c21bb388c6008782fd751f3a2882694c36f59b485c4bb3a0,error,download: No connection adapters were found for 'x-raw-image:///8e54e58abb6ba2f6c21bb388c6008782fd751f3a2882694c36f59b485c4bb3a0',,,,
+https://fi.realself.com/300/4/9/a/10510851-5717985.jpeg,rejected,too_small 300x248,,,,
+https://www.dentapolitan.com/assets/img/branches/dentapolitan-bostanci-dental-hospital.jpg,rejected,too_small 627x570,,,,
+https://www.dokuclinic.com/wp-content/uploads/2023/02/Doku_NewWeb_Mobil_AnaSlider_yazisiz-06-scaled-1.jpg,rejected,blur=22.9 < 100.0,,,,
+x-raw-image:///3f646ba5b01f209846138db1415dfa606eee7d2de6538ab931c646e9fc214dd1,error,download: No connection adapters were found for 'x-raw-image:///3f646ba5b01f209846138db1415dfa606eee7d2de6538ab931c646e9fc214dd1',,,,
+https://mediviahospital.com.tr/is_dosyalar/2025/04/23/is_6960.jpg,rejected,clip_threshold,0.25694212317466736,0.2155589461326599,0.041383177042007446,673.6410611012974
+x-raw-image:///2890d5c69fb11b0d736c26593b400376e3d352fee983f38e226a4cda0fbaf2c1,error,download: No connection adapters were found for 'x-raw-image:///2890d5c69fb11b0d736c26593b400376e3d352fee983f38e226a4cda0fbaf2c1',,,,
+https://static.medigence.com/uploads/doctor/images/2ca7bfb55c44939cd62b2a8c7bdd1ac1.jpg,rejected,too_small 390x390,,,,
+x-raw-image:///d5d59ee38223324f938c72d11c30a01185bc0124258ba008006afeaba49e0c7f,error,download: No connection adapters were found for 'x-raw-image:///d5d59ee38223324f938c72d11c30a01185bc0124258ba008006afeaba49e0c7f',,,,
+https://www.yenihayattipmerkezi.com/wp-content/uploads/2021/12/kadin-hastaliklari-ve-dogum-1.jpg,rejected,clip_threshold,0.22623246908187866,0.17818988859653473,0.04804258048534393,187.13844385213196
+https://doktorinfo.hacettepe.edu.tr/images/doktorlar/797/doktorid_797.jpg,error,"download: HTTPSConnectionPool(host='doktorinfo.hacettepe.edu.tr', port=443): Max retries exceeded with url: /images/doktorlar/797/doktorid_797.jpg (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1032)')))",,,,
+https://www.turkiyeklinikleri.tv/uploads/arsiv/WWxnZlVBDdXU0kntwzAVOlvN2nf5dsnmubnWWqMO.jpeg,rejected,too_small 960x540,,,,
+x-raw-image:///9b66b5492c2f329eae75c9eee19577aa91e1def8a8617951cf6d795bd4432ba1,error,download: No connection adapters were found for 'x-raw-image:///9b66b5492c2f329eae75c9eee19577aa91e1def8a8617951cf6d795bd4432ba1',,,,
+https://www.euegeajans.com/wp-content/uploads/2021/06/EGE-ALTAN-CILINGIROGLU-CENAZE-6-1024x683.jpg,rejected,clip_threshold,0.17714771628379822,0.16565433144569397,0.011493384838104248,1674.2666838754992
+https://0.academia-photos.com/attachment_thumbnails/42569981/mini_magick20190217-8883-tz5pi4.png?1550433367,rejected,too_small 574x794,,,,
+x-raw-image:///f73cddca858f85e4c7b956d93ff0f6c48e357b4f5f80cccb2c4e640a4d21162a,error,download: No connection adapters were found for 'x-raw-image:///f73cddca858f85e4c7b956d93ff0f6c48e357b4f5f80cccb2c4e640a4d21162a',,,,
+https://www.dentapolitan.com/assets/img/branches/dentapolitan-pendik-dental-hospital.jpg,rejected,too_small 627x570,,,,
+https://www.dentapolitan.com/assets/img/branches/dentapolitan-umraniye-dental-hospital.jpg,rejected,too_small 627x570,,,,
+https://baudentalinternational.com/wp-content/uploads/2025/01/Burcin-Arican-.jpg,rejected,clip_threshold,0.22598442435264587,0.16640613973140717,0.05957828462123871,258.61648405349723
+https://adana.baskenthastaneleri.com/uploads/images/doktorlar/ismailkarluka.png,rejected,too_small 265x385,,,,
+https://tusahospital.com/assets/doctor/asude-bg.png,rejected,clip_threshold,0.20508010685443878,0.15587526559829712,0.04920484125614166,131.85293525962456
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3684541198881742808,error,download: cannot identify image file <_io.BytesIO object at 0x14632fbf0>,,,,
+https://online.pubhtml5.com/gtol/jppz/files/large/3.jpg?1613634232,rejected,clip_threshold,0.2340935319662094,0.22102119028568268,0.013072341680526733,1210.489977524595
+https://famax.org/frontend/uploads/2022/10/ozbekistan_muharrem3-1024x1024.jpg,rejected,blur=42.5 < 100.0,,,,
+https://www.istanbulhospital.com.tr/wp-content/uploads/2022/02/Op.-Dr.-Muhammed-Cemiloglu-kopya-575x575.jpg,rejected,too_small 575x575,,,,
+https://sagliktahaber.com/wp-content/uploads/2024/06/instagram-saglikta-h.jpg,rejected,too_small 717x379,,,,
+http://galeri3.arkitera.com/var/thumbs/Arkiv.com.tr/Proje/iki-mimar/mutlu-dental-klinik/001-Mutlu_Dental.JPG.jpeg,rejected,too_small 300x225,,,,
+https://www.aktip.com.tr/images/aktip-online-muayene.jpg,rejected,clip_threshold,0.23153448104858398,0.2306901514530182,0.0008443295955657959,610.247423033276
+https://mediviahospital.com.tr/is_dosyalar/2025/04/2861.jpg,rejected,clip_threshold,0.1982783079147339,0.19949564337730408,-0.0012173354625701904,1029.7603992567888
+https://fi.realself.com/300/e/4/c/9548912-4686326.jpeg,rejected,too_small 300x300,,,,
+https://gundemartvincom.teimg.com/gundemartvin-com/uploads/2024/07/medya/temmuz-24/whatsapp-image-2024-07-10-at-152319.jpeg,rejected,clip_threshold,0.20814187824726105,0.20955714583396912,-0.0014152675867080688,233.4755135517284
+https://www.acibadem.com.tr/assets/images/doctors/yetkin-zeki-yilmaz-banner.webp,rejected,too_small 460x600,,,,
+https://plasticeraclinic.com/wp-content/uploads/2024/09/medikal-estetik-355x355.jpg,rejected,too_small 355x355,,,,
+https://www.habertekirdag.net/haber/files/5f844695b9824.jpg,rejected,clip_threshold,0.19116348028182983,0.17782679200172424,0.01333668828010559,548.6168692012919
+https://www.turkiyeklinikleri.tv/uploads/arsiv/gIeWgLPgWaGNyJq1Oo0HEjV0OB9o9mMy8tf1c5Hz.jpeg,rejected,too_small 960x540,,,,
+https://www.dokuclinic.com/wp-content/uploads/2023/02/Doku_NewWeb_Mobil_AnaSlider_yazisiz-02-scaled-1.jpg,rejected,blur=34.7 < 100.0,,,,
+https://api.ateksis.com/storage?path=news&file=201810011059_66XTCD9URH.jpg,rejected,too_small 784x441,,,,
+https://api.ateksis.com/storage?path=news&file=201809111009_dTDXi5xq5oHoY5xBsD2o.jpg,rejected,too_small 400x266,,,,
+https://www.gazetekadikoy.com.tr/Uploads/gazetekadikoy.com.tr/haberler/200495576245893-img.jpg,rejected,too_small 650x450,,,,
+https://esencanhastanesi.com.tr/es/wp-content/uploads/2024/06/dr-ahmet-mahmutoglu.jpg,error,download: 404 Client Error: Not Found for url: https://esencanhastanesi.com.tr/es/wp-content/uploads/2024/06/dr-ahmet-mahmutoglu.jpg,,,,
+https://megapolhospital.com.tr/de/wp-content/uploads/2024/05/ahmet-kaya-doktor-1.jpg,rejected,clip_threshold,0.25197166204452515,0.219939187169075,0.032032474875450134,766.4727107049871
+x-raw-image:///2f2c1d726592febbe531eada721b2f2d7febfe5e56235cea3ce5f14298768284,error,download: No connection adapters were found for 'x-raw-image:///2f2c1d726592febbe531eada721b2f2d7febfe5e56235cea3ce5f14298768284',,,,
+x-raw-image:///bbf737c1b7b2655bb30b9abb4686fd0444880661149ddf415edc3f5fbdc889f9,error,download: No connection adapters were found for 'x-raw-image:///bbf737c1b7b2655bb30b9abb4686fd0444880661149ddf415edc3f5fbdc889f9',,,,
+x-raw-image:///5bed8200076733c87eb9b3fd01a0ef4b0659cd7f43f4366e81d2004e7ea52bc0,error,download: No connection adapters were found for 'x-raw-image:///5bed8200076733c87eb9b3fd01a0ef4b0659cd7f43f4366e81d2004e7ea52bc0',,,,
+x-raw-image:///8f37fa90aafcaa756723ccd10f13271401bdc2e13810d0e5863272adb330b4a9,error,download: No connection adapters were found for 'x-raw-image:///8f37fa90aafcaa756723ccd10f13271401bdc2e13810d0e5863272adb330b4a9',,,,
+x-raw-image:///1fd7fbd27b1bcd5f6dc303aae4222eccf51cdaccfcbdcc76e49e19025b56ff13,error,download: No connection adapters were found for 'x-raw-image:///1fd7fbd27b1bcd5f6dc303aae4222eccf51cdaccfcbdcc76e49e19025b56ff13',,,,
+http://galeri3.arkitera.com/var/thumbs/Arkiv.com.tr/Proje/iki-mimar/clinique-312/001.jpg.jpeg,rejected,too_small 300x225,,,,
+https://gundemartvincom.teimg.com/gundemartvin-com/uploads/2024/07/medya/temmuz-24/whatsapp-image-2024-07-10-at-214252.jpeg,rejected,clip_threshold,0.1889922171831131,0.19047342240810394,-0.0014812052249908447,370.7450395739115
+x-raw-image:///312284a134c6f3bf077c67c0241a88127c4c959dfd71743080c92ba04dba5684,error,download: No connection adapters were found for 'x-raw-image:///312284a134c6f3bf077c67c0241a88127c4c959dfd71743080c92ba04dba5684',,,,
+x-raw-image:///374c3e44d95d1c1562005f1c22b256f960474b870b70e10179813ca8a7f5d99d,error,download: No connection adapters were found for 'x-raw-image:///374c3e44d95d1c1562005f1c22b256f960474b870b70e10179813ca8a7f5d99d',,,,
+https://www.oztanhastanesi.com/wp-content/uploads/2024/05/mehmet-akif-sanli-2.png,rejected,too_small 356x408,,,,
+https://www.maslakimplant.com/images/main-slider/content-image-2.png,rejected,clip_threshold,0.24401479959487915,0.20793427526950836,0.03608052432537079,2230.3429548792506
+https://static.medigence.com/uploads/doctor/images/171779c6e003d768af3b5df65d7ece19.jpg,rejected,too_small 390x390,,,,
+x-raw-image:///7603e5655339884432d56d324dc8fb4feb68661f223da287930c12f3ac921e34,error,download: No connection adapters were found for 'x-raw-image:///7603e5655339884432d56d324dc8fb4feb68661f223da287930c12f3ac921e34',,,,
+https://www.parkhayat.com/img/upload/hekim-fotodogan-tosun__.png,rejected,too_small 345x345,,,,
+https://www.parkhayat.com/img/upload/gokalp__.jpg,rejected,too_small 345x345,,,,
+x-raw-image:///e1c79d6d5709a8c2e2afc9445f97fe047a753491e618fb4889133ef3ccc87c71,error,download: No connection adapters were found for 'x-raw-image:///e1c79d6d5709a8c2e2afc9445f97fe047a753491e618fb4889133ef3ccc87c71',,,,
+https://clinichunter.com/wp-content/themes/clinichunter/img/insurance/insurance_info.png,rejected,too_small 256x239,,,,
+http://www.euegeajans.com/wp-content/uploads/2021/06/EGE-ALTAN-CILINGIROGLU-CENAZE-7-300x200.jpg,rejected,too_small 300x200,,,,
+https://www.parkhayat.com/img/upload/m-hilmi-koputan__.png,rejected,too_small 345x345,,,,
+https://doktorinfo.hacettepe.edu.tr/images/doktorlar/34/doktorid_34.jpg,error,"download: HTTPSConnectionPool(host='doktorinfo.hacettepe.edu.tr', port=443): Max retries exceeded with url: /images/doktorlar/34/doktorid_34.jpg (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1032)')))",,,,
+https://mediviahospital.com.tr/is_dosyalar/2025/04/26/is_4454.jpg,rejected,clip_threshold,0.2670568823814392,0.21257424354553223,0.05448263883590698,1109.2354723023159
+x-raw-image:///115e3ae0988b1a0c09983e8094576547fe0225d834bf567c7338ac0bdfe62c61,error,download: No connection adapters were found for 'x-raw-image:///115e3ae0988b1a0c09983e8094576547fe0225d834bf567c7338ac0bdfe62c61',,,,
+https://famax.org/frontend/uploads/2022/10/ozbekistan_gokhan_demirayak3-1024x1024.jpg,rejected,clip_threshold,0.18356852233409882,0.204957515001297,-0.02138899266719818,576.6049203659495
+x-raw-image:///7e7e094c28012478722e795d4cc3792464c887df49289750eea8f5bc41a85cc8,error,download: No connection adapters were found for 'x-raw-image:///7e7e094c28012478722e795d4cc3792464c887df49289750eea8f5bc41a85cc8',,,,
+https://img.piri.net/mnresize/1200/-/resim/upload/2025/04/10/03/19/7256e67058440249.jpg,rejected,clip_threshold,0.17414458096027374,0.1855926364660263,-0.011448055505752563,197.211114558284
+https://istanbulbaskentuniversitesi.com/upload/doctors/prof_dr_yaprak_banu_unver.png,rejected,too_small 400x400,,,,
+x-raw-image:///9f2db9f77242e51939b1aa83723730edae8140d89133550027ae99221a8da53d,error,download: No connection adapters were found for 'x-raw-image:///9f2db9f77242e51939b1aa83723730edae8140d89133550027ae99221a8da53d',,,,
+https://ayt-files.s3.amazonaws.com/user_photos/aysel_uysal_6_11zon_1.jpg,rejected,clip_threshold,0.26968568563461304,0.2302292436361313,0.03945644199848175,124.80911979201093
+https://www.parkhayat.com/img/upload/MAHMUT_.png,rejected,too_small 345x345,,,,
+https://i.ytimg.com/vi/WCnWjOfpLAo/hqdefault.jpg,rejected,too_small 480x360,,,,
+x-raw-image:///b52c352a3fe338f3f19f5eaa2ea1bd5111c891c643c42b90ddce33016b6b513a,error,download: No connection adapters were found for 'x-raw-image:///b52c352a3fe338f3f19f5eaa2ea1bd5111c891c643c42b90ddce33016b6b513a',,,,
+https://adana.baskenthastaneleri.com/uploads/images/doktorlar/RIDVAN-YAVUZ-YUCE_K.jpg,rejected,blur=24.1 < 100.0,,,,
+https://www.ankarapoliklinikleri.com/image/blog/4006/kizilay-botoks.jpg?w=1200&v=3,rejected,too_small 850x445,,,,
+https://www.aktip.com.tr/images/online-muayene-hastane.jpg,rejected,clip_threshold,0.22208499908447266,0.2226901650428772,-0.000605165958404541,416.3096040231561
+https://www.dokuclinic.com/wp-content/uploads/2023/02/Doku_NewWeb_Mobil_AnaSlider_yazisiz-03-scaled-1.jpg,rejected,blur=17.2 < 100.0,,,,
+x-raw-image:///4a72313171ed9f7f0cf6939fc38fa9bbd505d3edb597dc4ce0aad3c87d54d9c6,error,download: No connection adapters were found for 'x-raw-image:///4a72313171ed9f7f0cf6939fc38fa9bbd505d3edb597dc4ce0aad3c87d54d9c6',,,,
+https://doktorinfo.hacettepe.edu.tr/images/doktorlar/331/doktorid_331.jpg,error,"download: HTTPSConnectionPool(host='doktorinfo.hacettepe.edu.tr', port=443): Max retries exceeded with url: /images/doktorlar/331/doktorid_331.jpg (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1032)')))",,,,
+https://static.medigence.com/uploads/doctor/images/eb4c4365edc7c777e4614ee52b3975a4.jpg,rejected,too_small 390x390,,,,
+https://megapolhospital.com.tr/de/wp-content/uploads/2024/05/dr3.jpg,rejected,clip_threshold,0.2556905150413513,0.19108611345291138,0.06460440158843994,250.25271960497125
+https://mediviahospital.com.tr/is_dosyalar/2025/04/27/is_2705.jpg,rejected,clip_threshold,0.2527897357940674,0.2260432243347168,0.026746511459350586,1247.868759680605
+x-raw-image:///22fdb20e227be135e8df19b4465d317f87cd9e425bc6042e6b8ac1247d630a30,error,download: No connection adapters were found for 'x-raw-image:///22fdb20e227be135e8df19b4465d317f87cd9e425bc6042e6b8ac1247d630a30',,,,
+https://i.ytimg.com/vi/0S9wS1qWysA/mqdefault.jpg,rejected,too_small 320x180,,,,
+https://fi.realself.com/300/a/5/d/13381663-6120648.png,rejected,too_small 300x300,,,,
+https://famax.org/frontend/uploads/2022/10/ozbekistan_mehmet_bey-1-1024x1024.jpg,rejected,clip_threshold,0.21003840863704681,0.18494249880313873,0.02509590983390808,169.33428140755495
+https://api.ateksis.com/storage?path=news&file=201809101158_6EDzaWtdarTLYnUsYMYn.jpg,rejected,too_small 784x329,,,,
+https://www.turkiyeklinikleri.tv/uploads/arsiv/akj8mkhqh5KfJCWvfR2mz6Z3SKzTjicmKyNt7bnu.jpeg,rejected,too_small 960x540,,,,
+https://clinichunter.com/wp-content/uploads/2016/06/hair_treatment_380x310-1.jpg.webp,rejected,too_small 380x310,,,,
+https://i.ytimg.com/vi/dhkvY_cHN28/hqdefault.jpg,rejected,too_small 480x360,,,,
+https://doktorinfo.hacettepe.edu.tr/images/doktorlar/812/doktorid_812.jpg,error,"download: HTTPSConnectionPool(host='doktorinfo.hacettepe.edu.tr', port=443): Max retries exceeded with url: /images/doktorlar/812/doktorid_812.jpg (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1032)')))",,,,
+https://www.parkhayat.com/img/upload/SAVA%C5%9E_.png,rejected,too_small 345x345,,,,
+https://www.researchgate.net/publication/384601685/figure/tbl2/AS:11431281281753783@1727975447330/Comparison-of-participants-psychiatric-screening-tests_Q320.jpg,rejected,too_small 320x320,,,,
+https://istanbulbaskentuniversitesi.com/upload/doctors/uzm_dr_azadeh_hayeri.jpg,rejected,too_small 400x400,,,,
+https://ayt-files.s3.amazonaws.com/user_photos/Pelin-min_2_1_11zon.jpg,rejected,clip_threshold,0.26965248584747314,0.1964859962463379,0.07316648960113525,331.4918787153695
+https://i.ytimg.com/vi/VKg3dmeJH2c/maxresdefault.jpg,rejected,clip_threshold,0.2126886248588562,0.2133631408214569,-0.000674515962600708,130.23926331770159
+https://www.dokuclinic.com/wp-content/uploads/2025/06/Doku_Fotona_AnaSayfa_Banner_Slider_Mobil.png,rejected,blur=95.0 < 100.0,,,,
+https://i.ytimg.com/vi/e7PiUpxw9m8/mqdefault.jpg,rejected,too_small 320x180,,,,
+https://www.aktip.com.tr/Admin/Media/Proje/b0927cc4-bd97-4e74-b00f-24438d94115b.jpg,rejected,clip_threshold,0.25697872042655945,0.19504640996456146,0.061932310461997986,468.1784803741162
+https://www.acibadem.com.tr/assets/images/doctors/serdar-yalcin-banner.png,rejected,too_small 460x600,,,,
+https://mediviahospital.com.tr/is_dosyalar/2025/04/23/is_9882.jpg,rejected,clip_threshold,0.2505592703819275,0.22783778607845306,0.022721484303474426,1487.3691938409174
+https://api.ateksis.com/storage?path=news&file=201809111050_q5Oz5r9bjC9EqC9WprQB.jpg,rejected,too_small 500x648,,,,
+https://fi.realself.com/300/7/b/b/10500714-4664387.jpeg,rejected,too_small 300x300,,,,
+https://www.dokuclinic.com/wp-content/uploads/2023/02/Doku_NewWeb_Mobil_AnaSlider_yazisiz-07-scaled-1.jpg,rejected,blur=7.3 < 100.0,,,,
+https://i.ytimg.com/vi/eql-J6ONvoU/hqdefault.jpg,rejected,too_small 480x360,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3659714774379507739,error,download: cannot identify image file <_io.BytesIO object at 0x399f94090>,,,,
+https://www.turkiyeklinikleri.tv/uploads/arsiv/7zrUJjOoduObFP73knCnstzgE4Bb2Ka8wRrDj8Xx.jpeg,rejected,too_small 960x540,,,,
+https://www.dokuclinic.com/wp-content/uploads/2025/06/resim_2025-06-23_144943765-2.png,rejected,clip_threshold,0.21730272471904755,0.18355725705623627,0.03374546766281128,195.7494999817967
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3573503227546719744,error,download: cannot identify image file <_io.BytesIO object at 0x399f6bd30>,,,,
+https://i.ytimg.com/vi/AAqfgxwBlk0/mqdefault.jpg,rejected,too_small 320x180,,,,
+https://i.ytimg.com/vi/FMol9KQ-ybc/hqdefault.jpg,rejected,too_small 480x360,,,,
+https://plasticeraclinic.com/wp-content/uploads/2018/11/surgary_serv_07-355x355.jpg,rejected,too_small 355x355,,,,
+https://www.acibadem.com.tr/assets/images/doctors/yusuf-kenan-yalcinbas-banner.png,rejected,too_small 460x600,,,,
+x-raw-image:///1a66dc3a00cd320fd20ed627d4100e5f29c0e914bc828095386eb28b2beeefae,error,download: No connection adapters were found for 'x-raw-image:///1a66dc3a00cd320fd20ed627d4100e5f29c0e914bc828095386eb28b2beeefae',,,,
+x-raw-image:///0be4491995af40e01e4221aedb847da532e51c4ee05b5008747807c456b9b6e2,error,download: No connection adapters were found for 'x-raw-image:///0be4491995af40e01e4221aedb847da532e51c4ee05b5008747807c456b9b6e2',,,,
+https://fi.realself.com/300/a/0/2/8628797-8221320.png,rejected,too_small 300x300,,,,
+https://www.dokuclinic.com/wp-content/uploads/2025/02/Cagatay-Metin-395x395.jpg,rejected,too_small 395x395,,,,
+https://static.medigence.com/assets/images/dummy-doc.jpg,rejected,too_small 390x390,,,,
+https://i.ytimg.com/vi/nsoA6bjigJw/mqdefault.jpg,rejected,too_small 320x180,,,,
+https://i.ytimg.com/vi/jJ1WKnvjwOY/mqdefault.jpg,rejected,too_small 320x180,,,,
+https://i.ytimg.com/vi/mKA_ZR4Eygg/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH8BIAC6AKKAgwIABABGGUgXChTMA8=&rs=AOn4CLCuar9y6brQbg4FA8mcFfYkyr9kYA,rejected,too_small 480x360,,,,
+https://clinichunter.com/wp-content/uploads/2016/06/plastic_surgery_380x310-1.jpg.webp,rejected,too_small 380x310,,,,
+https://static.medigence.com/resource/images/common/salus_dp.jpg,rejected,clip_threshold,0.24089477956295013,0.21680906414985657,0.024085715413093567,100.03287800716005
+https://i.ytimg.com/vi/id--Wv8iCho/hqdefault.jpg,rejected,too_small 480x360,,,,
+https://www.dokuclinic.com/wp-content/uploads/2023/02/Op.-Dr.-Serhan-Derin-395x395.jpg,rejected,too_small 395x395,,,,
+https://altanyucetas.com/wp-content/uploads/2018/06/anasayfa-hotel.jpg.webp,rejected,too_small 250x150,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3637356744665065879,error,download: cannot identify image file <_io.BytesIO object at 0x1619d9300>,,,,
+https://www.dokuclinic.com/wp-content/uploads/2023/08/06-scarlet-300x210.png,rejected,too_small 300x210,,,,
+https://i.ytimg.com/vi/o1cMnImlGsM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBCj_LVy6iaK6IVf4HHKBujkHLk9A,rejected,too_small 686x386,,,,
+https://i.ytimg.com/vi/IfTXTqGSgMM/mqdefault.jpg,rejected,too_small 320x180,,,,
+https://www.dokuclinic.com/wp-content/uploads/2023/08/07-emtone-300x210.png,rejected,too_small 300x210,,,,
+https://altanyucetas.com/wp-content/uploads/2018/06/anasayfa-blog-genital-estetik.jpg,rejected,too_small 325x365,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3597479560270131901,error,download: cannot identify image file <_io.BytesIO object at 0x16798ae80>,,,,
+https://i.ytimg.com/vi/zEVE6Ik9Td0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDD-7fI0dDzSUqjej_kCgcdl2OmLA,rejected,too_small 686x386,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3694590995978234942,error,download: cannot identify image file <_io.BytesIO object at 0x399f88590>,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3651964229465358039,error,download: cannot identify image file <_io.BytesIO object at 0x15eb8a4d0>,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3638667178219275950,error,download: cannot identify image file <_io.BytesIO object at 0x1619e41d0>,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3583665650991872809,error,download: cannot identify image file <_io.BytesIO object at 0x399f895d0>,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3562811274840713985,error,download: cannot identify image file <_io.BytesIO object at 0x14ca9f290>,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3550309148700757819,error,download: cannot identify image file <_io.BytesIO object at 0x16197b470>,,,,

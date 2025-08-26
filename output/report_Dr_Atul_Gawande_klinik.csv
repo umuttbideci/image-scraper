@@ -1,0 +1,307 @@
+url,status,reason,pos,neg,margin,blur
+https://www.ariadnelabs.org/wp-content/uploads/2019/04/Atul_087-1-e1638394513558-360x343.jpg,rejected,too_small 360x343,,,,
+https://www.statnews.com/wp-content/uploads/2018/07/12212009_21gforcex-7457237-645x645.jpg,rejected,blur=78.6 < 100.0,,,,
+"https://doximity-res.cloudinary.com/images/f_auto,q_auto,t_profile_photo_320x320/zxuw0tpq9tfdc8xw3eed/atul-gawande-md-boston-ma.jpg?noindex=true",rejected,too_small 320x320,,,,
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Atul_Gawande%2C_USAID_Assistant_Administrator.jpg/1200px-Atul_Gawande%2C_USAID_Assistant_Administrator.jpg,rejected,clip_threshold,0.1682797372341156,0.177077054977417,-0.008797317743301392,4910.828240600584
+https://www.adventhealth.com/sites/default/files/styles/og_image/public/media/Atul-Gawande-2000x1333.jpg.webp?itok=FvL5V0xc,rejected,clip_threshold,0.18402303755283356,0.1594035029411316,0.024619534611701965,166.23353253229018
+https://img.apmcdn.org/270ddd635777d9f05ff380b771eab28518f9a55b/portrait/8131bf-20100108-atul-gawande.jpg,rejected,clip_threshold,0.1633383333683014,0.18094371259212494,-0.017605379223823547,921.1216398255359
+https://www.dana-farber.org/sites/default/files/providers/29634.jpg,rejected,too_small 566x487,,,,
+https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/AYYRXAR2FYI6JL2SA2OIQDMM7E.jpg?auth=64e54634a5f99ab2e09fa7162e398efe8b2a8270b06bb0412939f100318c26c4&width=1200&height=672,rejected,clip_threshold,0.18089258670806885,0.15406394004821777,0.026828646659851074,321.6596166724226
+https://caltech-prod.s3.amazonaws.com/main/images/Atul_Gawande-NEWS-WEB.original.jpg,rejected,too_small 472x591,,,,
+https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_1300/public/atul_gawande_tn.jpg,rejected,clip_threshold,0.1971970498561859,0.16388346254825592,0.03331358730792999,466.1412209059534
+https://cooper.edu/sites/default/files/Atul-Gawande_565.jpg,rejected,too_small 565x318,,,,
+http://media.newyorker.com/photos/5fc7cc9104d5eeb69d5bb3dd/master/pass/TNYIV-Remnick-AtulGawande.jpg,rejected,blur=69.9 < 100.0,,,,
+"https://media.newyorker.com/photos/5fc7cc9104d5eeb69d5bb3dd/16:9/w_1280,c_limit/TNYIV-Remnick-AtulGawande.jpg",rejected,blur=83.9 < 100.0,,,,
+https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/QWZNRLDYM4I6RFYLSJFUHBM4PE.jpg?auth=23aec6f0026fc2e7b309a70b13b8d77472cdd53925ac0901463b9159b366b15b&width=1440,rejected,clip_threshold,0.14862509071826935,0.16696494817733765,-0.0183398574590683,687.7898711334013
+https://www.macfound.org/media/photos/gawande_atul_download_1.jpg,rejected,blur=16.4 < 100.0,,,,
+https://www.macfound.org/media/photos/gawande_atul_download_3.jpg,rejected,clip_threshold,0.2410673052072525,0.1672285497188568,0.07383875548839569,129.69245222656477
+https://alchetron.com/cdn/atul-gawande-9fd8e7a9-fb58-4067-9cce-4c90c59c543-resize-750.jpeg,rejected,clip_threshold,0.19367988407611847,0.1681584268808365,0.025521457195281982,255.32702768534512
+"https://media.cnn.com/api/v1/images/stellar/prod/190118223951-02-atul-gawande-risk-takers.jpg?q=w_3792,h_2133,x_0,y_0,c_fill",rejected,clip_threshold,0.22934292256832123,0.175876185297966,0.053466737270355225,250.5777073306316
+https://image.cnbcfm.com/api/v1/image/104761830-atul_gawande.jpg?v=1589801368&w=1600&h=900,rejected,clip_threshold,0.1528921127319336,0.17423278093338013,-0.021340668201446533,139.49281458329423
+https://www.dcp-3.org/sites/default/files/styles/editor/public/Atul_Gawande.jpg?itok=R3-lkj-i,rejected,too_small 150x200,,,,
+https://cdn.sanity.io/images/p34gzxcg/production/f589b2dc8723d5417ca05d91f5bf854dc45b18c1-800x1202.jpg?auto=format&w=1000&fit=scale,rejected,clip_threshold,0.17585785686969757,0.15674108266830444,0.019116774201393127,114.29297335998875
+https://media.npr.org/assets/img/2018/06/20/gettyimages-541808692-1-e0acbd0da75a9f4ef2ead62a344de312d2e26977.jpg,rejected,blur=11.7 < 100.0,,,,
+https://mma.prnewswire.com/media/1330004/Atul_087___2.jpg,rejected,too_small 309x400,,,,
+https://alchetron.com/cdn/atul-gawande-4e0eb639-4ee8-4810-bf16-00228579019-resize-750.jpeg,rejected,too_small 750x499,,,,
+https://assets1.cbsnewsstatic.com/hub/i/r/2017/09/06/4c538d34-8c85-4a7a-96b5-f040e30140d9/thumbnail/320x240/d5548cf51045292aeb97342e80a7b342/0906-ctm-beingmortalqa-gawande-1391014-640x360.jpg,rejected,too_small 320x240,,,,
+https://www.john-adams.nl/wp-content/uploads/2014/04/Atul-Gawande.jpg,rejected,too_small 360x360,,,,
+https://i.ytimg.com/vi/_-a1mhLQ7C4/maxresdefault.jpg,rejected,clip_threshold,0.14294061064720154,0.17457811534404755,-0.03163750469684601,122.32874370865883
+https://www.macfound.org/media/fellows/profile_photos/gawande-2006_profile-240.jpg,rejected,too_small 240x240,,,,
+https://s7d1.scene7.com/is/image/wbcollab/atulbio-1?qlt=90&fmt=webp&resMode=sharp2,rejected,too_small 206x213,,,,
+https://pbs.twimg.com/profile_images/842116703634972672/rZyNr1AN_200x200.jpg,rejected,too_small 200x200,,,,
+https://news.harvard.edu/wp-content/uploads/2025/03/1200-630Atul-Gawande-395.jpg,rejected,clip_threshold,0.1946900635957718,0.15976564586162567,0.03492441773414612,288.55349175207874
+https://i.ytimg.com/vi/-iIgWeImhMM/maxresdefault.jpg,rejected,clip_threshold,0.17175255715847015,0.15460659563541412,0.01714596152305603,1476.9885546875
+https://d.newsweek.com/en/full/285838/atul-gawande.jpg?w=1600&h=1600&q=88&f=35207f02805bd6287cc6182cf5ef5aad,rejected,blur=98.6 < 100.0,,,,
+"https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9205525/490012052.jpg?quality=90&strip=all&crop=0,10.7,100,66.233333333333",rejected,clip_threshold,0.1709112524986267,0.17888253927230835,-0.00797128677368164,136.86681661332483
+https://www.mcknightsseniorliving.com/wp-content/uploads/sites/3/2018/07/atulgawande_1002595-1.jpg,error,download: 403 Client Error: Forbidden for url: https://www.mcknightsseniorliving.com/wp-content/uploads/sites/3/2018/07/atulgawande_1002595-1.jpg,,,,
+https://www.bostonmagazine.com/wp-content/uploads/sites/2/2017/10/atul-gawande-1.jpg,error,download: cannot identify image file <_io.BytesIO object at 0x1679e5c10>,,,,
+https://i.ytimg.com/vi/LI4bMlMGLXA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDwyZobJ3oBsnlFE28ZSe4W5Uq1kw,rejected,too_small 686x386,,,,
+https://m.media-amazon.com/images/M/MV5BMTg4MjY2NDk2Ml5BMl5BanBnXkFtZTgwNDQ5MDg5MjE@._V1_.jpg,rejected,too_small 500x375,,,,
+https://www.statnews.com/wp-content/uploads/2018/06/Boghosian_Atul-Gawande5_STAT-645x645.jpg,rejected,clip_threshold,0.1752822995185852,0.15513953566551208,0.02014276385307312,154.28568932904605
+https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9205525/490012052.jpg?quality=90&strip=all&crop=0%2C10.7%2C100%2C34.677137870855&w=1200,rejected,clip_threshold,0.1661207526922226,0.18096964061260223,-0.014848887920379639,150.2839165717867
+https://i0.wp.com/hrnxt.com/wp-content/uploads/2020/11/Atul_087___2.jpg?fit=1200%2C693&ssl=1,rejected,clip_threshold,0.19541195034980774,0.17382313311100006,0.021588817238807678,473.33351330843783
+https://i0.wp.com/beaconhilltime.wpengine.com/wp-content/uploads/2017/02/BHT_20170207_A1.jpg?resize=182%2C250,rejected,too_small 182x250,,,,
+https://www.harvardmagazine.com/sites/default/files/img/article/1012/ag_10.25.12.jpg,rejected,blur=64.1 < 100.0,,,,
+https://akm-img-a-in.tosshub.com/indiatoday/images/story/202011/surgeon-Dr-Atul-Gawande_770_1200x768.jpeg?size=690:388,rejected,too_small 690x388,,,,
+https://npr.brightspotcdn.com/dims4/default/d70fa77/2147483647/strip/true/crop/172x258+0+0/resize/880x1320!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwunc%2Ffiles%2F201405%2FDr_Gawande_surgeon_1.jpg,rejected,clip_threshold,0.24501007795333862,0.19429920613765717,0.05071087181568146,110.50639885896955
+https://www.bostonherald.com/wp-content/uploads/migration/2018/06/20/062018atulgawande001.jpg?w=1200,rejected,clip_threshold,0.19801917672157288,0.16615474224090576,0.031864434480667114,291.7415616405164
+https://www.americanoncology.com/static/uploads/ad59db2a-1314-415a-829c-5a5f9084fb1a-1710304971112.jpg,rejected,too_small 413x531,,,,
+https://www.pbs.org/wnet/religionandethics/files/2015/02/feat-atul-gawande-800.jpg,error,download: 403 Client Error: Forbidden for url: https://www.pbs.org/wnet/religionandethics/files/2015/02/feat-atul-gawande-800.jpg,,,,
+"https://media.cnn.com/api/v1/images/stellar/prod/190118223635-01-atul-gawande-risk-takers.jpg?q=w_2298,h_1293,x_0,y_0,c_fill",rejected,clip_threshold,0.15658152103424072,0.17806671559810638,-0.02148519456386566,113.96186062426386
+https://covid19.ariadnelabs.org/wp-content/uploads/sites/6/2020/11/atul-gawande-banner.jpg,rejected,too_small 1500x500,,,,
+https://www.lassiwithlavina.com/wp-content/uploads/2009/01/8-24laurahanifinwhitecoat-copy.jpg,rejected,too_small 490x713,,,,
+https://s7d1.scene7.com/is/image/wbcollab/atulbio-1:twld?qlt=90,rejected,blur=3.1 < 100.0,,,,
+https://cdn.prod.website-files.com/64afb137c52becee3aca95ce/6787edc88f4c61d9cb1ecbb0_AtulGawande-cKellyDavidson.jpg,rejected,clip_threshold,0.1910138577222824,0.15869975090026855,0.032314106822013855,125.24134060145114
+https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2017/10/atul-gawande.jpg,error,download: cannot identify image file <_io.BytesIO object at 0x399f69d50>,,,,
+https://www.pbs.org/wgbh/frontline/wp-content/uploads/2015/11/1423585943_3306_AtulIntvw.jpg,rejected,blur=23.0 < 100.0,,,,
+https://milkeninstitute.org/sites/default/files/styles/large/public/grid/speakers/0031U000027L7kLQAS-df06aac6b8d36416d3ce0c068c44630c.png?itok=dhSfjZ6S,rejected,too_small 400x400,,,,
+https://nihrecord.nih.gov/sites/nihrecord/files/styles/float_medium/public/2017/July-28/Gawande%20solo.jpg?itok=94iVoHlk,rejected,too_small 430x548,,,,
+https://www.statnews.com/wp-content/uploads/2017/07/Boghosian_Atul-Gawande3_STAT.jpg,rejected,clip_threshold,0.19727684557437897,0.15466956794261932,0.042607277631759644,223.05320038443736
+https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/CKGSODR2FYI6JL2SA2OIQDMM7E.jpg?auth=48e1449cf63be3b6a2d5b062ffb551dfb01be8a8e3f982715ed768573aa6abb1&width=1440,rejected,clip_threshold,0.17806890606880188,0.17199786007404327,0.006071045994758606,278.7500671289761
+https://www.mcknightshomecare.com/wp-content/uploads/sites/10/2025/08/dBaiada_MCK_081925.jpg,error,download: 403 Client Error: Forbidden for url: https://www.mcknightshomecare.com/wp-content/uploads/sites/10/2025/08/dBaiada_MCK_081925.jpg,,,,
+https://i.ytimg.com/vi/6OKNM7jZqSE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCVeWXD1vVTtOKoJr6PxdDwR1YhfQ,rejected,too_small 686x386,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3068504434627823101,error,download: cannot identify image file <_io.BytesIO object at 0x1613a4450>,,,,
+"https://mdxvitals-res.cloudinary.com/private_images/h_150,w_150,c_fill,g_face,f_auto,dpr_auto/professionals/1706901/photo.jpg",rejected,too_small 150x150,,,,
+https://media.licdn.com/dms/image/v2/D4E12AQEAncrQgw2ExA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1706736726850?e=2147483647&v=beta&t=CKBuu7F8CdBKEKIP9wNnzfCVnkSIX6dnl92FxodT8Lw,rejected,clip_threshold,0.19969962537288666,0.13270947337150574,0.06699015200138092,850.8372127831694
+https://i.vimeocdn.com/video/604328616-42162c326823519601a620a0ed63ad33eca66e2a30db1b2a59871ea1d99fd72e-d?f=webp,rejected,blur=25.3 < 100.0,,,,
+https://aspenideasfestival.imgix.net/170a0c2b-bd6d-42f5-956f-5a6c02590aaa/42265695224_d3f9ceb35f_o2.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C243%2C8256%2C4646,rejected,clip_threshold,0.18338827788829803,0.1782246232032776,0.005163654685020447,106.71813085719685
+https://talkstar-photos.s3.amazonaws.com/uploads/a625c370-4a2c-4a3d-975c-1078040430fd/AtulGawande_2012-embed.jpg,rejected,blur=15.3 < 100.0,,,,
+https://img.lb.wbmdstatic.com/lhd/provider/860114_providerprofileimage_a5059b83-6ce4-46be-8383-ce52386d2ae2.jpg,rejected,clip_threshold,0.1903732270002365,0.17819195985794067,0.012181267142295837,244.16079050683598
+https://i.ytimg.com/vi/wrS_5vPQER0/maxresdefault.jpg,rejected,blur=42.7 < 100.0,,,,
+https://s.abcnews.com/images/ThisWeek/201115_tw_gawande_hpMain_16x9_992.jpg?w=992,rejected,too_small 992x558,,,,
+https://www.bostonherald.com/wp-content/uploads/migration/2018/06/20/062018healthcare001.jpg?w=978,rejected,clip_threshold,0.15361268818378448,0.16663798689842224,-0.013025298714637756,705.6328979691393
+https://media.tpt.cloud/nextavenue/uploads/2015/02/Atul-Gawandes-5-Questions-to-Ask-at-Lifes-End-2.jpg,error,download: 403 Client Error: Forbidden for url: https://media.tpt.cloud/nextavenue/uploads/2015/02/Atul-Gawandes-5-Questions-to-Ask-at-Lifes-End-2.jpg,,,,
+http://www.ariadnelabs.org/wp-content/uploads/2016/06/Atul-1.png,rejected,too_small 599x320,,,,
+https://i.ytimg.com/vi/1Ic1wUs34d0/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGDkgTSh_MA8=&rs=AOn4CLDRr4C681gSKMGBYoMS0SuzvapnpA,rejected,too_small 686x386,,,,
+http://favoriteof.com/static/images/atul-gawande-books.jpeg,rejected,too_small 298x448,,,,
+https://cdn.sanity.io/images/p34gzxcg/production/f589b2dc8723d5417ca05d91f5bf854dc45b18c1-800x1202.jpg?auto=format&w=500&h=500&crop=top&sat=-100&fit=crop,rejected,too_small 500x500,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3488906762649972834,error,download: cannot identify image file <_io.BytesIO object at 0x16191fd80>,,,,
+https://i.ytimg.com/vi/SiamIyo62hA/mqdefault.jpg,rejected,too_small 320x180,,,,
+https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1478243471i/32869178.jpg,rejected,too_small 381x600,,,,
+https://www.statnews.com/wp-content/uploads/2015/11/Boghosian_Atul-Gawande4_STAT-645x645.jpg,rejected,clip_threshold,0.18188169598579407,0.15632638335227966,0.025555312633514404,104.64409999105271
+https://media.gettyimages.com/id/461796638/photo/pasadena-ca-writer-surgeon-dr-atul-gawande-speaks-onstage-during-the-frontline-being-mortal.jpg?s=612x612&w=gi&k=20&c=WKn9CcIj3RoZJpRk9Aug2AzzabmeS1CJkCTk4vlnmjI=,rejected,too_small 388x612,,,,
+https://media.gettyimages.com/id/1414483132/photo/during-the-aloud-series-at-the-los-angeles-central-library-surgeon-atul-gawande-poses-for-a.jpg?s=612x612&w=gi&k=20&c=zCmejqn38GoDikbephBR6hMykLs0hI-zdzdJv37yYMo=,rejected,too_small 406x612,,,,
+https://pbs.twimg.com/amplify_video_thumb/1954986307219849216/img/qaarRtzXPwgDmRY5.jpg,rejected,clip_threshold,0.1867298185825348,0.18950816988945007,-0.002778351306915283,700.3190945185186
+https://www.john-adams.nl/wp-content/uploads/2016/07/turow.png,rejected,too_small 244x239,,,,
+https://news.harvard.edu/wp-content/uploads/2025/03/1980Atul-Gawande-171.jpg,rejected,blur=71.8 < 100.0,,,,
+https://www.thelancet.com/cms/10.1016/S0140-6736(10)61473-0/asset/24a8d848-3069-4ee7-a713-55da237aec8c/main.assets/fx1_lrg.jpg,error,download: 403 Client Error: Forbidden for url: https://www.thelancet.com/cms/10.1016/S0140-6736(10)61473-0/asset/24a8d848-3069-4ee7-a713-55da237aec8c/main.assets/fx1_lrg.jpg,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2273159913066332&get_thumbnail=1,error,download: cannot identify image file <_io.BytesIO object at 0x1463176a0>,,,,
+https://mma.prnewswire.com/media/1330004/Atul_087___2.jpg?p=facebook,rejected,clip_threshold,0.205936461687088,0.16739214956760406,0.03854431211948395,263.00157321454
+https://i.ytimg.com/vi/clhEbPUuvIs/maxresdefault.jpg,rejected,clip_threshold,0.16753852367401123,0.14641593396663666,0.021122589707374573,192.54406004717328
+https://cdn.prod.website-files.com/64afb137c52becee3aca95ce/6787fa7781a272f909b921b0_Gawande-Better.jpg,rejected,too_small 264x395,,,,
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Harvard_Alumni_Day_2025_-_Atul_Gawande_04.jpg/250px-Harvard_Alumni_Day_2025_-_Atul_Gawande_04.jpg,rejected,too_small 250x167,,,,
+https://www.mcchrystalgroup.com/images/default-source/insights/no-turning-back/atul_gawande_thumbnail-(1).png?sfvrsn=17cd59b5_1,rejected,clip_threshold,0.1796155869960785,0.17059126496315002,0.009024322032928467,225.1241582785058
+"https://cdn.dnaindia.com/sites/default/files/2018/06/21/695809-atul-gawande.jpg?im=FitAndFill=(1200,900)",rejected,clip_threshold,0.22159743309020996,0.17806679010391235,0.04353064298629761,176.65072290046294
+https://live-production.wcms.abc-cdn.net.au/bdbb48375117ab6d6f2db7cdde3c0819?impolicy=wcms_crop_resize&cropH=680&cropW=1019&xPos=2&yPos=0&width=862&height=575,rejected,too_small 862x575,,,,
+https://bwhbulletin.org/wp-content/uploads/2017/03/gawande4.jpg,rejected,blur=22.9 < 100.0,,,,
+https://www.americanoncology.com/static/uploads/cf3bb9cb-4ff0-447a-9d11-8147c4833448-1728911543805.jpg,rejected,too_small 413x531,,,,
+"https://www.charlotteobserver.com/public/living/health-family/l0bcop/picture61118217/alternates/LANDSCAPE_1140/Gawande,%20Atul",error,"download: HTTPSConnectionPool(host='www.charlotteobserver.com', port=443): Read timed out. (read timeout=15)",,,,
+https://www.statnews.com/wp-content/uploads/2018/07/atul-gawande-28115759627_404f392aa0_o1.jpg,rejected,blur=98.1 < 100.0,,,,
+https://npr.brightspotcdn.com/dims4/default/8a1ba48/2147483647/strip/true/crop/286x320+0+0/resize/880x985!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwunc%2Ffiles%2F201405%2FMe_and_Atul_small_1.JPG,error,"download: HTTPSConnectionPool(host='npr.brightspotcdn.com', port=443): Read timed out. (read timeout=15)",,,,
+https://www.americanoncology.com/static/uploads/a0eddc5e-da9d-4b08-b86a-510965c806d2-1690966845208.jpeg,rejected,too_small 413x531,,,,
+https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/11/017b90d1-5d33-4300-ab74-77105ec2b6c1/thumbnail/1200x630/a90bfee86b2676f97e3de4ccc91907f4/0811-cmo-mcmahon.jpg,rejected,blur=15.8 < 100.0,,,,
+https://npr.brightspotcdn.com/dims4/default/86fff84/2147483647/strip/true/crop/640x640+0+0/resize/880x880!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwunc%2Ffiles%2F201405%2FMimi_Atul_Pic.jpg,rejected,clip_threshold,0.18660184741020203,0.16578422486782074,0.020817622542381287,205.5972185296065
+https://i.ytimg.com/vi/n3qZGWwqD_g/maxresdefault.jpg,rejected,blur=53.6 < 100.0,,,,
+https://media.gettyimages.com/id/461796660/photo/pasadena-ca-writer-surgeon-dr-atul-gawande-speaks-onstage-during-the-frontline-being-mortal.jpg?s=612x612&w=gi&k=20&c=Z_JnYJpC8ru43rkCRBqMwLc4CQTlrED5GsySrgvIiMI=,rejected,too_small 445x612,,,,
+https://cdn.prod.website-files.com/64afb137c52becee3aca95ce/6787f9c264ce7acdba60de1c_Gawande-Complications.jpg,rejected,too_small 264x399,,,,
+https://milkeninstitute.org/sites/default/files/styles/og_thumbnail/public/grid/speakers/0031U000027L7kLQAS-df06aac6b8d36416d3ce0c068c44630c.png?itok=O7w3zmlU,rejected,clip_threshold,0.20225900411605835,0.17250590026378632,0.029753103852272034,156.76150130761843
+https://images.squarespace-cdn.com/content/v1/535bcb2fe4b05fe61b320c51/1436843168637-J4GPT5GYF7QOTS1RJ9MR/4e45247b6aeb3.image.jpg,rejected,too_small 300x420,,,,
+https://www.lassiwithlavina.com/wp-content/uploads/2009/01/atulrotatedandcropped-copy.jpg,rejected,too_small 277x418,,,,
+https://www.tiktok.com/api/img/?itemId=7362540498449517870&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7362540498449517870&location=0&aid=1988,,,,
+https://media.gettyimages.com/id/613203802/photo/new-york-ny-atul-gawande-attends-the-2016-new-yorker-festival-at-gramercy-theatre-on-october-7.jpg?s=612x612&w=gi&k=20&c=ev3QB_WSA8rqWJlSRyQn_buV4WDJDQgaTllrkZshSsg=,rejected,too_small 408x612,,,,
+https://www.john-adams.nl/wp-content/uploads/2002/11/Atul-Gawande-2002.jpg,rejected,too_small 427x218,,,,
+https://media.wbur.org/wp/2014/10/Cover.jpg,rejected,clip_threshold,0.15277016162872314,0.1935325562953949,-0.04076239466667175,639.6644855900626
+https://www.mcchrystalgroup.com/images/default-source/insights/no-turning-back/artboard-1-copy-3.png?sfvrsn=a6093407_5,rejected,clip_threshold,0.17919252812862396,0.1704925298690796,0.008699998259544373,407.161399930423
+https://atulgawande.com/wp-content/uploads/2013/11/better-5-203x300.jpg,rejected,too_small 203x300,,,,
+https://atulgawande.com/wp-content/uploads/2013/11/temp-complications-cover-203x300.jpg,rejected,too_small 203x300,,,,
+https://s3.amazonaws.com/cms.ipressroom.com/173/files/20184/5aff1d6f2cfac21e2d002df8_Atul+Gawande/Atul+Gawande_mid.jpg,rejected,too_small 640x426,,,,
+https://www.harvardmagazine.com/sites/default/files/styles/16_9_180x101/public/img/article/0809/p_31_image_03.jpg.jpeg?itok=HDaJNUZn,rejected,too_small 180x101,,,,
+https://www.tiktok.com/api/img/?itemId=7423621446846483755&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7423621446846483755&location=0&aid=1988,,,,
+https://www.ariadnelabs.org/wp-content/uploads/2021/11/tell_me_more1200-267x150.jpeg,rejected,too_small 267x150,,,,
+https://i.ytimg.com/vi/HzIiqJ5HX2E/mqdefault.jpg,rejected,too_small 320x180,,,,
+https://atulgawande.com/wp-content/uploads/2014/08/Being-Mortal-UK-Cover-186x300.jpg,rejected,too_small 186x300,,,,
+https://media.gettyimages.com/id/461796630/photo/pasadena-ca-director-and-producer-tom-jennings-writer-surgeon-dr-atul-gawande-and-series.jpg?s=612x612&w=gi&k=20&c=NI7yM7zx6-bmiagwFKVX3frOLC5iQzmmF5ve0z0m_fY=,rejected,too_small 612x419,,,,
+https://pe.tedcdn.com/images/ted/4c9968727d430b8dc3cb61af43b7c39c492cba4e_1400x2100.jpg,rejected,clip_threshold,0.15990948677062988,0.1759900003671646,-0.01608051359653473,271.1680102040816
+https://m.media-amazon.com/images/I/81eZCh1JzUL.jpg,rejected,clip_threshold,0.18751908838748932,0.1619749665260315,0.025544121861457825,234.57660603280408
+https://www.harvardmagazine.com/sites/default/files/img/article/0809/p_31_image_01.jpg,rejected,too_small 780x425,,,,
+https://nihrecord.nih.gov/sites/nihrecord/files/styles/max_1300x1300/public/2017/July-28/Gawande%20FC%20and%20AG%20on%20stage.jpg?itok=eDQN0W5D,rejected,clip_threshold,0.1437268704175949,0.16362564265727997,-0.01989877223968506,394.7717441937966
+http://www.ariadnelabs.org/wp-content/uploads/2016/06/Senate-room.png,rejected,too_small 875x476,,,,
+https://i.ytimg.com/vi/52c6f3C2YNA/mqdefault.jpg,rejected,too_small 320x180,,,,
+https://www.ariadnelabs.org/wp-content/uploads/2023/03/iStock-1351345844-216x150.jpg,rejected,too_small 216x150,,,,
+"https://doximity-res.cloudinary.com/images/f_auto,q_auto,t_public_profile_photo_320x320/j98dpkeay3ggiahp30tc/bolivar-villacis-bermeo-md-boston-ma.jpg?noindex=true",rejected,too_small 320x320,,,,
+https://m.media-amazon.com/images/I/81AoZq0G-IL.jpg,rejected,clip_threshold,0.15649449825286865,0.1855914443731308,-0.029096946120262146,693.1062448509587
+https://media.gettyimages.com/id/104649787/photo/new-york-dr-atul-gawande-attends-how-to-live-when-you-have-to-die-during-the-2010-new-yorker.jpg?s=612x612&w=gi&k=20&c=9Lkj_JWXA53-SNt3v0Phvh1b4eh0bytwKlSZ-GFNUqM=,rejected,too_small 612x408,,,,
+https://www.pbs.org/wgbh/frontline/wp-content/uploads/2015/11/1413821176_FL_BeingMortal.jpg,rejected,blur=81.7 < 100.0,,,,
+https://media.licdn.com/dms/image/v2/C4D03AQGr9NbyYsCWaA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1596415937740?e=2147483647&v=beta&t=PTRFOi-f1cxQTUGhSY51orWn0pGWNRPA8PrNXzeLEck,rejected,too_small 400x400,,,,
+https://www.harvardmagazine.com/sites/default/files/styles/16_9_180x101/public/img/article/0809/p_31_image_04.jpg.jpeg?itok=H39gSt6k,rejected,too_small 180x101,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=287471536081791,error,download: cannot identify image file <_io.BytesIO object at 0x161988f40>,,,,
+"https://media.cnn.com/api/v1/images/stellar/prod/190307182151-risk-takers-share-haven.jpg?q=w_3000,h_1688,x_0,y_0,c_fill",rejected,clip_threshold,0.15351594984531403,0.17204412817955017,-0.018528178334236145,716.6021619273301
+https://www.adventhealth.com/sites/default/files/styles/fc_4x3_sm/public/media/clay-shoot-hero-min.jpg.webp?h=7f5c77fa&itok=FY78dzZq,rejected,too_small 480x360,,,,
+"https://media.cnn.com/api/v1/images/stellar/prod/190308131957-risk-takers-instory-haven.jpg?q=w_256,c_fill",rejected,too_small 256x144,,,,
+https://atulgawande.com/wp-content/uploads/2013/11/complications-5-203x300.jpg,rejected,too_small 203x300,,,,
+https://www.harvardmagazine.com/sites/default/files/styles/16_9_180x101/public/img/article/0809/p_31_image_02.jpg.jpeg?itok=kuSzWWog,rejected,too_small 180x101,,,,
+https://nihrecord.nih.gov/sites/nihrecord/files/styles/large/public/2017/July-28/Gawande%20book%20sign.jpg?itok=DcDi9azq,rejected,too_small 480x398,,,,
+https://www.mcchrystalgroup.com/images/default-source/default-album/ntb_logo_-_final.png?sfvrsn=3c957c16_5,rejected,clip_threshold,0.21686384081840515,0.1654137372970581,0.051450103521347046,528.8388086454161
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3068504434627790350,error,download: cannot identify image file <_io.BytesIO object at 0x16798ae80>,,,,
+https://atulgawande.com/wp-content/uploads/2013/11/checklist-7-203x300.jpg,rejected,too_small 203x300,,,,
+"https://media.cnn.com/api/v1/images/stellar/prod/190307115152-risk-takers-2019.jpg?q=x_0,y_0,h_1688,w_2999,c_fill/w_1280",rejected,clip_threshold,0.1686093807220459,0.1548914611339569,0.01371791958808899,1966.2092293930045
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3068504434845845909,error,download: cannot identify image file <_io.BytesIO object at 0x16130a570>,,,,
+https://www.lifebox.org/wp-content/uploads/2022/03/Surgical_team_Benjamin-Bloom-Hospital_San-Salvador_El-Salvador_Lifebox-scaled.jpg,rejected,blur=30.3 < 100.0,,,,
+https://www.lassiwithlavina.com/wp-content/uploads/2009/01/better-200x300.jpg,rejected,too_small 200x300,,,,
+https://i.vimeocdn.com/video/516910841-38243acb1f8a4e4342d97b8f2b4a978007d05db89b2434dbbf1b1879ec76dcac-d?f=webp,rejected,clip_threshold,0.1898251324892044,0.19437053799629211,-0.0045454055070877075,233.93597425065997
+https://www.lifebox.org/wp-content/uploads/2022/02/Screenshot-2021-03-05-at-22.01.05-900x508.png,rejected,too_small 900x508,,,,
+"https://m.media-amazon.com/images/I/81QLFY5cvGL._UF1000,1000_QL80_.jpg",rejected,clip_threshold,0.20686660706996918,0.1636369228363037,0.043229684233665466,4792.015957301429
+https://i.ytimg.com/vi/DhozHtG0eTk/hqdefault.jpg,rejected,too_small 480x360,,,,
+https://www.lifebox.org/wp-content/uploads/2021/10/footer-img.png,rejected,clip_threshold,0.20978546142578125,0.18879784643650055,0.0209876149892807,109.72693510110454
+https://aspenideasfestival.imgix.net/0f1d0fd7-ed64-461e-92c1-56628b63007c/54619232023_d09e4a30ff_o.jpg?auto=compress%2Cformat&fit=min&fm=jpg&h=225&q=80&rect=0%2C312%2C6000%2C3375&w=400,rejected,too_small 400x225,,,,
+https://www.lassiwithlavina.com/wp-content/uploads/2009/01/complications.jpg,rejected,clip_threshold,0.20803695917129517,0.13970305025577545,0.06833390891551971,408.65271705289973
+https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/12/eca72095-6099-4da6-a969-e57103d9df0c/thumbnail/1200x630/6a930ce936f412235dd316d4515b7503/eoa2.png,rejected,blur=31.6 < 100.0,,,,
+https://www.harvardmagazine.com//sites/default/files/styles/article_reference_sidebar/public/img/article/0809/ag-gawande016.jpg.webp?itok=JEPKrUrs,rejected,too_small 208x132,,,,
+https://www.john-adams.nl/wp-content/uploads/2002/11/Surgery.png,rejected,too_small 1821x405,,,,
+https://www.aamc.org/themes/custom/hippocrates/images/AAMC-Logo.jpg,rejected,clip_threshold,0.20245739817619324,0.18892060220241547,0.013536795973777771,343.13429365079367
+https://www.lifebox.org/wp-content/uploads/2022/03/Minilik-42-1-scaled.jpg,rejected,blur=17.6 < 100.0,,,,
+https://nihrecord.nih.gov/sites/nihrecord/files/styles/pdf_thumbnail_small/public/pdfpreview/9266-NIH-Record-2017-07-28.png?itok=PIhgQJTD,rejected,too_small 366x473,,,,
+"https://doximity-res.cloudinary.com/images/f_auto,q_auto,t_public_profile_photo_320x320/profile-placeholder-registered-5/naomi-shimizu-md-boston-ma.jpg?noindex=true",rejected,too_small 320x320,,,,
+https://aspenideasfestival.imgix.net/1ab17d85-9e1a-4530-8119-aa096f016286/54628051423_2d5cfc9188_o.jpg?auto=compress%2Cformat&fit=min&fm=jpg&h=225&q=80&rect=0%2C312%2C6000%2C3375&w=400,rejected,too_small 400x225,,,,
+https://www.robinsonspeakers.com/wp-content/uploads/2024/07/Atul-Gawande-Books-1-768x1024.png,rejected,clip_threshold,0.15854988992214203,0.1531090885400772,0.005440801382064819,838.2487386067709
+https://s.abcnews.com/images/Politics/240824_abcnl_3p_obrien_trump_troops_baltimore_hpMain_16x9_608.jpg,rejected,too_small 608x342,,,,
+https://image.cnbcfm.com/api/v1/image/105554017-makeit_paramedic_company_mezz.jpg?v=1541461038&w=750&h=422&vtcrop=y,rejected,too_small 750x422,,,,
+https://img.kitapyurdu.com/v1/getImage/fn:4616593/wi:375/wh:true,rejected,too_small 375x581,,,,
+https://www.harvardmagazine.com//sites/default/files/styles/issue_cover/public/2025-08/so25_1.jpg.webp?itok=0f2XCR23,rejected,too_small 409x513,,,,
+https://www.macfound.org/media/fellows/profile_photos/wang_2022_profile-240.jpg,rejected,too_small 240x240,,,,
+"https://doximity-res.cloudinary.com/images/f_auto,q_auto,t_public_profile_photo_320x320/jttupg2de0yai6shyeue/david-brooks-md-boston-ma.jpg?noindex=true",rejected,too_small 320x320,,,,
+https://i0.wp.com/hrnxt.com/wp-content/uploads/2025/08/Mr.-Rohit-Inamdar-CRO-Infomeric-Valuation.jpg?resize=1200%2C900&ssl=1,rejected,clip_threshold,0.22502051293849945,0.19221071898937225,0.0328097939491272,104.176998037037
+https://aspenideasfestival.imgix.net/96ce2321-d622-4fb4-8af6-747b285f0e39/54623613359_113b820f80_o.jpg?auto=compress%2Cformat&fit=min&fm=jpg&h=225&q=80&rect=0%2C312%2C6000%2C3375&w=400,rejected,too_small 400x225,,,,
+https://www.pbs.org/wgbh/frontline/wp-content/uploads/2015/11/1423585943_3306_NyakSandraBillMary.jpg,rejected,clip_threshold,0.209071084856987,0.12762270867824554,0.08144837617874146,163.29332802750542
+https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill%2Cd_placeholder_thescene.jpg%2Cfl_progressive%2Cg_center%2Ch_360%2Cq_80%2Cw_480/v1602254981/thenewyorker_how-the-aids-epidemic-changed-dr-anthony-s-fauci.jpg,rejected,too_small 480x360,,,,
+https://www.mcknightsseniorliving.com/wp-content/uploads/sites/3/2021/10/MCK_OConnor-illo_640x640.jpg,error,download: 403 Client Error: Forbidden for url: https://www.mcknightsseniorliving.com/wp-content/uploads/sites/3/2021/10/MCK_OConnor-illo_640x640.jpg,,,,
+https://i.ytimg.com/vi/Px9XEofwXHI/mqdefault.jpg,rejected,too_small 320x180,,,,
+https://www.adventhealth.com/sites/default/files/styles/fc_4x3_sm/public/media/gettyimages-842852944_1.jpg.webp?h=10d202d3&itok=P_CrJmjx,rejected,too_small 480x360,,,,
+https://media.newyorker.com/photos/5ebaf1a9f34525bcbfe9bf81/4:3/w_480%2Cc_limit/Gawande-rerelease-hero.jpg,rejected,too_small 480x360,,,,
+https://img.lb.wbmdstatic.com/lhd/provider/2737299_providerprofileimage_8b2e2f1d-5f89-41e1-a1ec-ed52aaff9f0b.png,rejected,too_small 199x203,,,,
+"https://doximity-res.cloudinary.com/images/f_auto,q_auto,t_public_profile_photo_320x320/profile-placeholder-registered-1/jason-liu-md-boston-ma.jpg?noindex=true",rejected,too_small 320x320,,,,
+"https://doximity-res.cloudinary.com/images/f_auto,q_auto,t_public_profile_photo_320x320/profile-placeholder-registered-2/amanda-fazzalari-md-boston-ma.jpg?noindex=true",rejected,too_small 320x320,,,,
+https://www.adventhealth.com/sites/default/files/styles/fc_4x3_sm/public/media/gettyimages-665177796_0.jpg.webp?h=10d202d3&itok=voUqEMbL,rejected,too_small 480x360,,,,
+https://www.macfound.org/media/fellows/profile_photos/guskiewicz_2011_profile-240.jpg,rejected,too_small 240x240,,,,
+https://live-production.wcms.abc-cdn.net.au/bf1859af8bd1dd7c572a7ad8e8fc585a?impolicy=wcms_crop_resize&cropH=1272&cropW=1904&xPos=16&yPos=0&width=862&height=575,rejected,too_small 862x575,,,,
+https://www.getstoryshots.com/wp-content/uploads/The-Checklist-Manifesto-Summary.png,rejected,blur=88.1 < 100.0,,,,
+"https://doximity-res.cloudinary.com/images/f_auto,q_auto,t_public_profile_photo_320x320/profile-placeholder-registered-3/christine-wu-md-boston-ma.jpg?noindex=true",rejected,too_small 320x320,,,,
+https://www.lifebox.org/wp-content/themes/lifebox/assets//images/lblogo-dark.svg,error,download: cannot identify image file <_io.BytesIO object at 0x16191eca0>,,,,
+https://www.adventhealth.com/sites/default/files/styles/fc_4x3_sm/public/media/H_distinguished-lecture-series_2000x1333px.jpg.webp?h=56d0ca2e&itok=sCY_LHI5,rejected,too_small 480x360,,,,
+https://www.sciencefriday.com/wp-content/uploads/2025/03/usaid.jpg?w=575&h=380&crop=1,rejected,too_small 575x380,,,,
+https://covid19.ariadnelabs.org/wp-content/uploads/sites/6/2020/04/AL-default.png,rejected,blur=4.3 < 100.0,,,,
+https://pbs.twimg.com/amplify_video_thumb/1937985823321808896/img/PuOK3zoNJazvVvPO.jpg,rejected,clip_threshold,0.1602521687746048,0.15927128493785858,0.0009808838367462158,467.24599400052426
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3603375750322089526,error,download: cannot identify image file <_io.BytesIO object at 0x15eb57330>,,,,
+https://www.dana-farber.org/sites/default/files/styles/location_listing_image_desktop/public/providers/location_avtar.png?itok=ftkJEpXC,rejected,too_small 208x203,,,,
+https://www.dailygood.org/qp_images/350/7514.jpg,rejected,too_small 360x313,,,,
+https://aspenideasfestival.imgix.net/be86cf3f-33db-4812-a728-ba65d19a0403/AIFStockHeroImages1.png?auto=compress%2Cformat&fit=min&fm=jpg&h=400&mono=4b7780&q=80&rect=291%2C0%2C3377%2C3375&w=400,rejected,too_small 400x400,,,,
+https://www.speakerbookingagency.com/image/optimize/c3RvcmFnZS9jZWxlYnJpdGllcy8xNjQ4MTM0NzQyX2Rvd25sb2FkLmpwZw==/192x192/1?t=1755748800,rejected,too_small 192x192,,,,
+https://www.charlotteobserver.com/public/latest-news/p2vcko/picture306056621/alternates/LANDSCAPE_1140/DR_ANTHONY_DAVIS_01.jpg,error,"download: HTTPSConnectionPool(host='www.charlotteobserver.com', port=443): Read timed out. (read timeout=15)",,,,
+https://www.charlotteobserver.com/public/latest-news/s8gcu3/picture311699249/alternates/LANDSCAPE_1140/CLT_carering_03.JPG,error,"download: HTTPSConnectionPool(host='www.charlotteobserver.com', port=443): Read timed out. (read timeout=15)",,,,
+https://www.charlotteobserver.com/public/latest-news/lovke9/picture309494500/alternates/LANDSCAPE_1140/IMG_20171208_180630.jpg,error,"download: HTTPSConnectionPool(host='www.charlotteobserver.com', port=443): Read timed out. (read timeout=15)",,,,
+https://www.tiktok.com/api/img/?itemId=7497918300853243158&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7497918300853243158&location=0&aid=1988,,,,
+https://news.harvard.edu/wp-content/uploads/2025/08/070925_Christina_Warinner_06.jpeg?resize=1200%2C750,rejected,clip_threshold,0.1366373598575592,0.1651616245508194,-0.028524264693260193,126.68891656068024
+https://megaphone.imgix.net/podcasts/e6c7249a-e112-11e8-886f-2751a2508903/image/22b04513a9874f3b2707d3226b55134c99561ab8e0fd1aaf363af664666c123b707f59b597bcba616e3b95709c92297bba0e48b472bb4ed20dba7ae3a8f17294.jpeg?ixlib=rails-4.3.1&w=200&h=200,rejected,too_small 200x200,,,,
+https://www.adventhealth.com/sites/default/files/styles/fc_4x3_sm/public/media/Lab-9204.jpg.webp?h=7fb2964e&itok=aGBmE8gj,rejected,too_small 480x360,,,,
+https://i.ytimg.com/vi/oHDq1PcYkT4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCc40NnX5rLw_jqf_xvMNMQiw8xnw,rejected,too_small 686x386,,,,
+http://kitabal.az/thumb.php?src=http://kitabal.az/img/books/1741917.jpg&h=325&w=220,rejected,too_small 220x325,,,,
+http://favoriteof.com/static/images/scarcity-why-having-too-little-means-so-much-recommended.jpeg,rejected,too_small 333x500,,,,
+https://media.newyorker.com/photos/679a66121c75002242fc853f/4:3/w_1024%2Cc_limit/Gawande-Health-Agencies.jpg,rejected,clip_threshold,0.15304924547672272,0.15603123605251312,-0.0029819905757904053,1873.9398328499292
+https://api.hub.jhu.edu/factory/sites/default/files/styles/hub_thumbnail/public/davis_thumb.jpg,rejected,too_small 360x240,,,,
+https://news.harvard.edu/wp-content/uploads/2025/07/csndr-newell-merhill-resize.png?resize=1200%2C750,rejected,clip_threshold,0.19400808215141296,0.13799957931041718,0.05600850284099579,185.98413194132223
+https://m.media-amazon.com/images/M/MV5BM2E4NGQzNmYtMzhmNS00MGQ5LWFhZDYtODM4MzU3MTE0MTc3XkEyXkFqcGc@._V1_.jpg,rejected,blur=77.5 < 100.0,,,,
+https://www.lifebox.org/wp-content/uploads/2022/03/Monitoring_a_Child_Patient_Tikur_Anbessa_Hospital_Ethiopia-10_622x350_acf_cropped.jpg,rejected,too_small 622x350,,,,
+https://media.newyorker.com/photos/59097c0eebe912338a3787c4/4:3/w_1024%2Cc_limit/Aftermath-Gawande.jpg,rejected,clip_threshold,0.15234452486038208,0.19851236045360565,-0.04616783559322357,434.45294288223613
+https://pbs.twimg.com/media/GxA1GOuW4AALIGQ?format=jpg&name=large,rejected,clip_threshold,0.09590867906808853,0.13606518507003784,-0.04015650600194931,664.1237290427231
+x-raw-image:///8ccddaf992328457e8e7438e0bf1b36538455a9faf87acacc677acfc343fbf1d,error,download: No connection adapters were found for 'x-raw-image:///8ccddaf992328457e8e7438e0bf1b36538455a9faf87acacc677acfc343fbf1d',,,,
+https://hsph.harvard.edu/wp-content/uploads/2024/11/ryoji-iwata-X53e51WfjlE-unsplash-684x1024.jpg,rejected,clip_threshold,0.1955069899559021,0.17569194734096527,0.01981504261493683,1305.1975568928758
+https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25284266/Vox_BlackLoveMarraige_BrittanyHollowayBrown_Final.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400,rejected,clip_threshold,0.16392354667186737,0.16820096969604492,-0.004277423024177551,768.8815180288373
+https://pbs.twimg.com/media/Guxr69MWkAAk80k?format=jpg&name=large,rejected,clip_threshold,0.16491146385669708,0.15754476189613342,0.00736670196056366,3785.4216752617594
+https://news.harvard.edu/wp-content/uploads/2025/08/Untitled-design-22.png?resize=1200%2C750,rejected,clip_threshold,0.1524965465068817,0.1417723149061203,0.010724231600761414,528.2391977713776
+https://davidedwardmarcinko.com/wp-content/uploads/2020/05/hav-deutsch.jpg,rejected,too_small 245x327,,,,
+https://www.lifebox.org/wp-content/uploads/2022/03/Dr-Elizabeth-Igaga-Anesthesiologist-_622x350_acf_cropped.jpg,rejected,too_small 622x350,,,,
+https://i.ytimg.com/vi/tGo4xehgR3s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCx4rulOkFMocTDYG1vEffLM52-zg,rejected,too_small 686x386,,,,
+https://blog.libro.fm/wp-content/uploads/Device-Switch.png,rejected,clip_threshold,0.15467920899391174,0.1910260021686554,-0.03634679317474365,221.46175394227913
+https://media.newyorker.com/photos/59097d508b51cf59fc423ffb/4:3/w_1024%2Cc_limit/170123_r29326.jpg,rejected,clip_threshold,0.19450867176055908,0.24757173657417297,-0.05306306481361389,236.67832402129557
+https://www.tiktok.com/api/img/?itemId=7479381069918113030&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7479381069918113030&location=0&aid=1988,,,,
+http://kitabal.az/thumb.php?src=http://kitabal.az/img/books/4135356.jpg&h=325&w=220,rejected,too_small 220x325,,,,
+https://media.newyorker.com/photos/5f6e3d38e7a0b5b6d2778b46/4:3/w_1024%2Cc_limit/201005_r37137web1.jpg,rejected,clip_threshold,0.1533195972442627,0.18834887444972992,-0.035029277205467224,957.7882689962411
+https://media.newyorker.com/photos/5e6a8e6c10b3ef0008717591/4:3/w_1024%2Cc_limit/200323_r36041_rd.jpg,rejected,clip_threshold,0.18069887161254883,0.20531578361988068,-0.024616912007331848,456.4821486127912
+https://media.licdn.com/dms/image/v2/D4E12AQH0za5UXARl-Q/article-cover_image-shrink_720_1280/B4EZjER2E.HgAM-/0/1755639670652?e=2147483647&v=beta&t=HKXtyrzmsSvAAmZdAtq0Bz31C0A-xob0yiajofoephc,rejected,clip_threshold,0.13554221391677856,0.1489662081003189,-0.013423994183540344,800.8753044920732
+https://api.hub.jhu.edu/factory/sites/default/files/styles/hub_thumbnail/public/Fauci_thumb.png,rejected,too_small 360x240,,,,
+https://img.tpt.cloud/nextavenue/uploads/2015/05/is-75-the-right-time-to-die.cover.320x205.jpg,error,download: 403 Client Error: Forbidden for url: https://img.tpt.cloud/nextavenue/uploads/2015/05/is-75-the-right-time-to-die.cover.320x205.jpg,,,,
+https://www.getstoryshots.com/wp-content/uploads/The-Checklist-Manifesto-pdf-summary-atul-gawande-free-audiobook-book-review-storyshot-1024x1024.png,rejected,clip_threshold,0.13738231360912323,0.17457623779773712,-0.03719392418861389,280.32419771677814
+https://www.ariadnelabs.org/wp-content/uploads/2021/07/msnbc-logo-card-e1534801444170-150x150.png,rejected,too_small 150x150,,,,
+http://kitabal.az/thumb.php?src=http://kitabal.az/img/books/48468.jpg&h=325&w=220,rejected,too_small 220x325,,,,
+https://www.speakerbookingagency.com/image/optimize/c3RvcmFnZS9jZWxlYnJpdGllcy8xNjUwOTA5MzczXzEzMTAwMi1QYWRtaW5pTXVydGh5LTA0OC4uanBnIHBhc3Nwb3J0LmpwZw==/192x192/1?t=1755748800,rejected,too_small 192x192,,,,
+https://media.licdn.com/dms/image/v2/D4E12AQEfKMUSeRolRQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1706735225337?e=1761177600&v=beta&t=TP2F7sdMSbYm3E3tne1faR-7heH3iLi9GSnZmm1dAvI,rejected,clip_threshold,0.1523210108280182,0.09345518052577972,0.058865830302238464,574.2638634751111
+https://atulgawande.com/wp-content/themes/gawande-no-purchase/images/ext-arrow.png,rejected,too_small 100x100,,,,
+https://image.cnbcfm.com/api/v1/image/104531914-thumbnail.jpg?v=1529475406&w=750&h=422&vtcrop=y,rejected,too_small 750x422,,,,
+http://kitabal.az/thumb.php?src=http://kitabal.az/img/books/8259935.jpg&h=325&w=220,rejected,too_small 220x325,,,,
+https://www.chcradio.com/assets/shows/Goza_480x480.png,rejected,too_small 480x480,,,,
+https://media.newyorker.com/photos/59c96974d44dcb788780a8c6/4:3/w_1024%2Cc_limit/r30649-tout.png,rejected,clip_threshold,0.17983880639076233,0.24256369471549988,-0.06272488832473755,1899.3642705281575
+https://i.ytimg.com/vi/VhVvJma-e-E/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgTShFMA8=&rs=AOn4CLBwfBZPgDpLu36mMVE2WsbqdwqBhw,rejected,too_small 686x386,,,,
+https://www.americanoncology.com/static/uploads/ac1e8311-f0b1-4a40-b26b-86dbe6f932ac-1719321330646.jpg,rejected,too_small 413x531,,,,
+https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/14/324c6c08-b5bd-425e-9be9-69d12849b9ed/thumbnail/1200x630/a00d46c1e89833516f0607208eb22f7e/0814-cmo-dokoupil.jpg,rejected,blur=73.7 < 100.0,,,,
+https://img.tpt.cloud/nextavenue/uploads/2015/05/end-of-life-and-the-blended-family.cover.320x205.jpg,error,download: 403 Client Error: Forbidden for url: https://img.tpt.cloud/nextavenue/uploads/2015/05/end-of-life-and-the-blended-family.cover.320x205.jpg,,,,
+https://media.licdn.com/dms/image/v2/D5612AQH3ZYcu4ORgQg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1715119240979?e=2147483647&v=beta&t=xaqZKfLDmCypdu8C-c_qwV1cfPckq5FWDw8zY_-JjNQ,rejected,clip_threshold,0.16735059022903442,0.14243070781230927,0.02491988241672516,652.1272982157826
+https://cooper.edu/sites/default/files/uploads/backgrounds/engineering/bg13.jpg,rejected,blur=4.5 < 100.0,,,,
+https://media.newyorker.com/photos/601ca9d2ae8109d074994843/4:3/w_1024%2Cc_limit/210215_r37888.jpg,rejected,clip_threshold,0.17902153730392456,0.18211907148361206,-0.0030975341796875,370.42931205323356
+https://www.americanoncology.com/static/uploads/b33fd797-fd57-456f-92fc-bdb8953f281d-1731580743987.png,rejected,too_small 413x531,,,,
+https://www.lifebox.org/wp-content/themes/lifebox/assets//images/lblogo.svg,error,download: cannot identify image file <_io.BytesIO object at 0x1619daed0>,,,,
+https://img.lb.wbmdstatic.com/lhd/provider/1770191_providerprofileimage_920637a0-c4f0-424b-a3f3-9fa49647032c.jpg,rejected,too_small 253x253,,,,
+https://i.ytimg.com/vi/zkZc-mO4vkg/hqdefault.jpg,rejected,too_small 480x360,,,,
+"https://doximity-res.cloudinary.com/images/f_auto,q_auto,t_public_profile_photo_320x320/bcvnmcfvnrzuiukmkmhu/ali-tavakkoli-md-boston-ma.jpg?noindex=true",rejected,too_small 320x320,,,,
+https://i.ytimg.com/vi/dfl8Xt8W09A/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgYihVMA8=&rs=AOn4CLBXVNJVNC8mqD_G2fTp8xbtPwZpEA,rejected,too_small 640x480,,,,
+https://politiken.dk/migration_catalog/article5353805.ece/ORIGINALS/original_750/ps-gawande.jpg,rejected,too_small 750x599,,,,
+http://kitabal.az/thumb.php?src=http://kitabal.az/img/books/6975566.jpg&h=325&w=220,rejected,too_small 220x325,,,,
+"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1168997718i/628._UY200_CR33,0,200,200_.jpg",rejected,too_small 200x200,,,,
+https://i.ytimg.com/vi/UPZPqI5mQUY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDY9hmH9kTf3MlxDSObtTjMiNlNCg,rejected,too_small 686x386,,,,
+https://i.ytimg.com/vi/0lSIUKKYXrE/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgUChGMA8=&rs=AOn4CLDjE219_95T4W95qPEIhUmN3FNOuA,rejected,too_small 686x386,,,,
+https://www.gavi.org/sites/default/files/vaccineswork/2025/Header/RS48325_hpv-vaccination-girl-healthworker-zambia_gavi-2023-pcaton.jpg,rejected,clip_threshold,0.1348794549703598,0.15476277470588684,-0.01988331973552704,595.6925310906208
+https://s3.cloud.ngn.com.tr/kitantik/images/2024-12-17/1br9qfym4lrxriy19qk.jpg,rejected,too_small 378x559,,,,
+https://media.newyorker.com/photos/59097ebe2179605b11ad957a/4:3/w_1024%2Cc_limit/comment-title-tk.jpg,rejected,clip_threshold,0.19725486636161804,0.1955036073923111,0.0017512589693069458,7641.613459269206
+https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25368090/GettyImages_536611540.jpg?quality=90&strip=all&crop=16.662430096594%2C0%2C66.675139806812%2C100&w=2400,rejected,clip_threshold,0.17101484537124634,0.15325379371643066,0.017761051654815674,500.6513135277961
+"https://doximity-res.cloudinary.com/images/f_auto,q_auto,t_public_profile_photo_320x320/aewwhn2smilblkvmunvs/monica-bertagnolli-md-boston-ma.jpg?noindex=true",rejected,too_small 320x320,,,,
+https://media.licdn.com/dms/image/v2/D4E12AQHjgoGdSQDk5Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1706733540376?e=1761177600&v=beta&t=W20NC5fqOSCLQBP-Q_CzNw5wCutu8J9uQR1H0qd98oI,rejected,too_small 1600x148,,,,
+"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1171939993i/4791._UX200_CR0,23,200,200_.jpg",rejected,too_small 200x200,,,,
+https://static01.nyt.com/images/2014/10/26/books/review/26BTB/26BTB-thumbLarge-v2.jpg?quality=75&auto=webp&disable=upscale,rejected,too_small 150x150,,,,
+https://www.gavi.org/sites/default/files/images/mega-menu/RS48528-mother-child-sf-mm.jpg,rejected,too_small 800x533,,,,
+https://s.abcnews.com/images/Entertainment/250703_abcnl_shondaland_hpMain_16x9_608.jpg,rejected,too_small 608x342,,,,
+https://www.americanoncology.com/static/uploads/4994b95d-a3a9-44e1-811c-cb150d3baccf-1705067641833.jpg,rejected,too_small 413x531,,,,
+"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1172362794i/5238._UY200_CR49,0,200,200_.jpg",rejected,too_small 200x200,,,,
+https://s3.amazonaws.com/cms.ipressroom.com/173/files/20184/5aff1d992cfac21e2c00178e_Rusty+Bailey/Rusty+Bailey_f215ff1d-e8e9-44a0-8c23-2af91c6ca352-prv.jpg,rejected,clip_threshold,0.1977996528148651,0.14877165853977203,0.04902799427509308,195.35226393948403
+https://s3.amazonaws.com/cms.ipressroom.com/173/files/20184/5aff1d782cfac21e2d002dfa_Heidi+Shyu/Heidi+Shyu_8329b14c-16da-4c51-9ffb-18301c4a5832-prv.jpg,rejected,clip_threshold,0.1599210798740387,0.15732398629188538,0.0025970935821533203,1722.5380299592189
+http://favoriteof.com/static/images/judd-apatow-books.jpeg,rejected,too_small 640x459,,,,
+https://images.squarespace-cdn.com/content/v1/535bcb2fe4b05fe61b320c51/1435809891592-B8SWE1HYUX1FKAVIOBCE/image-asset.png,rejected,too_small 831x587,,,,
+https://www.charlotteobserver.com/public/latest-news/o2kn63/picture307895040/alternates/LANDSCAPE_1140/CLT_HeartValve_1,error,"download: HTTPSConnectionPool(host='www.charlotteobserver.com', port=443): Read timed out. (read timeout=15)",,,,
+https://www.charlotteobserver.com/public/latest-news/jn78ij/picture311576766/alternates/LANDSCAPE_1140/zhoe_04.JPG,error,"download: HTTPSConnectionPool(host='www.charlotteobserver.com', port=443): Read timed out. (read timeout=15)",,,,
+https://d.newsweek.com/en/full/2687479/onlinebanners-addiction-centers-01.png,rejected,clip_threshold,0.20110902190208435,0.17551963031291962,0.025589391589164734,596.4686606150267
+https://framerusercontent.com/images/g7peuU8Ste96uaoYFW16xgb9Ao.webp,rejected,blur=52.0 < 100.0,,,,
+https://media.licdn.com/dms/image/v2/D5612AQH5e-jVdpSVuQ/article-cover_image-shrink_720_1280/B56ZhW_durHcAI-/0/1753806134562?e=2147483647&v=beta&t=UHLFv62Ds3p_Z2JVrl2gzPM_EWKJBazj6chzEw6NsFY,rejected,too_small 958x538,,,,
+https://www.charlotteobserver.com/public/latest-news/u1ez0y/picture311700881/alternates/LANDSCAPE_1140/IMG_Drinking_Water_Sink__2_1_KTQARG59_L886182163.JPG,error,"download: HTTPSConnectionPool(host='www.charlotteobserver.com', port=443): Read timed out. (read timeout=15)",,,,
+http://www.healthhubuae.com/d_img/1712732240.webp,rejected,too_small 419x419,,,,
+https://static.wbur.org/images/wbur-logo/tile.png,rejected,clip_threshold,0.20127543807029724,0.1875438690185547,0.013731569051742554,107.9424
+https://s3.amazonaws.com/cms.ipressroom.com/173/files/20184/5aff1d862cfac21e2b0004a9_Joseph+Morris+high+res/Joseph+Morris+high+res_5d4c2b8f-7165-4adf-b933-b4a0789db3c4-prv.jpg,rejected,clip_threshold,0.19855184853076935,0.14519619941711426,0.05335564911365509,141.8551201355415
+https://www.usnews.com/object/image/00000198-86a4-d4f7-abdd-eea4c0340000/https-media-gettyimages-com-id-2169868347-photo-doctor-discussing-with-senior-woman-at-apartment.jpg?update-time=1754605650693&size=responsiveSquare150,error,"download: HTTPSConnectionPool(host='www.usnews.com', port=443): Read timed out. (read timeout=15)",,,,
+https://www.usnews.com/object/image/00000198-7aec-dc2e-afbd-fafe38730000/https-media-gettyimages-com-id-2155775525-photo-senior-medical-exam.jpg?update-time=1754409463773&size=responsiveSquare150,error,"download: HTTPSConnectionPool(host='www.usnews.com', port=443): Read timed out. (read timeout=15)",,,,
+https://www.usnews.com/object/image/00000198-2dc3-dca5-abfa-3ddff3250000/badgegettyimages-1328108425.jpg?update-time=1753114526784&size=responsiveSquare150,error,"download: HTTPSConnectionPool(host='www.usnews.com', port=443): Read timed out. (read timeout=15)",,,,
+https://www.usnews.com/object/image/0000018e-a59f-dce5-a9de-eddf44a30000/gettyimages-2063690212.jpg?update-time=1712175721509&size=responsiveSquare150,error,"download: HTTPSConnectionPool(host='www.usnews.com', port=443): Read timed out. (read timeout=15)",,,,
+https://www.usnews.com/object/image/0000018b-0002-dcac-a5af-7a8b6e4c0000/gettyimages-1397290446.jpg?update-time=1696512296904&size=responsiveSquare150,error,"download: HTTPSConnectionPool(host='www.usnews.com', port=443): Read timed out. (read timeout=15)",,,,
+https://www.usnews.com/object/image/0000018f-35fa-ddc5-a3ff-fdff18ef0000/https-media-gettyimages-com-id-2107867519-photo-portrait-series-at-the-supreme-courts-oral-arguments-over-whether-to-restrict-access-to.jpg?update-time=1714597556531&size=responsiveSquare150,error,"download: HTTPSConnectionPool(host='www.usnews.com', port=443): Read timed out. (read timeout=15)",,,,
+https://www.drozdogan.com/images/news/kemoboy-asco-2019-kongresi-acilisinda-edmond-ang-749970-966-544.jpg,rejected,too_small 966x544,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1115382523784623&get_thumbnail=1,error,download: cannot identify image file <_io.BytesIO object at 0x161988090>,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=686243481140961&get_thumbnail=1,error,download: cannot identify image file <_io.BytesIO object at 0x399f8b880>,,,,
+https://i.ytimg.com/vi/EoI_cbJEDHI/sddefault.jpg,rejected,too_small 640x480,,,,
+https://cdn.myikas.com/images/4cbb27f2-1d54-488a-aab4-05bd20549c1e/7f345334-e4b6-47d8-874f-2e27aee4a3cd/image_1080.jpg,rejected,blur=40.1 < 100.0,,,,
+https://i0.wp.com/pazar.evrimagaci.org/wp-content/uploads/2021/02/eagleman_360-450_370x.png?resize=300%2C300&ssl=1,rejected,too_small 300x300,,,,
+https://www.tiktok.com/api/img/?itemId=7466492713567882529&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7466492713567882529&location=0&aid=1988,,,,
+https://media.springernature.com/lw367/springer-static/image/art%3A10.1007%2Fs00540-021-02967-z/MediaObjects/540_2021_2967_Fig17_HTML.jpg?as=jpg,rejected,too_small 367x357,,,,
+https://media.licdn.com/dms/image/v2/C4E12AQFKU5n_pAEcdw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1597761936123?e=2147483647&v=beta&t=Z4dJLm09eZj1TzqGpZoruFWtc0bC9OMp8Vst4YFNg00,rejected,clip_threshold,0.23784196376800537,0.18679526448249817,0.0510466992855072,293.9808921397887
+http://favoriteof.com/static/images/jonah-ray-books.jpeg,rejected,too_small 420x570,,,,
+https://cdn.prod.website-files.com/6033bddd9c483f54829c6af5/64548ae1014bdbaff02bbbfb_what%20isStaff-to-Patient%20Ratio.png,rejected,too_small 800x400,,,,
+https://media.licdn.com/dms/image/v2/D4D22AQE3NU6hEGXO0w/feedshare-shrink_800/feedshare-shrink_800/0/1714751161545?e=2147483647&v=beta&t=-TRn2RLoi_XiaKsbkaoDcwbJss-nvp117zxKCm9Uizs,rejected,clip_threshold,0.21690523624420166,0.16306063532829285,0.053844600915908813,983.0816519674355
+https://media.springernature.com/original/springer-static/image/art%3A10.1007%2Fs00540-021-02967-z/MediaObjects/540_2021_2967_Fig13_HTML.jpg?as=jpg,rejected,clip_threshold,0.19544173777103424,0.12092690169811249,0.07451483607292175,135.35165032049923
+https://www.speakerbookingagency.com/image/optimize/c3RvcmFnZS9jZWxlYnJpdGllcy8xNTY4MTQ1NDk2X2phc2h0b24tYmlvLTYwMHg2MDAtNjAweDYwMC5qcGc=/192x192/1?t=1755748800,rejected,too_small 192x192,,,,
+https://media.springernature.com/lw400/springer-static/cover-hires/journal/540/35/5?as=jpg,rejected,too_small 400x531,,,,
+https://media.springernature.com/original/springer-static/image/art%3A10.1007%2Fs00540-021-02967-z/MediaObjects/540_2021_2967_Fig9_HTML.jpg?as=jpg,rejected,too_small 967x584,,,,

@@ -1,0 +1,2 @@
+clinics_considered_A_to_L,complete_clinics_ge_3,incomplete_clinics_lt_3,completion_rate_%,total_images_counted,output_csv
+56,45,11,80.36,274,/mnt/data/summary_upto_L.csv

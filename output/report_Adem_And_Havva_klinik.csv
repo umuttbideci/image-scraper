@@ -1,0 +1,26 @@
+url,status,reason,pos,neg,margin,blur,save
+https://www.ademhavva.com.tr/wp-content/uploads/2019/04/IMG_0333-300x200.jpg,rejected,too_small 300x200,,,,,
+https://www.ademhavva.com.tr/wp-content/uploads/2018/11/logo-2.png,rejected,clip_threshold,0.2275380939245224,0.17820590734481812,0.049332186579704285,304.1331423730455,
+https://lh5.googleusercontent.com/p/AF1QipPL_gYk_Z7Gr6wHL0z72tkCmNtD-qBwJGOqCtsy=s677-k-no,rejected,too_small 381x677,,,,,
+https://lh5.googleusercontent.com/p/AF1QipOjlA6yqsCWp8DHnVZRUUHAaKocSN_9xiLMbErQ=s508-k-no,rejected,too_small 286x508,,,,,
+https://www.ademhavva.com.tr/wp-content/uploads/2019/04/DSC05349.jpg,rejected,clip_threshold,0.2542273998260498,0.14260832965373993,0.11161907017230988,1411.5861089782577,
+https://clinicsoncall.com/wp-content/uploads/2021/03/adem-e-havva-clinic-facts-figures.jpg,rejected,clip_threshold,0.2807023227214813,0.1637241691350937,0.11697815358638763,1689.3300888097278,
+https://taqtikhealth.com/wp-content/uploads/2021/09/adem-and-havva-medical-center.jpeg,rejected,too_small 770x487,,,,,
+https://elclinics.com/wp-content/uploads/2022/06/adam-e-hava-2.jpg,rejected,clip_threshold,0.2448706030845642,0.18084727227687836,0.06402333080768585,164.56329690036242,
+https://www.ademhavva.com.tr/wp-content/uploads/2023/03/adem-havva-clinic.png,rejected,clip_threshold,0.26364704966545105,0.14912667870521545,0.1145203709602356,589.7867037746566,
+https://img.bookimed.com/clinic_webp/5da091b1e7d6f.webp,rejected,clip_threshold,0.2418316751718521,0.1837695688009262,0.0580621063709259,1571.9839234012488,
+https://img.bookimed.com/clinic_webp/656062cbcb546.webp,approved,,0.27800998091697693,0.14538103342056274,0.13262894749641418,142.43112942209882,output/approved/Adem_And_Havva_klinik/183b7fa101.jpg
+https://www.ademhavva.com.tr/wp-content/uploads/2019/04/IMG_0330-300x200.jpg,rejected,too_small 300x200,,,,,
+https://img.bookimed.com/clinic_webp/6560629d03bac.webp,rejected,clip_threshold,0.260038286447525,0.15056510269641876,0.10947318375110626,227.8714455804106,
+https://mediglobus.com/wp-content/uploads/2020/06/adem-and-havva-turkey-hair-transplantation-infographic-eng.jpg.webp,rejected,too_small 500x320,,,,,
+https://clinicsoncall.com/wp-content/uploads/2021/02/peresadka-volos-v-klinike-adam-i-eva-v-stambule.jpg,approved,,0.2796739935874939,0.15362150967121124,0.12605248391628265,115.17394029367554,output/approved/Adem_And_Havva_klinik/568b039d9a.jpg
+https://vaidam-images.s3.ap-southeast-1.amazonaws.com/webp/25/files/hospitals/adem_havva_1-min.webp,rejected,too_small 450x350,,,,,
+https://cdn.whatclinic.com/hair-loss/turkey/istanbul-province/istanbul/adem-and-havva-health-group-llc/thumbnails/0be6065a9d08471d/serdar_kurt.jpg?float-x=0.5&float-y=0.5&rotate=0&crop_x=0&crop_y=0&crop_w=1&crop_h=1&hmac=fc4f997f20c9ec77a4ec657192851e77ddcea8a7,rejected,clip_threshold,0.24944515526294708,0.20832206308841705,0.04112309217453003,741.9421970461309,
+https://qanomed.com/img/hospitals/adem-and-havva-health-group-llc/4.png,rejected,clip_threshold,0.26297152042388916,0.2335607260465622,0.029410794377326965,1360.6070845224074,
+https://mediglobus.com/wp-content/uploads/2020/06/adem-and-havva-hair-transplant-eng.jpg.webp,rejected,too_small 500x320,,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064049258709,error,download: cannot identify image file <_io.BytesIO object at 0x161309df0>,,,,,
+https://cdn.whatclinic.com/hair-loss/turkey/istanbul-province/istanbul/adem-and-havva-health-group-llc/thumbnails/c65becec3469e8de/cd63087c9d1e41258edbdae027e5b2ad.jpg?float-x=0.5&float-y=0.5&rotate=0&crop_x=0&crop_y=0&crop_w=1&crop_h=1&hmac=0ddcfe586a07274029ae152b1c1386840b55beb0,rejected,blur=55.5 < 100.0,,,,,
+https://mediglobus.com/wp-content/uploads/2020/06/adem-and-havva-rhinoplasty.jpg.webp,rejected,too_small 500x320,,,,,
+https://medtour.help/wp-content/uploads/2021/02/skrinshot-2021-02-01-16.47.12.jpg,rejected,clip_threshold,0.2743881046772003,0.16106979548931122,0.1133183091878891,183.37491328425784,
+https://medtour.help/wp-content/uploads/2021/02/5e94857258b92_b.webp,rejected,too_small 1032x599,,,,,
+https://pbs.twimg.com/media/FvMbry8WcAEO4CH.jpg,approved,,0.28606075048446655,0.15616631507873535,0.1298944354057312,310.3073627305287,output/approved/Adem_And_Havva_klinik/9f605dcddb.jpg

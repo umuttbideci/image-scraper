@@ -1,0 +1,7 @@
+url,status,reason,pos,neg,margin,blur,save
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063915344675,error,download: cannot identify image file <_io.BytesIO object at 0x162fe5d50>,,,,,
+http://www.aplushairclinic.com/en/m/tema/a/images/aplus-logo.png,rejected,too_small 702x446,,,,,
+https://aplushairtransplant.com/wp-content/uploads/2023/01/053fdff9-2c98-495b-b6eb-4dcbec7ff7c6-768x512-1.webp,rejected,too_small 768x512,,,,,
+https://aplushairtransplant.com/wp-content/uploads/2023/01/DSC03768x.webp,approved,,0.2866729199886322,0.1622225046157837,0.12445041537284851,463.61293656146165,output/approved/Aplus_Hair_Transplant_klinik/1bdd535d90.jpg
+https://aplushairtransplant.com/wp-content/uploads/2023/01/DSC03611x.webp,approved,,0.29789143800735474,0.1442779004573822,0.15361353754997253,691.6291819167199,output/approved/Aplus_Hair_Transplant_klinik/685e5a14f6.jpg
+https://aplushairtransplant.com/wp-content/uploads/2023/01/DSC03576x.webp,approved,,0.28302502632141113,0.1514822095632553,0.13154281675815582,755.6661760338271,output/approved/Aplus_Hair_Transplant_klinik/7ecb897539.jpg

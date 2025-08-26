@@ -1,0 +1,11 @@
+url,status,pos,neg,margin,blur,reason,save
+https://www.berkaytulpar.com/wp-content/uploads/2024/09/btc-galeri-19.jpg,rejected,0.2586146593093872,0.15020915865898132,0.10840550065040588,533.9839093233322,clip_threshold,
+https://qanomed.com/img/hospitals/berkay-tulpar-clinic/6.png,rejected,,,,,too_small 200x200,
+https://www.berkaytulpar.com/wp-content/uploads/2024/09/btc-galeri-1.jpg,approved,0.28852492570877075,0.14710202813148499,0.14142289757728577,505.376071846916,,output/approved/Berkay_Tulpar_Clinic_klinik/ed11cc3173.jpg
+https://media.licdn.com/dms/image/v2/D4E03AQEd1JIUHDKS2w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1691410963985?e=2147483647&v=beta&t=cK9C9QsrZ3XIXQjCbxiQSPJB336Pl7yyB0FL2uTHhZ0,rejected,,,,,too_small 200x200,
+https://www.berkaytulpar.com/wp-content/uploads/2024/09/btc-galeri-16.jpg,approved,0.2969110310077667,0.150025874376297,0.14688515663146973,793.7610912316895,,output/approved/Berkay_Tulpar_Clinic_klinik/fb3d504b09.jpg
+https://files.sikayetvar.com/lg/cmp/20/202145.png?1748585562,rejected,,,,,too_small 400x222,
+https://qanomed.com/img/hospitals/berkay-tulpar-clinic/2.png,rejected,0.2646346092224121,0.17859308421611786,0.08604152500629425,990.4493567900488,clip_threshold,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063858553522,error,,,,,download: cannot identify image file <_io.BytesIO object at 0x162f9ae30>,
+https://www.berkaytulpar.com/wp-content/uploads/2024/09/btc-galeri-18.jpg,rejected,0.27024659514427185,0.16158133745193481,0.10866525769233704,2136.476380037352,clip_threshold,
+https://www.berkaytulpar.com/wp-content/uploads/2024/09/btc-galeri-2.jpg,approved,0.3015294075012207,0.15133845806121826,0.15019094944000244,1659.751839451236,,output/approved/Berkay_Tulpar_Clinic_klinik/734f1f31ac.jpg

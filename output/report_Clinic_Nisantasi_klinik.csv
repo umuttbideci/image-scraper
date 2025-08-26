@@ -1,0 +1,18 @@
+url,status,reason,pos,neg,margin,blur,save
+https://www.saglikgo.com/wp-content/uploads/2023/05/klinik-nisantasi-agiz-ve-dis-sagligi-poliklinigi-compressed.jpg,rejected,too_small 600x414,,,,,
+http://clinicnisantasi.com/wp-content/uploads/2020/10/IMG_9273.jpeg,rejected,too_small 737x496,,,,,
+https://dentalclinicnisantasi.com/wp-content/uploads/2023/08/klinik-nisantasi-2.jpg,rejected,clip_threshold,0.26720455288887024,0.15218505263328552,0.11501950025558472,1791.8179404634827,
+https://dentalclinicnisantasi.com/wp-content/uploads/2023/08/klinik-nisantasi-1.jpg,rejected,clip_threshold,0.23523925244808197,0.18109607696533203,0.05414317548274994,2093.456039866758,
+http://www.kliniknisantasi.com/wp-content/uploads/2023/10/klinik-nisantasi-8.jpg,rejected,clip_threshold,0.28728485107421875,0.18308326601982117,0.10420158505439758,1510.3223693362847,
+https://cdn.whatclinic.com/dentists/turkey/istanbul-province/istanbul/besiktas/klinik-nisantasi/thumbnails/a563a8a23983dd8c/k3jpg.jpg?float-x=0.5&float-y=0.5&rotate=0&crop_x=0&crop_y=0&crop_w=1&crop_h=1&hmac=54ccaf5f4cd09d53e2bcb0465c1f43b53676f240,approved,,0.32342249155044556,0.14620669186115265,0.1772157996892929,789.2028122947523,output/approved/Clinic_Nisantasi_klinik/98e6464ec2.jpg
+"https://medicaltourism.com.tr/cdn-cgi/image/width=,height=,format=webp,quality=70/https://mediclinic.blob.core.windows.net/$web/187bcfcf-1c2f-9112-87a6-903b4cdfa000.jpg",rejected,too_small 598x440,,,,,
+https://avatars.mds.yandex.net/get-altay/14209766/2a0000019461dd546aaaec63e3cbc9b6e619/L_height,rejected,too_small 375x500,,,,,
+https://cdn.whatclinic.com/thumbnails/678580e3c2f803ec/k7jpg.jpg?float-x=0.5&float-y=0.5&rotate=0&crop_x=0&crop_y=0&crop_w=1&crop_h=1&hmac=ddd3afecf23f82862a537d80a8fb9b0c56b57d60,duplicate,pHash,,,,,
+https://dentalclinicnisantasi.com/wp-content/uploads/2023/08/klinik-ust-2.jpg,rejected,too_small 536x666,,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/instagram/aesthetic.clinic.nisantasi/profile_pic.jpg,error,download: cannot identify image file <_io.BytesIO object at 0x1619c2430>,,,,,
+https://dentalclinicnisantasi.com/wp-content/uploads/2023/08/klinik-nisantasi-hakkimizda.png,rejected,clip_threshold,0.27510833740234375,0.16149744391441345,0.1136108934879303,1375.0317093626843,
+https://marasmansetcom.teimg.com/marasmanset-com/images/haberler/2022/04/saglik_ve_estetigin_adresi_nisantasi_klinik_h48171_13408.jpg,rejected,too_small 706x431,,,,,
+http://www.kliniknisantasi.com/wp-content/uploads/2023/10/klinik-nisantasi-7.jpg,approved,,0.25690311193466187,0.13226817548274994,0.12463493645191193,255.0850028527647,output/approved/Clinic_Nisantasi_klinik/c606f608c5.jpg
+https://www.globalturkeyclinic.com/wp-content/uploads/2021/02/nisantasi_hospital_detay-490x265.jpg,rejected,too_small 490x265,,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=808114360178463,error,download: cannot identify image file <_io.BytesIO object at 0x399f30d60>,,,,,
+http://www.kliniknisantasi.com/wp-content/uploads/2023/10/klinik-nisantasi-4.jpg,approved,,0.2767493724822998,0.13245071470737457,0.14429865777492523,849.5897853776373,output/approved/Clinic_Nisantasi_klinik/a64b3f5e72.jpg

@@ -1,0 +1,396 @@
+url,status,reason,pos,neg,margin,blur
+https://media.licdn.com/dms/image/v2/C4D03AQHeJaYsB-1sMA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1637148193886?e=2147483647&v=beta&t=FnJLjroXI-SAnLxDGUTJSq5hoYrNpR21RRCRoRq4z28,rejected,too_small 200x200,,,,
+https://qanomed.com/img/hospitals/ahmet-ayik-md/5.png,rejected,clip_threshold,0.2657996416091919,0.18471238017082214,0.08108726143836975,222.32798469281974
+https://www.doktorsitesi.com/_next/image?url=https%3A%2F%2Fapi.doktorsitesi.com%2Fmedia%2Fcache%2Fprofil_500_webp%2Fuploads%2Fprofile_self_image%2F740664_414293218.webp&w=640&q=75,rejected,too_small 500x500,,,,
+https://qanomed.com/img/hospitals/ahmet-ayik-md/10.png,rejected,too_small 174x232,,,,
+https://img.bookimed.com/doctor/5d39c07d8293e_b.jpeg,rejected,too_small 150x160,,,,
+https://lh5.googleusercontent.com/p/AF1QipNcauj4VWJ7Ptv_2wZE85g-kw85F9WIYNDVNctz=s435-k-no,rejected,too_small 435x290,,,,
+https://qanomed.com/img/hospitals/ahmet-ayik-md/6.png,rejected,clip_threshold,0.2521442472934723,0.18575549125671387,0.06638875603675842,136.86121299703703
+https://qanomed.com/img/hospitals/ahmet-ayik-md/4.png,rejected,clip_threshold,0.2911834120750427,0.18424883484840393,0.1069345772266388,269.39341716796827
+https://www.acibadem.com.tr/assets/images/doctors/ahmet-ayik-og-banner.webp,rejected,too_small 600x315,,,,
+https://qanomed.com/img/hospitals/ahmet-ayik-md/3.png,rejected,clip_threshold,0.26395630836486816,0.1880253404378891,0.07593096792697906,582.7099285922498
+https://lh5.googleusercontent.com/p/AF1QipPNRmS5yonHxCbZtRg2ZYlHZtSiVjKeNUSeUcBV=s508-k-no,rejected,too_small 381x508,,,,
+https://qanomed.com/img/hospitals/ahmet-ayik-md/2.png,rejected,clip_threshold,0.255842387676239,0.18065041303634644,0.07519197463989258,114.66131714211556
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=237254262131827&get_thumbnail=1,error,download: cannot identify image file <_io.BytesIO object at 0x161979f80>,,,,
+https://lh5.googleusercontent.com/p/AF1QipP-aQXA57V2CFLR4jT2iX4u3Yyh61g5MMY3EvkD=s387-k-no,rejected,too_small 387x290,,,,
+https://s3.eu-central-1.amazonaws.com/bookimed/operations_images/630358c457096.jpeg,rejected,clip_threshold,0.28362470865249634,0.18066702783107758,0.10295768082141876,217.1561625
+https://drahmetayik.com/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-12-at-10.23.16.jpeg,rejected,clip_threshold,0.26310908794403076,0.15507087111473083,0.10803821682929993,339.7564747345684
+https://pbs.twimg.com/profile_images/1264177517801414656/lxAySh3b_400x400.jpg,rejected,too_small 400x400,,,,
+https://www.acibadem.com.tr/assets/images/doctors/ahmet-ayik-banner.png,rejected,too_small 460x600,,,,
+http://qanomed.com/img/hospitals/ahmet-ayik-md/1.png,rejected,too_small 405x540,,,,
+https://i.ytimg.com/vi/vF4iTLy5tDg/maxresdefault.jpg,rejected,clip_threshold,0.20202909409999847,0.20834298431873322,-0.006313890218734741,834.043792316426
+https://s3.eu-central-1.amazonaws.com/bookimed/operations_images/630358dc09a98.jpeg,rejected,clip_threshold,0.27705779671669006,0.19475367665290833,0.08230412006378174,218.3682138888889
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=927027508742348&get_thumbnail=1,error,download: cannot identify image file <_io.BytesIO object at 0x16130aac0>,,,,
+https://lh5.googleusercontent.com/p/AF1QipMpamaw1bucLXTdPm6Qv8F3IX8CMUBKxzGxQiRP=s338-k-no,rejected,too_small 338x338,,,,
+https://qanomed.com/img/hospitals/ahmet-ayik-md/9.png,rejected,blur=69.6 < 100.0,,,,
+https://media.licdn.com/dms/image/v2/D4D22AQFPObbbwVzr8A/feedshare-shrink_800/B4DZaWxKmXHwAg-/0/1746286202893?e=2147483647&v=beta&t=_vdEV0FWQsalGZt_xGahf1_pOhz4wh6HQVAheczMVIo,rejected,clip_threshold,0.25631794333457947,0.18278264999389648,0.07353529334068298,164.80473627621095
+https://lh5.googleusercontent.com/p/AF1QipPTlBA82R1VxBbbOeSY9M0GpnIsOhl-D22or4CZ=s677-k-no,rejected,too_small 508x677,,,,
+https://s3.eu-central-1.amazonaws.com/bookimed/operations_images/679233e2776ca.jpeg,rejected,blur=67.9 < 100.0,,,,
+https://qanomed.com/img/hospitals/ahmet-ayik-md/7.png,rejected,clip_threshold,0.274117648601532,0.20038239657878876,0.07373525202274323,256.21629637500985
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=545309013865289,error,download: cannot identify image file <_io.BytesIO object at 0x399f32ca0>,,,,
+https://i.ytimg.com/vi/kTy2qOa7UG8/maxresdefault.jpg,rejected,clip_threshold,0.24377994239330292,0.19808286428451538,0.04569707810878754,726.4164702690866
+https://i.ytimg.com/vi/-W7kfD7NmQo/hqdefault.jpg,rejected,too_small 480x360,,,,
+https://lh5.googleusercontent.com/p/AF1QipMeFeCT7FHVG4Hkaj7B8ufObRtjuduj0fK7ONKD=s677-k-no,rejected,too_small 381x677,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=660838252713828,error,download: cannot identify image file <_io.BytesIO object at 0x162f071a0>,,,,
+https://media.licdn.com/dms/image/v2/D4E22AQHS48jmhHlUNQ/feedshare-shrink_800/B4EZd0leo1HYAg-/0/1750007672356?e=2147483647&v=beta&t=S1ZbDua6swXt3IlOd6sqjaVqwd72-oRqKsWyrpbF6HY,rejected,blur=89.4 < 100.0,,,,
+https://lh5.googleusercontent.com/p/AF1QipOR46OhotgiZ2YAvl4Bj_l5rXpMt-9Q2haq0cQ7=s360-k-no,rejected,too_small 360x338,,,,
+https://drahmetayik.com/wp-content/uploads/2021/06/WhatsApp-Image-2021-06-01-at-16.06.59.jpeg,rejected,blur=54.1 < 100.0,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=572976581098532,error,download: cannot identify image file <_io.BytesIO object at 0x161989e90>,,,,
+https://media.licdn.com/dms/image/v2/D4D22AQHd4JZ2vJklfA/feedshare-shrink_800/B4DZi7QwkTGkAg-/0/1755488393515?e=2147483647&v=beta&t=X2JpkTbvw2IY4INA_ilUO27gd9tBBFoW0OTrd34CrKI,rejected,clip_threshold,0.24100211262702942,0.2130402773618698,0.027961835265159607,458.6154023608497
+https://media.licdn.com/dms/image/v2/D4D22AQERnZURUOXzaQ/feedshare-shrink_800/B4DZfVjT3FGUAk-/0/1751634493836?e=2147483647&v=beta&t=y7RL9LIVXJ7s-BdpX29ohzKy37-TVkdoKlKqiEP2IYU,rejected,blur=49.9 < 100.0,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=660838266047160,error,download: cannot identify image file <_io.BytesIO object at 0x162fa9b70>,,,,
+https://s3.eu-central-1.amazonaws.com/bookimed/operations_images/67861cf64e8cf.jpeg,rejected,clip_threshold,0.26001590490341187,0.17437292635440826,0.0856429785490036,253.9442814907171
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=676305927833727,error,download: cannot identify image file <_io.BytesIO object at 0x16135acf0>,,,,
+https://pbs.twimg.com/media/E4g6yzJWEAwGJu-?format=jpg&name=medium,rejected,clip_threshold,0.24814651906490326,0.20100414752960205,0.04714237153530121,219.4833699117815
+https://media.licdn.com/dms/image/v2/D4D05AQGXiam-UGaPrg/videocover-low/B4DZhcU_ujHYCE-/0/1753895714639?e=2147483647&v=beta&t=xMPFBJPOYbl8Cl3oB5qEBJMw07mVfQDL4u1X9LKn1Nw,rejected,too_small 640x360,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=552931983102992,error,download: cannot identify image file <_io.BytesIO object at 0x399f230b0>,,,,
+https://www.biyografiler.com/personpicture/ahmetayik.jpg,rejected,too_small 168x212,,,,
+https://pbs.twimg.com/media/E4g6yzKWYAIhQh4.jpg,rejected,clip_threshold,0.28188496828079224,0.20424020290374756,0.07764476537704468,460.06540209922673
+https://img.ekonomim.com/storage/files/images/2024/08/28/olimpiyat-sampiyonu-ahmet-ayik-hastaneye-kaldirildi-chqr_cover.jpg,rejected,blur=86.9 < 100.0,,,,
+https://media.licdn.com/dms/image/v2/D4E22AQHtvQFJK7eD8A/feedshare-shrink_800/B4EZg.d0JsGUAg-/0/1753394660799?e=2147483647&v=beta&t=IB2IXe6Et07Zs6aKwkMyvrDXZcvfhpuxkUgyvVaX2Sw,rejected,clip_threshold,0.2610759735107422,0.18255290389060974,0.07852306962013245,515.4260747137754
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=587417762987747,error,download: cannot identify image file <_io.BytesIO object at 0x16191f5b0>,,,,
+https://pbs.twimg.com/media/E5xLIKCWUAQ1zom.jpg,rejected,clip_threshold,0.2982466518878937,0.22421854734420776,0.07402810454368591,331.9687602485389
+https://www.acibadem.com.tr/assets/images/units/idrar-yolu-enfeksiyonu-og-banner.webp,rejected,too_small 600x315,,,,
+https://media.licdn.com/dms/image/v2/D4D05AQG2rt8EgH8z2g/videocover-high/B4DZi2CgPUHsCU-/0/1755400829580?e=2147483647&v=beta&t=jnx23nVykdczYl3jFsHDYlUmazpwUxxCj13TIAZRC20,rejected,clip_threshold,0.2749350368976593,0.2187095433473587,0.0562254935503006,692.4145529212482
+https://s3.eu-central-1.amazonaws.com/bookimed/operations_images/630358abcb349.jpeg,rejected,clip_threshold,0.277034729719162,0.19641746580600739,0.0806172639131546,263.1653375
+https://media.licdn.com/dms/image/v2/D4D22AQG5M6Ki5lrYVg/feedshare-shrink_800/B4DZbgGaE.GYAg-/0/1747516498865?e=2147483647&v=beta&t=bXzmYCgDdcZnjD_pUpVZLPUULA0o-JQehoSlL8gtOSo,rejected,clip_threshold,0.23505224287509918,0.17809948325157166,0.05695275962352753,106.83111751832735
+https://pbs.twimg.com/media/EwilqmUWEAcbf3t.jpg,rejected,clip_threshold,0.2995297312736511,0.2186322808265686,0.08089745044708252,219.55359229434688
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=493287452400779,error,download: cannot identify image file <_io.BytesIO object at 0x16198b5b0>,,,,
+https://www.acibadem.com.tr/assets/images/technologies/mr-linac-og-banner.webp,rejected,too_small 600x315,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=660838269380493,error,download: cannot identify image file <_io.BytesIO object at 0x1679aa110>,,,,
+https://i.ytimg.com/vi/_CL9GbYitCg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAfNxlhRevscoNMRklkmzvpgDmpbA,rejected,too_small 686x386,,,,
+https://pbs.twimg.com/media/E4g6yzJXEAc6T7a.jpg,rejected,clip_threshold,0.2799892723560333,0.21653661131858826,0.06345266103744507,226.40685263059473
+https://bookimed.com/frontend/img/bookimed-about.png,rejected,too_small 509x397,,,,
+https://velorahairtransplant.com/wp-content/uploads/2024/12/cropped-cropped-cropped-acik-fon-icin-vektorel-logo-altyazili.png,rejected,too_small 512x229,,,,
+https://preview.redd.it/i-did-it-yall-3400-graft-hair-transplant-hermest-hair-v0-kg7j0st52end1.jpg?width=1080&crop=smart&auto=webp&s=a3d667b9ba45006f63552e8e4f0f1d7f2a4ac61c,rejected,clip_threshold,0.1929684579372406,0.2201547473669052,-0.027186289429664612,172.82859954738615
+https://s3.eu-central-1.amazonaws.com/bookimed/operations_images/63035895bc28d.jpeg,rejected,clip_threshold,0.2896820306777954,0.20728817582130432,0.08239385485649109,325.2280513888889
+https://drahmetayik.com/wp-content/uploads/2021/06/sakal.jpg,rejected,too_small 570x638,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=660838272713826,error,download: cannot identify image file <_io.BytesIO object at 0x1679aa110>,,,,
+https://pbs.twimg.com/media/E5xLIKBWQAg5uEZ.jpg,rejected,clip_threshold,0.27416685223579407,0.21803323924541473,0.056133612990379333,253.66347875492062
+https://www.brt.com.tr/images/biyografiler/2025/03/ahmet-ayik-1743407512.webp,rejected,too_small 200x250,,,,
+https://dms.licdn.com/playlist/vid/v2/D4E05AQHvJAURli-sMg/feedshare-video-thumbnail-high/B4EZYcI0mYGYCs-/0/1744228847329?e=2147483647&v=beta&t=0CL4gQQ3ncZDl7RggjQDY6IXWGI3dE2Zw97sebr97d0,rejected,too_small 576x720,,,,
+https://preview.redd.it/i-did-it-yall-3400-graft-hair-transplant-hermest-hair-v0-cq7gmps52end1.jpg?width=640&crop=smart&auto=webp&s=e442aa08dddff787b7abcfe0678cfef257d2dba6,rejected,clip_threshold,0.2226790487766266,0.2292017638683319,-0.006522715091705322,121.19247382501281
+https://www.acibadem.com.tr/assets/images/technologies/gamma-knife-icon-og-banner.webp,rejected,too_small 600x315,,,,
+https://drahmetayik.com/wp-content/uploads/2019/04/ahmet-ayik-logo.png,rejected,too_small 1248x227,,,,
+https://linktr.ee/og/image/drahmetayik.jpg,rejected,clip_threshold,0.19825385510921478,0.2266620397567749,-0.02840818464756012,388.4624973544974
+https://drahmetayik.com/wp-content/uploads/2025/05/5000-greft-sac-ekimi-fiyati-570x357.jpg,rejected,too_small 570x357,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=548214300642891,error,download: cannot identify image file <_io.BytesIO object at 0x16198b790>,,,,
+https://preview.redd.it/i-did-it-yall-3400-graft-hair-transplant-hermest-hair-v0-1apr5rt52end1.jpg?width=640&crop=smart&auto=webp&s=e7798634a476c666cef4146862b4f162f69e5c17,rejected,clip_threshold,0.26000943779945374,0.17227894067764282,0.08773049712181091,666.4027256739708
+https://www.sancaktepebolgehastanesi.com/Image/AllImage/dr_tuba_kilic.jpg,rejected,too_small 400x400,,,,
+https://drahmetayik.com/wp-content/uploads/2021/06/erkeklerde.jpg,rejected,too_small 570x638,,,,
+https://i.ytimg.com/vi/4Jvg6BPyEx8/hqdefault.jpg,rejected,too_small 480x360,,,,
+https://media.licdn.com/dms/image/v2/D4D22AQH8VOOnl3TXyQ/feedshare-shrink_800/B4DZbybC.ZGwAk-/0/1747823900210?e=2147483647&v=beta&t=NVMfaIEaEsFImz9pCaIyGk9Q74Vn-3Jqv4icl3Krnoc,rejected,blur=38.7 < 100.0,,,,
+https://drahmetayik.com/wp-content/uploads/2023/08/kas-ekimi.webp,rejected,too_small 570x638,,,,
+https://www.acibadem.com.tr/assets/images/units/vucut-kitle-indeksi-hesaplama-og-banner.webp,rejected,too_small 600x315,,,,
+https://media.licdn.com/dms/image/v2/D4D22AQGCa1TT655f2g/feedshare-shrink_800/B4DZXNVumtG4Ag-/0/1742906782549?e=2147483647&v=beta&t=jRNvyV-XKhK7eVns3hMxJmnBPlcLS20uaPraFpYg79c,rejected,clip_threshold,0.2774982154369354,0.19749857485294342,0.079999640583992,1185.8078956171264
+https://www.placidway.com/cdn-cgi/image/quality=50/images/thumb/1751295296smile-(1).png,rejected,too_small 360x218,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=643303544065835,error,download: cannot identify image file <_io.BytesIO object at 0x1613a6660>,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=648733033522886,error,download: cannot identify image file <_io.BytesIO object at 0x1619e7790>,,,,
+https://www.tiktok.com/api/img/?itemId=7366945084014710021&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7366945084014710021&location=0&aid=1988,,,,
+https://mediglobus.com/wp-content/uploads/2025/07/girin_korea_preview.jpg,rejected,too_small 380x380,,,,
+https://i.ytimg.com/vi/RnPymIuuCn8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDAA-vtuFi7cBwrE-zPe1gYsBqWbQ,rejected,too_small 686x386,,,,
+https://drahmetayik.com/wp-content/uploads/2025/05/basarisiz-sac-ekimi-sonucu-570x380.jpg,rejected,too_small 570x380,,,,
+https://bookimed.com/frontend/assets/img/logo-green.svg,error,download: cannot identify image file <_io.BytesIO object at 0x16135a020>,,,,
+https://i.ytimg.com/vi/9Gsu_pHOViQ/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgWShaMA8=&rs=AOn4CLAPII1qewi-4RBhHSGFHQWjkKoREA,rejected,too_small 686x386,,,,
+https://media.licdn.com/dms/image/v2/D4D22AQE9uCFyV-dsIA/feedshare-shrink_2048_1536/B4DZeKOurXGsAs-/0/1750370806996?e=2147483647&v=beta&t=GPZtOHLFba2TEAfwjpScFXU2SKJP2_vdUQPbkqkKvGk,rejected,too_small 284x433,,,,
+https://www.doktortakvimi.com/ucare/c3ee20a9-ebe3-43b0-ab7e-760dc5231f0f/-/scale_crop/120x120/center/,rejected,too_small 120x120,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=648733040189552,error,download: cannot identify image file <_io.BytesIO object at 0x16191ed40>,,,,
+"https://cdn.scope.digital/Images/Doctors/riza-2685479.jpg?tr=w-335,h-450",rejected,too_small 335x450,,,,
+https://media.licdn.com/dms/image/v2/D5622AQGvfLRIGApUJQ/feedshare-shrink_800/B56ZdSnbeNHUAg-/0/1749437760289?e=2147483647&v=beta&t=_nV34iBCHui6jhdqwbsWmoCajsaZTZwnivgyHx0md5Y,rejected,blur=93.6 < 100.0,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3449737069165839376,error,download: cannot identify image file <_io.BytesIO object at 0x1613a4450>,,,,
+https://cdnuploads.aa.com.tr/uploads/Contents/2021/08/31/thumbs_b_c_9464797de94101814a463575fd55a73d.jpg?v=112720,error,"download: HTTPSConnectionPool(host='cdnuploads.aa.com.tr', port=443): Read timed out. (read timeout=15)",,,,
+https://unis.trakya.edu.tr/app_files/2024/10/Kisi_Logo_962_5ca4fe0d.jpg,error,"download: HTTPSConnectionPool(host='unis.trakya.edu.tr', port=443): Max retries exceeded with url: /app_files/2024/10/Kisi_Logo_962_5ca4fe0d.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",,,,
+https://www.livhospital.com/uploads/650f42ff-b7b0-4ac6-8109-96104634fc99_omerayten.webp,rejected,too_small 464x620,,,,
+https://www.placidway.com/cdn-cgi/image/quality=50/images/thumb/17418087051741300222Ekran-g--r--nt--s---2025-03-06-222921.png,rejected,clip_threshold,0.279674232006073,0.18735197186470032,0.09232226014137268,497.7327954820315
+https://lookaside.fbsbx.com/lookaside/crawler/instagram/C4lDlOBIL85/0/image.jpg,error,download: cannot identify image file <_io.BytesIO object at 0x399f315d0>,,,,
+https://www.medikalnews.com/wp-content/uploads/2024/04/GL_-bm1WMAALOFw-1920x1280.jpeg,rejected,clip_threshold,0.2016773819923401,0.21128219366073608,-0.009604811668395996,221.09269205239355
+https://reyaphastanesi.com.tr/wp-content/uploads/2023/03/aytac-cetinkaya-web-770x770.webp,rejected,blur=92.2 < 100.0,,,,
+https://isbh.tmgrup.com.tr/sbh/2015/05/01/GenelBuyuk/1430428468474_rs.jpg,rejected,too_small 800x532,,,,
+https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/aydogan-aydogdu-42320_b.jpg,rejected,too_small 500x500,,,,
+https://avatars.mds.yandex.net/get-altay/13061180/2a0000018f05d80e7561ed62a80062b284eb/L_height,rejected,too_small 500x281,,,,
+https://pbs.twimg.com/media/Ew3EhbfWEBw4Drn.jpg,rejected,clip_threshold,0.2842416763305664,0.22098354995250702,0.06325812637805939,178.84938345258558
+https://d.pusulahaber.com.tr/other/2024/07/12/4-44.jpg,rejected,clip_threshold,0.21631117165088654,0.16887140274047852,0.04743976891040802,132.22425529668155
+https://i.redd.it/i-did-it-yall-3400-graft-hair-transplant-hermest-hair-v0-1apr5rt52end1.jpg?width=3024&format=pjpg&auto=webp&s=1f1c6de3f4da3c122c7d2c8658ee5a6a9efb6373,duplicate,pHash,,,,
+https://duysis.gaziantep.edu.tr/upload/profile_photo/21551-1.jpg,rejected,clip_threshold,0.22571994364261627,0.17981107532978058,0.04590886831283569,144.31361810897576
+https://turkiyehastanesi.com/Uploads/Pages/BXN85R5303DW5850Q6049X251R779J.jpg,rejected,too_small 300x350,,,,
+https://www.sancaktepebolgehastanesi.com/Image/AllImage/dr_7_ferda.jpg,rejected,too_small 400x400,,,,
+https://www.tiktok.com/api/img/?itemId=7390441461466058000&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7390441461466058000&location=0&aid=1988,,,,
+https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/murat-musluman-80726_b.jpg,rejected,too_small 500x750,,,,
+https://img.ekonomim.com/rcman/Cw400h225q95gc/storage/files/images/2024/08/28/macta-bayildi-6-gundur-yogun-bakimdaydi-hayatini-kaybetti-nvbj_cover.jpg,rejected,too_small 400x225,,,,
+https://www.medipol.edu.tr/sites/default/files/person-images/eren.ayik.jpeg,rejected,too_small 404x500,,,,
+https://mediglobus.com/wp-content/uploads/2025/07/girin_korea_preview.jpg.webp,duplicate,pHash,,,,
+https://www.livhospital.com/uploads/c964e895-371c-4c5f-9969-15b591450fd4_erkan-kayikcioglu-464x620.webp,rejected,too_small 464x620,,,,
+https://cdn.pau.edu.tr/BIYS/siteler/kariyer/editor/xl_f5fd3a8d-ec4a-4d79-a1d0-7a6af6512fe5.jpg,rejected,blur=64.1 < 100.0,,,,
+https://www.diken.com.tr/wp-content/uploads/2025/04/2025-17-04-ESILA-AYIK.jpg,rejected,too_small 740x400,,,,
+https://avatars.mds.yandex.net/get-altay/11563767/2a00000193484970c6b798e3ce89f412c9ea/L_height,rejected,too_small 375x500,,,,
+https://tinaztepe.com/uploads/doktorlar/DO%C3%87__DR__%C4%B0LKER_UYAR.png,rejected,too_small 290x355,,,,
+https://i.ytimg.com/vi/MyyAnjkpoqY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCidgIF22X-UKkPcvyGQzIc0oGQXQ,rejected,too_small 686x386,,,,
+https://tghyk.org/images/yedikulefotoNisan2025.jpeg,rejected,clip_threshold,0.1926427036523819,0.13209408521652222,0.06054861843585968,678.3254257599009
+https://www.yumuktepe.com/wp-content/uploads/2015/02/MERS%C4%B0N-DEVL.-HAST.-19Y.jpg,rejected,too_small 300x200,,,,
+https://i1.rgstatic.net/ii/profile.image/11431281202836862-1699030352965_Q512/Hatice-Kaya-10.jpg,rejected,too_small 512x512,,,,
+https://hastane.deu.edu.tr/images/hastanemizden-haberler/kalin_bagirsak_ameliyati/WhatsApp_Image_2025-03-25_at_15.26.02.jpeg,rejected,clip_threshold,0.20992840826511383,0.13737894594669342,0.07254946231842041,151.45888110189614
+https://preview.redd.it/review-hermest-clinic-turkey-3700-grafts-v0-8m09minbwjdd1.jpg?width=640&crop=smart&auto=webp&s=4dc67c720a85a5de8e93fa75633691b90e7893df,rejected,blur=89.1 < 100.0,,,,
+https://static-pano.maps.yandex.ru/v1/?panoid=1236359792_830823017_23_1350397204&size=500%2C240&azimuth=-32.1&tilt=10&api_key=maps&signature=K7tx_geNdyLUX6t1eXh3NwB5eBUTKerTYSpg84hjvpE=,rejected,too_small 500x240,,,,
+https://www.medipol.edu.tr/sites/default/files/person-images/iozcicek.jpeg,rejected,too_small 750x500,,,,
+https://hisarhospital.com/wp-content/uploads/2021/02/Ramazan-gozukucuk.jpeg,rejected,clip_threshold,0.21702840924263,0.16790050268173218,0.04912790656089783,237.106446869847
+https://hastane.deu.edu.tr/images/hastanemizden-haberler/hemsirelik_duyuru/yenidogan/2.jpg,rejected,clip_threshold,0.17862462997436523,0.1336606740951538,0.044963955879211426,286.06593623931474
+https://www.acibadem.com.tr/assets/images/doctors/ahmet-cicek-banner.webp,rejected,too_small 460x600,,,,
+https://ekonsey.com/images/uploads/decf5c36f0675f2378cf3f96f5c25182.jpg,rejected,clip_threshold,0.18956831097602844,0.20483389496803284,-0.015265583992004395,223.495330462711
+https://www.nobelkitabevi.com.tr/46347-large_default/klinik-liderlik-ve-yonetim.jpg,rejected,too_small 458x458,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3227942847150974655,error,download: cannot identify image file <_io.BytesIO object at 0x161988810>,,,,
+https://unis.ahievran.edu.tr/app_files/2025/08/Kisi_Logo_916_ecfb7611.jpg,rejected,too_small 479x564,,,,
+https://drahmetayik.com/wp-content/uploads/2025/05/greft-nedir-570x380.webp,rejected,too_small 570x380,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3698121055923204788,error,download: cannot identify image file <_io.BytesIO object at 0x1679a9440>,,,,
+https://hastane.deu.edu.tr/images/hastanemizden-haberler/hemsirelik_duyuru/onkoloji_haftasi/WhatsApp_Image_2025-08-25_at_09.30.34_1.jpeg,rejected,clip_threshold,0.22076016664505005,0.16337984800338745,0.0573803186416626,1059.7918534046448
+https://drahmetakcay.com/wp-content/uploads/2021/06/Emziren-Anneler-COVID-19-Asisi-Olabilir-Mi.jpg,rejected,blur=47.7 < 100.0,,,,
+https://bizdentalklinik.com/wp-content/uploads/2023/08/hak-1-1.jpg,rejected,clip_threshold,0.20219242572784424,0.16495171189308167,0.03724071383476257,388.57702670950397
+https://www.livhospital.com/uploads/96aac601-4330-47a5-af9d-8fd853a8f028_yunusImren.webp,rejected,too_small 464x620,,,,
+https://www.doktortakvimi.com/ucare/567d5b30-584d-4221-8f87-5f45a98002b6/-/scale_crop/120x120/center/,rejected,too_small 120x120,,,,
+https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/atillaaa-30101_b.jpg,rejected,too_small 500x559,,,,
+https://avatars.mds.yandex.net/get-altay/14171651/2a000001943f8082b8153c2526f976cf2b94/L_height,rejected,too_small 500x375,,,,
+https://img.ekonomim.com/rcman/Cw400h225q95gc/storage/files/images/2024/08/28/fehmi-kofteoglu-hayatini-kaybetti-fnaq_cover.jpg,rejected,too_small 400x225,,,,
+https://www.medipol.edu.tr/sites/default/files/person-images/asli.ekin.jpeg,rejected,too_small 413x500,,,,
+https://ortopedistanbul.com/img/doktorlar/ilker-ince-1642783964.jpg,rejected,clip_threshold,0.2393103539943695,0.2622188925743103,-0.022908538579940796,821.642695105402
+https://preview.redd.it/review-hermest-clinic-turkey-3700-grafts-v0-8yv2qgnbwjdd1.jpg?width=1080&crop=smart&auto=webp&s=d13582e2232fac4abf941351baa95bdb4942075f,rejected,clip_threshold,0.22722670435905457,0.214695006608963,0.012531697750091553,109.86394936790923
+"https://www.placidway.com/cdn-cgi/image/quality=50,width=500/images/thumb/1751382238-------------------------------------1-.jpg",rejected,too_small 500x500,,,,
+https://i.ytimg.com/vi/owiDZ3K2YOg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAT8FhOe6zMqxK8w1hM-9NLVszSrg,rejected,too_small 686x386,,,,
+https://api.doktorsitesi.com/media/cache/profil_500_webp/uploads/profile_self_image/f77a3608f7fc2beace27ccf97d22b766.webp,error,download: 502 Server Error: Bad Gateway for url: https://api.doktorsitesi.com/media/cache/profil_500_webp/uploads/profile_self_image/f77a3608f7fc2beace27ccf97d22b766.webp,,,,
+https://www.longhaircenter.com/assets/web/assets/img/520.png,rejected,too_small 600x520,,,,
+https://acelemder.com/images/kongre-banner.jpg?crc=4073520130,rejected,too_small 752x290,,,,
+https://drahmetayik.com/wp-content/uploads/2021/06/kadinlarda.jpg,rejected,too_small 570x638,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=502939624768895,error,download: cannot identify image file <_io.BytesIO object at 0x162fe51c0>,,,,
+https://ozelletoonhastanesi.com.tr/wp-content/uploads/2025/06/Ahmet-bey.png,rejected,clip_threshold,0.23911945521831512,0.15760290622711182,0.08151654899120331,105.51863024994705
+https://acelemder.com/images/pasted%20image%201341x607.jpg?crc=80791786,rejected,too_small 745x337,,,,
+https://aliyurtlak.com.tr/wp-content/uploads/2025/03/aliyurtlak-800x800.jpg,rejected,blur=93.6 < 100.0,,,,
+https://avatars.mds.yandex.net/get-altay/14234746/2a00000193ca73c169ba15553d188a10c6e8/L_height,rejected,too_small 375x500,,,,
+https://tghyk.org/images/karadenizteknikfotoHaziran2025.jpeg,rejected,clip_threshold,0.18271949887275696,0.1773560345172882,0.00536346435546875,779.2227305850041
+https://www.doktortakvimi.com/ucare/26517026-f9f0-4e69-97b3-99ef13b858c9/-/scale_crop/120x120/center/,rejected,too_small 120x120,,,,
+https://bdy-sbf.marmara.edu.tr/dosya/sbf/bdy/etkinlikler/Kahve%20Festivali-%20Afi%C5%9F.jpeg,rejected,clip_threshold,0.16327446699142456,0.18282991647720337,-0.01955544948577881,544.3500007628517
+https://sankohastanesi.com.tr/upload/basin_haber/temp/resim-629848_w370_h370.jpg,rejected,too_small 370x370,,,,
+https://acelemder.com/images/photo-2025-08-11-10-21-28-crop-u23443.jpg?crc=408161244,rejected,too_small 745x294,,,,
+https://bizdentalklinik.com/wp-content/uploads/2023/08/emre-nagas-1.jpg,rejected,too_small 400x400,,,,
+https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/tuna-pehlivanoglu__4-57514_WebImage_b.jpg,rejected,too_small 500x741,,,,
+https://www.medikalnews.com/wp-content/uploads/2024/04/GL_-bmuWgAA21fl-scaled.jpeg,rejected,clip_threshold,0.18648165464401245,0.16963812708854675,0.016843527555465698,199.3874972438161
+https://www.livhospital.com/uploads/d6f57aa0-6fed-4f53-9fba-8b0a2af82a6c_tolga%20simru%20tu%C4%9Frul.webp,rejected,too_small 464x620,,,,
+https://www.lifeplus.com.tr/wp-content/uploads/2023/04/alfa-lipoik-asit.jpg,rejected,blur=9.4 < 100.0,,,,
+https://www.acibadem.com.tr/assets/images/doctors/ahmet-kaya-bilge-banner.webp,rejected,too_small 460x600,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3538707705490401830,error,download: cannot identify image file <_io.BytesIO object at 0x399f21030>,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3705447617975710627,error,download: cannot identify image file <_io.BytesIO object at 0x16194f6a0>,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/instagram/C8OsTOXgmdE/0/image.jpg,error,download: cannot identify image file <_io.BytesIO object at 0x1679a84a0>,,,,
+https://static.wixstatic.com/media/787e4a_d86d140cbcc9456dacdf3ef93a8c8ca4~mv2.jpg,rejected,clip_threshold,0.26299068331718445,0.17272211611270905,0.0902685672044754,1080.880494949495
+"https://static.wixstatic.com/media/787e4a_b64f36bfd1f54221b2518885fb73c260~mv2.jpg/v1/fill/w_640,h_480,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/787e4a_b64f36bfd1f54221b2518885fb73c260~mv2.jpg",rejected,too_small 640x480,,,,
+https://preview.redd.it/review-hermest-clinic-turkey-3700-grafts-v0-otnh2onbwjdd1.jpg?width=640&crop=smart&auto=webp&s=787a1f00c3ca6fe8abc1e97fb2598d65fa80bf2a,rejected,clip_threshold,0.226003035902977,0.2276599407196045,-0.0016569048166275024,141.91371959701166
+https://www.muharrembalci.com/GosterGe/tce.jpg,rejected,clip_threshold,0.1872393637895584,0.20243436098098755,-0.015194997191429138,755.0034976382675
+https://vegahospital.com.tr/wp-content/uploads/2023/05/Huseyinhl.png,rejected,clip_threshold,0.23027729988098145,0.16324035823345184,0.0670369416475296,226.16472742576624
+https://veteriner.kastamonu.edu.tr/images/24-25/Bahar/24-25%20Bahar/Tebrik%20taslak%20sonn_page-0001.jpg,error,"download: HTTPSConnectionPool(host='veteriner.kastamonu.edu.tr', port=443): Max retries exceeded with url: /images/24-25/Bahar/24-25%20Bahar/Tebrik%20taslak%20sonn_page-0001.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x16198d310>, 'Connection to veteriner.kastamonu.edu.tr timed out. (connect timeout=15)'))",,,,
+https://www.nobelkitabevi.com.tr/36460-large_default/tuem-hekimler-icin-temel-psikiyatrik-bilgi-ve-beceriler.jpg,rejected,too_small 458x458,,,,
+https://www.doktortakvimi.com/ucare/bbb06e66-3d61-4bd2-953b-2f383380eff4/-/scale_crop/120x120/center/,rejected,too_small 120x120,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063629766140,error,download: cannot identify image file <_io.BytesIO object at 0x16197bba0>,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/instagram/DNu1zwFWBfj/0/image.jpg,error,download: cannot identify image file <_io.BytesIO object at 0x162fe4220>,,,,
+https://medyadetaycom.teimg.com/medyadetay-com/uploads/2023/06/2-628.jpeg,rejected,clip_threshold,0.21171650290489197,0.1732233464717865,0.03849315643310547,150.40278273244147
+https://i.ytimg.com/vi/4oJFUF5aCjY/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHOBoAC4AOKAgwIABABGGUgXShZMA8=&rs=AOn4CLB9YuQsStqFZ5Ss7s7O5gZHBGGrfQ,rejected,too_small 640x480,,,,
+https://acelemder.com/images/pasted%20image%201180x544.jpg?crc=4202381863,rejected,too_small 748x345,,,,
+https://files.sikayetvar.com/complaint/2878/28780158/dr-sinan-akyurek-clinic-botoks-faciasi-ve-hayal-kirikligi-1_768x768.jpg,rejected,clip_threshold,0.23921608924865723,0.2019680291414261,0.03724806010723114,728.3353339013772
+https://www.tiktok.com/api/img/?itemId=7502128627203443976&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7502128627203443976&location=0&aid=1988,,,,
+https://unis.trakya.edu.tr/app_files/2024/10/Kisi_Logo_3169_09acc1ad.jpg,error,"download: HTTPSConnectionPool(host='unis.trakya.edu.tr', port=443): Max retries exceeded with url: /app_files/2024/10/Kisi_Logo_3169_09acc1ad.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",,,,
+https://hastane.deu.edu.tr/images/hastanemizden-haberler/hemsirelik_duyuru/yenidogan/1.jpg,rejected,clip_threshold,0.17481878399848938,0.17430973052978516,0.0005090534687042236,211.29235307294596
+https://media.medipol.com.tr/assets/s3fs-public/styles/just_webp/public/news_images/283489_6.jpg.webp?VersionId=4b9b02a5-1a28-4cf9-a02c-6e915c7c891d&itok=ijdTNZ7P,rejected,blur=30.9 < 100.0,,,,
+https://s1.dmcdn.net/v/XOCUi1dF75iCSSepr/x1080,rejected,clip_threshold,0.1792173534631729,0.19710198044776917,-0.017884626984596252,464.81549802476326
+https://unis.kafkas.edu.tr/app_files/2025/05/Kisi_Logo_1212_e7647cf9.jpg,error,download: 404 Client Error: Not Found for url: https://unis.kafkas.edu.tr/app_files/2025/05/Kisi_Logo_1212_e7647cf9.jpg,,,,
+https://haber.pau.edu.tr/Content/newsimg/545050//m_b3a073b5-5d9c-4729-8bdd-b80e8c202e3e.jpeg,rejected,too_small 426x283,,,,
+https://www.livhospital.com/uploads/ec354fa4-7dd8-4665-8bc9-579ec0c5076a_semihDedeogglu.webp,rejected,too_small 464x620,,,,
+https://www.tiktok.com/api/img/?itemId=7499048414227844370&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7499048414227844370&location=0&aid=1988,,,,
+https://sankohastanesi.com.tr/upload/basin_haber/temp/resim-786945_w370_h370.jpg,rejected,too_small 370x370,,,,
+https://drahmethakan.com/wp-content/uploads/2021/10/varikosel-ameliyati.jpg,rejected,clip_threshold,0.20723319053649902,0.16482047736644745,0.042412713170051575,511.52834367437504
+https://lookaside.fbsbx.com/lookaside/crawler/instagram/DNinSfjIOCF/0/image.jpg,error,download: cannot identify image file <_io.BytesIO object at 0x1619c0ea0>,,,,
+https://www.acibadem.com.tr/assets/images/doctors/altay-beduk-banner.png,rejected,too_small 460x600,,,,
+https://unis.trakya.edu.tr/app_files/2024/10/Kisi_Logo_728_41ac1744.jpg,error,"download: HTTPSConnectionPool(host='unis.trakya.edu.tr', port=443): Max retries exceeded with url: /app_files/2024/10/Kisi_Logo_728_41ac1744.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",,,,
+https://aliyurtlak.com.tr/wp-content/uploads/2025/03/prostat-nedir-640x375-1.jpg,rejected,too_small 640x375,,,,
+https://www.tiktok.com/api/img/?itemId=7516160517715561736&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7516160517715561736&location=0&aid=1988,,,,
+https://s3-eu-west-1.amazonaws.com/doktortakvimi.com/doctor/87dd89/87dd89de7cdb1d3163571b0702b760f1_large.jpg?w=300&h=300,rejected,too_small 530x530,,,,
+https://www.beykentuniversitesihastanesi.com/writable/uploads/doctor/1707830909_b9d0f479763f9143f198.jpg,rejected,too_small 550x400,,,,
+https://avatars.mds.yandex.net/get-altay/13590061/2a00000192779c7118ae80aeb61f4230f7b9/L_height,rejected,too_small 500x500,,,,
+https://dijitaldental.com/app/Images/op-dr-can-pamukcu-goz-klinigi-goz-protezi-goz-kapagi-dusuklugu-goz-kapagi-ameliyati-goz-protezi-cocuk-goz-doktoru-157-0.jpg,rejected,clip_threshold,0.25648313760757446,0.1694774180650711,0.08700571954250336,632.4649800638341
+https://tip.baskent.edu.tr/kw/upload/464/slayt/2025yemin.jpg,rejected,too_small 1000x400,,,,
+https://media.licdn.com/dms/image/v2/D4D22AQFxot1c_i1PxA/feedshare-shrink_800/B4DZiPSWlvGkAg-/0/1754750611253?e=2147483647&v=beta&t=ZOGt_ugSBpZ42FXp-_WkjLTsHMdihWEXH61qrsxE3V8,rejected,clip_threshold,0.18640543520450592,0.19715578854084015,-0.010750353336334229,457.4522328927218
+https://preview.redd.it/review-hermest-clinic-turkey-3700-grafts-v0-ujzcmunbwjdd1.jpg?width=640&crop=smart&auto=webp&s=cabb4a9a2f68d88e9ba608ffcaccf71279088dbe,rejected,clip_threshold,0.23603767156600952,0.1954212188720703,0.04061645269393921,1203.5200230374603
+https://acelemder.com/images/ankarabagis-crop-u21930.jpg?crc=3905068823,rejected,too_small 742x266,,,,
+https://www.doktortakvimi.com/ucare/b927e50b-6b6a-4ae2-bb31-cc126c73929a/-/scale_crop/120x120/center/,rejected,too_small 120x120,,,,
+https://unis.ahievran.edu.tr/app_files/2025/08/Kisi_Logo_878_042f44ee.jpg,rejected,too_small 466x584,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=648733043522885,error,download: cannot identify image file <_io.BytesIO object at 0x16197bba0>,,,,
+https://www.tiktok.com/api/img/?itemId=7221617968004730118&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7221617968004730118&location=0&aid=1988,,,,
+https://unis.trakya.edu.tr/app_files/2024/10/Kisi_Logo_1066_5074d0ea.jpg,error,"download: HTTPSConnectionPool(host='unis.trakya.edu.tr', port=443): Max retries exceeded with url: /app_files/2024/10/Kisi_Logo_1066_5074d0ea.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",,,,
+https://www.acibadem.com.tr/assets/images/doctors/ayca-ozbal-koc-banner.webp,rejected,too_small 460x600,,,,
+https://bizdentalklinik.com/wp-content/uploads/2024/01/biz-dental-logo-2.webp,rejected,clip_threshold,0.23688587546348572,0.2031572014093399,0.03372867405414581,177.53770057641378
+https://i0.wp.com/acil42.com/wp-content/uploads/2024/06/Sari-ve-Beyaz-Modern-ve-Sade-Kitap-Kapagi-Kopyasi-3.png?resize=188%2C300&ssl=1,rejected,too_small 188x300,,,,
+https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/suat-buket-46805_b.jpg,rejected,too_small 500x683,,,,
+https://haber.pau.edu.tr/Content/newsimg/309607//m_f3ce1bf4-af39-41fd-bee2-a43976c0853a.jpeg,rejected,too_small 426x757,,,,
+https://hastane.ufuk.edu.tr/uploads/doktorlar_ajans/doktorlar%20yeni/dok68.jpg,rejected,clip_threshold,0.24687260389328003,0.20297187566757202,0.04390072822570801,160.58705985226882
+https://avatars.mds.yandex.net/get-altay/14105192/2a000001943548c875815c44fba723bc1dfb/L_height,rejected,too_small 500x375,,,,
+https://i.ytimg.com/vi/GuActrwlRfM/mqdefault.jpg,rejected,too_small 320x180,,,,
+https://hastane.deu.edu.tr/images/hastanemizden-haberler/kalin_bagirsak_ameliyati/WhatsApp_Image_2025-03-25_at_15.26.35.jpeg,rejected,clip_threshold,0.22902105748653412,0.20472756028175354,0.02429349720478058,198.1660957711212
+https://www.doktortakvimi.com/ucare/26f00975-17d4-41bb-8ff1-caaf08100913/-/scale_crop/120x120/center/,rejected,too_small 120x120,,,,
+https://www.tursab.org.tr/apps//Images/Content/d4569195-5205-484f-b495-f2b43f7ee9df.jpg,rejected,too_small 709x388,,,,
+https://mukam.mersin.edu.tr/sliders/1.jpg,rejected,clip_threshold,0.20475418865680695,0.1431688815355301,0.061585307121276855,617.3941251291634
+https://www.yumpu.com/tr/image/facebook/20024693.jpg,rejected,clip_threshold,0.21928025782108307,0.15838581323623657,0.0608944445848465,3273.8783852635706
+https://medlifetipmerkezi.com/wp-content/uploads/2022/10/serdar-demiroglu.png,rejected,too_small 500x500,,,,
+https://dkbk2025.com/images/slide1.jpg,rejected,blur=72.6 < 100.0,,,,
+https://unis.trakya.edu.tr/app_files/2024/10/Kisi_Logo_780_d526048f.jpg,error,"download: HTTPSConnectionPool(host='unis.trakya.edu.tr', port=443): Max retries exceeded with url: /app_files/2024/10/Kisi_Logo_780_d526048f.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",,,,
+https://www.tiktok.com/api/img/?itemId=7489153153200360722&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7489153153200360722&location=0&aid=1988,,,,
+https://medlifetipmerkezi.com/wp-content/uploads/2025/06/Ahmed-Chakmakchi-770x770.jpg,rejected,clip_threshold,0.27217796444892883,0.20922435820102692,0.06295360624790192,106.02605329527819
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=660838256047161,error,download: cannot identify image file <_io.BytesIO object at 0x16191f2e0>,,,,
+https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/infertilite-kisirlik-01-14134_b.jpg,rejected,too_small 1200x400,,,,
+https://preview.redd.it/one-of-the-clinics-in-turkey-turned-me-down-for-a-hair-v0-mjwd0n71codd1.jpg?width=640&crop=smart&auto=webp&s=38993b7afa5b453f40a62e1c746d70e0d89cf9e2,rejected,blur=66.2 < 100.0,,,,
+https://www.neolife.com.tr/wp-content/uploads/2025/04/nURTEN-iSIK-dINCKAL.jpg,rejected,blur=28.2 < 100.0,,,,
+https://dms.licdn.com/playlist/vid/v2/D4E05AQEMHrSv5u7k0Q/feedshare-video-thumbnail-high/B4EZZjTSwWHcCU-/0/1745422753685?e=2147483647&v=beta&t=KAn4O6aNRoBueb52e_eodjAUonja628kzqJWeEYgjM8,rejected,too_small 404x720,,,,
+https://drahmethakan.com/wp-content/uploads/mesane-tumoru-nedenleri.webp,rejected,clip_threshold,0.18590150773525238,0.19713281095027924,-0.011231303215026855,329.5171111111111
+https://www.acibadem.com.tr/assets/images/doctors/alper-karakus-banner.webp,rejected,too_small 460x600,,,,
+https://www.yogunbakim.org.tr/img/photos/padis2018.jpeg,rejected,clip_threshold,0.1571921855211258,0.16874079406261444,-0.011548608541488647,1276.7137639394596
+https://avatars.mds.yandex.net/get-altay/14919466/2a0000019770737a82bcea5fa4ce497e52c3/L_height,rejected,too_small 500x313,,,,
+https://www.medipol.edu.tr/sites/default/files/person-images/ahkoseoglu.jpeg,rejected,too_small 380x500,,,,
+https://www.haksozhaber.net/d/news/195501.jpg,rejected,too_small 800x420,,,,
+https://0.academia-photos.com/attachment_thumbnails/89132994/mini_magick20220730-1-1u207k5.png?1659212858,rejected,too_small 378x593,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3382431934084520694,error,download: cannot identify image file <_io.BytesIO object at 0x1679abf10>,,,,
+https://unis.karabuk.edu.tr/app_files/2024/10/Kisi_Logo_898_dc1147e2.jpg,error,"download: HTTPSConnectionPool(host='unis.karabuk.edu.tr', port=443): Max retries exceeded with url: /app_files/2024/10/Kisi_Logo_898_dc1147e2.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",,,,
+https://unis.trakya.edu.tr/app_files/2024/05/Kisi_Logo_1389_03762356.jpg,error,"download: HTTPSConnectionPool(host='unis.trakya.edu.tr', port=443): Max retries exceeded with url: /app_files/2024/05/Kisi_Logo_1389_03762356.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",,,,
+https://www.doktortakvimi.com/ucare/3f3cfa08-8088-4ad3-a952-89e901df17fe/-/scale_crop/120x120/center/,rejected,too_small 120x120,,,,
+https://s3.cloud.ngn.com.tr/kitantik/images/2025-03-10/1br9qfwm821tues13xo.jpg,rejected,clip_threshold,0.20123617351055145,0.19170014560222626,0.009536027908325195,1165.7337246213995
+https://www.livhospital.com/uploads/fe525733-819e-4171-b277-e95524f972b7_Hatice_Uygun-removebg-preview.png,rejected,too_small 432x577,,,,
+https://aydinpostcom.teimg.com/crop/1280x720/aydinpost-com/uploads/2025/07/agency/iha/hastaneye-sedye-ile-gelen-310-kiloluk-aydinli-adam-yuruyerek-taburcu-oldu.jpg,rejected,clip_threshold,0.19181287288665771,0.1823132336139679,0.00949963927268982,305.36792849433687
+"https://static.wixstatic.com/media/d742bd_2f089bbc25c1448abdad11e41847f4aa~mv2.png/v1/fill/w_640,h_448,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d742bd_2f089bbc25c1448abdad11e41847f4aa~mv2.png",rejected,too_small 640x448,,,,
+https://bizdentalklinik.com/wp-content/uploads/2023/09/x-rays.png,rejected,too_small 512x512,,,,
+https://preview.redd.it/do-you-agree-with-this-top-10-list-not-in-order-of-hair-v0-kvhzo6ltf5791.jpg?auto=webp&s=2ba407d137c53e436b28c58cd00206b0a54c6d57,rejected,clip_threshold,0.2228430211544037,0.12882471084594727,0.09401831030845642,1409.3177511415524
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=643303770732479,error,download: cannot identify image file <_io.BytesIO object at 0x16191fe20>,,,,
+https://drahmetkarabulut.com/wp-content/uploads/2014/12/carpinti-ve-ritim-bozuklugu-696x309.jpg,rejected,too_small 696x309,,,,
+x-raw-image:///1fbfbd12778f730174c04da1737d1c118c8b3b82fc4a131561ceddc4a4ed2c72,error,download: No connection adapters were found for 'x-raw-image:///1fbfbd12778f730174c04da1737d1c118c8b3b82fc4a131561ceddc4a4ed2c72',,,,
+https://fikirturu.com/storage/2024/07/4072024-696x392.png,rejected,too_small 696x392,,,,
+https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/nipt-testi_-1-44423_b.jpg,rejected,too_small 1200x400,,,,
+https://bezmialem.com.tr/Lists/HospitalBanner/Attachments/3/OSMAN%20CEM%C4%B0L%20SLYDER.jpg,error,"download: HTTPSConnectionPool(host='bezmialem.com.tr', port=443): Max retries exceeded with url: /Lists/HospitalBanner/Attachments/3/OSMAN%20CEM%C4%B0L%20SLYDER.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",,,,
+https://drahmetayik.com/wp-content/uploads/2021/06/qqq.jpg,rejected,blur=58.8 < 100.0,,,,
+https://www.tiktok.com/api/img/?itemId=7525143167964925191&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7525143167964925191&location=0&aid=1988,,,,
+https://online.fliphtml5.com/shcmc/smje/files/large/71f1df42c0e4308e841a55d3ec5e68b9.webp?1732109111&1732109111,rejected,blur=21.9 < 100.0,,,,
+https://www.aktip.com.tr/Admin/Media/Proje/81b61388-2f85-426e-897f-a8ffcb355f2a.jpg,rejected,clip_threshold,0.23559902608394623,0.1979493945837021,0.03764963150024414,486.4931569442274
+https://acelemder.com/images/11ulusalrekonstruktif.jpg?crc=291389718,rejected,too_small 752x423,,,,
+https://www.doktortakvimi.com/ucare/793ab61f-3756-4699-9c3d-bc03bbc6dab5/-/scale_crop/120x120/center/,rejected,too_small 120x120,,,,
+https://www.profdrahmetsatici.com/site_document/sayfa_img/2S0WUNTU9_resim_13_2_2023_12_b.jpg,rejected,clip_threshold,0.18255625665187836,0.16640213131904602,0.016154125332832336,1221.1478729764426
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3342531725974831314,error,download: cannot identify image file <_io.BytesIO object at 0x16197bab0>,,,,
+https://avatars.mds.yandex.net/get-altay/12810232/2a000001927ff82b767f1fb304d3e1c881d7/L_height,rejected,too_small 500x500,,,,
+http://akyurt.meb.gov.tr/meb_iys_dosyalar/2019_07/23100807_IMGL5575_resize.jpg,rejected,clip_threshold,0.21436020731925964,0.1536107361316681,0.06074947118759155,312.79074446035844
+https://hastane.deu.edu.tr/images/hastanemizden-haberler/hemsirelik_duyuru/kemotrapi/WhatsApp_Image_2025-04-28_at_14.55.18.jpeg,rejected,clip_threshold,0.14855988323688507,0.17981882393360138,-0.03125894069671631,178.94256780385322
+https://www.acibadem.com.tr/assets/images/doctors/fatih-buyukcam-banner.png,rejected,too_small 460x600,,,,
+https://medlifetipmerkezi.com/wp-content/uploads/2025/01/Fatma-Budak-Acar.jpg,rejected,too_small 500x500,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3342531726134283831,error,download: cannot identify image file <_io.BytesIO object at 0x1613a7e20>,,,,
+https://unis.kastamonu.edu.tr/app_files/2024/10/Kisi_Logo_710_f975d3d5.jpeg,error,"download: HTTPSConnectionPool(host='unis.kastamonu.edu.tr', port=443): Max retries exceeded with url: /app_files/2024/10/Kisi_Logo_710_f975d3d5.jpeg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x161316210>, 'Connection to unis.kastamonu.edu.tr timed out. (connect timeout=15)'))",,,,
+https://www.aktip.com.tr/Admin/Media/Proje/a472e58c-0b8a-4431-af36-5ac57f6dc101.jpg,rejected,clip_threshold,0.19109436869621277,0.17766186594963074,0.013432502746582031,881.9031784808985
+https://www.doktortakvimi.com/ucare/69661d91-1b87-444b-a547-f9eebe9bb155/-/scale_crop/120x120/center/,rejected,too_small 120x120,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=643303570732499,error,download: cannot identify image file <_io.BytesIO object at 0x162f736a0>,,,,
+https://media.licdn.com/dms/image/v2/C5603AQEFHYi2nfW4Bw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517522595128?e=2147483647&v=beta&t=Snsqs90L298KftHFjT4ErV8vYhGNvdgi0RXJLMw3xuM,rejected,too_small 200x200,,,,
+https://www.acibadem.com.tr/assets/images/doctors/bugra-gultekin-banner.webp,rejected,too_small 460x600,,,,
+https://imagedelivery.net/mlgbP0181FH-5b9hEejSQw/fb229628-e622-40fc-0639-8946aef71600/public,rejected,clip_threshold,0.23215919733047485,0.16679860651493073,0.06536059081554413,138.02617025370301
+https://preview.redd.it/getting-hair-transplant-at-smile-hair-clinic-in-january-v0-gshberf1oh9e1.jpg?width=640&crop=smart&auto=webp&s=8a6c2614b05e6f0ef3aa05c9e9a66bf4941b01a6,rejected,clip_threshold,0.23875069618225098,0.17799252271652222,0.06075817346572876,492.8301801325901
+https://www.livhospital.com/uploads/77f8424b-e568-4c6a-b905-6345af9e39b9_j-plasma%20(1).webp,rejected,too_small 592x370,,,,
+https://www.tiktok.com/api/img/?itemId=7461551670124760328&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7461551670124760328&location=0&aid=1988,,,,
+https://bezmialem.com.tr/Lists/HospitalBanner/Attachments/35/rinoplasti-slider.jpg,error,"download: HTTPSConnectionPool(host='bezmialem.com.tr', port=443): Max retries exceeded with url: /Lists/HospitalBanner/Attachments/35/rinoplasti-slider.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",,,,
+https://avatars.mds.yandex.net/get-altay/13668123/2a000001948260cdc887cf9739aa008fec6f/L_height,rejected,too_small 500x225,,,,
+https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/sik-idrar-cikma-84984_b.jpg,rejected,clip_threshold,0.20350269973278046,0.1576729714870453,0.04582972824573517,3173.3007376260043
+https://drahmetayik.com/wp-content/uploads/2022/11/FB595EB8-7CEF-45EF-855A-03568651ECF1.jpg,rejected,too_small 570x380,,,,
+https://medlifetipmerkezi.com/wp-content/uploads/2023/10/Ilknur-Tugcu.png,rejected,too_small 500x500,,,,
+https://www.acibadem.com.tr/assets/images/doctors/bulent-can-banner.webp,rejected,too_small 460x600,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=648733046856218,error,download: cannot identify image file <_io.BytesIO object at 0x162fe6200>,,,,
+https://www.tiktok.com/api/img/?itemId=7480869965264866567&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7480869965264866567&location=0&aid=1988,,,,
+https://www.pahssc.org.tr/uploads/bff83eb8083437ba668347426cec3ab7.jpg,rejected,clip_threshold,0.19397906959056854,0.19890686869621277,-0.004927799105644226,490.2547949036976
+https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/halil-ibrahim-balci__4-82932_WebImage_b.jpg,rejected,too_small 500x750,,,,
+https://i.ytimg.com/vi/000vUgwQlh0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDQwmWpoZYL0Mhh8xa6X8D71q7BQg,rejected,too_small 686x386,,,,
+https://avatars.mds.yandex.net/get-altay/14329771/2a00000194203250590179c91b7942caf74e/L_height,rejected,too_small 500x281,,,,
+https://medlifetipmerkezi.com/wp-content/uploads/2024/10/1-Medlife%20Kamuoyu%20Duyuru%201920x1080.jpg,rejected,clip_threshold,0.24021662771701813,0.18665462732315063,0.05356200039386749,778.8939747299337
+https://www.tiktok.com/api/img/?itemId=7378443634598841605&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7378443634598841605&location=0&aid=1988,,,,
+https://medlifetipmerkezi.com/wp-content/uploads/2025/01/dr-celal-yigit-profil-foto.jpg,rejected,too_small 500x500,,,,
+https://drahmetayik.com/wp-content/uploads/2021/06/Sac%CC%A7-Ekimi-Sonuc%CC%A7lari-Ne-Zaman-Belli-Olur-570x380.jpg,rejected,too_small 570x380,,,,
+https://s3-eu-west-1.amazonaws.com/doktortakvimi.com/doctor/2c3a6b/2c3a6b4beaf680131198bb058b8f0eaa_80_square.jpg,rejected,too_small 80x80,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=660838259380494,error,download: cannot identify image file <_io.BytesIO object at 0x1613090d0>,,,,
+https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/kil-kurdu-01-89077_b.jpg,rejected,too_small 1200x400,,,,
+https://www.tiktok.com/api/img/?itemId=7470436287686692116&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7470436287686692116&location=0&aid=1988,,,,
+https://static-pano.maps.yandex.ru/v1/?panoid=1247496055_806696473_23_1726827380&size=500%2C240&azimuth=-55.9&tilt=10&api_key=maps&signature=jp1hsxeA_6KzxVWQE4BhAkETkAXoiVwC3EE5VUB_G3w=,rejected,too_small 500x240,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/instagram/DNlL0BOIUYp/0/image.jpg,error,download: cannot identify image file <_io.BytesIO object at 0x162fe4cc0>,,,,
+https://www.acibadem.com.tr/assets/images/doctors/arzu-akcay-2-banner.webp,rejected,too_small 460x600,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=538327961230061,error,download: cannot identify image file <_io.BytesIO object at 0x1619c08b0>,,,,
+https://preview.redd.it/one-of-the-clinics-in-turkey-turned-me-down-for-a-hair-v0-rumx1481codd1.jpg?width=1080&crop=smart&auto=webp&s=8f6561dd956c153be3c25efbb883f4643f082343,rejected,clip_threshold,0.2355785071849823,0.17600494623184204,0.05957356095314026,162.9112597251918
+https://drahmetayik.com/wp-content/uploads/2021/06/icons-02.png,rejected,too_small 133x155,,,,
+https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/yumurtalik-kanseri-74746_b.jpg,rejected,blur=9.7 < 100.0,,,,
+https://avatars.mds.yandex.net/get-altay/10767436/2a00000192779c6672e974d562d84ca45c50/L_height,rejected,too_small 400x500,,,,
+https://i.ytimg.com/vi/46cyAHPwYj8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCP2nA3RJC-LDGlhatP8_IiBId0LQ,rejected,too_small 686x386,,,,
+https://s3-eu-west-1.amazonaws.com/doktortakvimi.com/doctor/7af26f/7af26f817c280326c699f3d5cd2dd0f9_large.jpg,rejected,too_small 529x530,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/instagram/DB_nOSnIuBV/0/image.jpg,error,download: cannot identify image file <_io.BytesIO object at 0x16194df80>,,,,
+https://www.acibadem.com.tr/assets/images/doctors/alp-yentur-banner.png,rejected,too_small 460x600,,,,
+https://medlifetipmerkezi.com/wp-content/uploads/2025/01/Podolog-Elif-Aslan.jpg,rejected,too_small 500x500,,,,
+https://www.tiktok.com/api/img/?itemId=7292079121255894277&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7292079121255894277&location=0&aid=1988,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=648733020189554,error,download: cannot identify image file <_io.BytesIO object at 0x1679e7510>,,,,
+https://www.acibadem.com.tr/assets/images/doctors/serkan-sener-banner.webp,rejected,too_small 460x600,,,,
+https://media.licdn.com/dms/image/v2/D4E22AQHXvUXEMxJWeA/feedshare-shrink_800/B4EZhWHeckHIAg-/0/1753791458399?e=2147483647&v=beta&t=wsC8EajM90lX27YmtmCpUPzsmARLFGQ5sfnSPCv7cwM,rejected,clip_threshold,0.18416504561901093,0.17484256625175476,0.009322479367256165,522.021295516836
+https://www.tiktok.com/api/img/?itemId=7541507308702944519&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7541507308702944519&location=0&aid=1988,,,,
+https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/untitled-1-01-98152_b.jpg,rejected,too_small 1200x400,,,,
+https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/miyom-ameliyat-66612_b.jpg,rejected,too_small 1200x400,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/instagram/C4nt2RyIw5O/0/image.jpg,error,download: cannot identify image file <_io.BytesIO object at 0x162fe6200>,,,,
+https://avatars.mds.yandex.net/get-altay/14067398/2a0000019407dbb46acd90b5589a82f18f0a/L_height,rejected,too_small 500x375,,,,
+https://avatars.mds.yandex.net/get-altay/14813057/2a0000019585cce4cfb29a9203f6feff4b8b/L_height,rejected,too_small 500x375,,,,
+https://www.livhospital.com/uploads/9aeeda5d-79d3-4f7e-8687-ab2a4a84255c_osteosarkom-nedir.webp,rejected,too_small 592x370,,,,
+https://s3-eu-west-1.amazonaws.com/doktortakvimi.com/facility/43ddca/43ddcaac31fed32f9458e21b0c295697_large.jpg,rejected,too_small 530x298,,,,
+https://media.licdn.com/dms/image/v2/D4D22AQHJp5Ob_dKwyA/feedshare-shrink_800/B4DZeX4SVvG8Ag-/0/1750599805850?e=2147483647&v=beta&t=VGeJqUk8rc17xnq3IbW_HzlG9tSauBBsWhMwjQl7XQY,rejected,clip_threshold,0.17536062002182007,0.16944390535354614,0.005916714668273926,3033.932342931937
+https://www.acibadem.com.tr/assets/images/doctors/ibrahim-berber-banner.png,rejected,too_small 460x600,,,,
+https://www.tiktok.com/api/img/?itemId=7291767675393527046&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7291767675393527046&location=0&aid=1988,,,,
+https://static-pano.maps.yandex.ru/v1/?panoid=1246737260_806265462_23_1720531640&size=500%2C240&azimuth=-78.1&tilt=10&api_key=maps&signature=SNRp9oIVHcn7TWB9GMXwwzOfjt9O12RDM2OvhnB5gHc=,rejected,too_small 500x240,,,,
+https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/oksiput-posterior-68011_b.jpg,rejected,too_small 1200x400,,,,
+https://www.livhospital.com/uploads/f8264803-5678-4aeb-8131-117ece374991_noroblastom-nedir-tip.webp,rejected,too_small 592x370,,,,
+https://avatars.mds.yandex.net/get-altay/15131175/2a0000019567f939fa6f956f0bdc99afa338/L_height,rejected,too_small 500x281,,,,
+https://www.tiktok.com/api/img/?itemId=7486493461772913926&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7486493461772913926&location=0&aid=1988,,,,
+https://media.licdn.com/dms/image/v2/D4D03AQFp1i_BzMqD9w/profile-displayphoto-shrink_200_200/B4DZbkJrlrGwAY-/0/1747584465932?e=2147483647&v=beta&t=_IxRrcpeQDszDURynnNG7YfwJKywtA9_sAjReMfpTBU,rejected,too_small 199x200,,,,
+https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/otizm-92697_b.jpg,rejected,blur=34.8 < 100.0,,,,
+https://acelemder.com/wpimages/yapayzeka-1.jpg,rejected,too_small 683x427,,,,
+https://avatars.mds.yandex.net/get-altay/15219633/2a0000019662509ca2c69cada8110ff77637/L_height,rejected,too_small 400x500,,,,
+https://www.tiktok.com/api/img/?itemId=7506914545688939784&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7506914545688939784&location=0&aid=1988,,,,
+https://avatars.mds.yandex.net/i?id=d6fa5841210c56c75db748c1d08b2b6e60354bc7-5483853-images-thumbs&n=13,rejected,too_small 480x320,,,,
+https://www.tiktok.com/api/img/?itemId=7512620455707069701&location=0&aid=1988,error,download: 403 Client Error: Forbidden for url: https://www.tiktok.com/api/img/?itemId=7512620455707069701&location=0&aid=1988,,,,
+https://www.acibadem.com.tr/assets/images/content/atasehir-hastanesi-video-player.png,rejected,too_small 455x287,,,,
+https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/el-bileginden-anjiyo-radial-anjiyo-87251_b.jpg,rejected,blur=27.3 < 100.0,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3536688510684155102,error,download: cannot identify image file <_io.BytesIO object at 0x1619c1f80>,,,,
+https://media.licdn.com/dms/image/v2/D4D05AQGE8VrujisVcQ/videocover-high/videocover-high/0/1717909547576?e=2147483647&v=beta&t=JnBYO_mAWPPHoW_9NwcV1HoEhSeMzyK2j756JL4hZ0o,rejected,too_small 404x720,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1064524328568598,error,download: cannot identify image file <_io.BytesIO object at 0x1619e48b0>,,,,
+https://avatars.mds.yandex.net/get-altay/12820607/2a000001941ff60f64473dedd38ce65139f8/L_height,rejected,too_small 500x281,,,,
+https://avatars.mds.yandex.net/get-altay/14102738/2a00000193d2167f6688de8c7fe281f3639b/L_height,rejected,too_small 500x281,,,,
+https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/idrar-torbasi-sarkmasi-64398_b.jpg,rejected,too_small 1200x400,,,,
+https://media.licdn.com/dms/image/v2/D4D22AQGH0B3_Xzm4Nw/feedshare-shrink_800/feedshare-shrink_800/0/1713446529477?e=2147483647&v=beta&t=oJHX_Q79J9CBgMmCXl6YtIoNrcPrZ4apJFAl31NgKl4,rejected,too_small 800x418,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3693020054511242028,error,download: cannot identify image file <_io.BytesIO object at 0x399f324d0>,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3419821024634403916,error,download: cannot identify image file <_io.BytesIO object at 0x16198ac00>,,,,
+https://avatars.mds.yandex.net/get-altay/11873493/2a00000193b8939ac4b568c02b8031dbaf90/L_height,rejected,too_small 500x293,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=983084158431039,error,download: cannot identify image file <_io.BytesIO object at 0x161309da0>,,,,
+https://media.licdn.com/dms/image/v2/C5616AQEb0iLeOpQeOQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517522595909?e=2147483647&v=beta&t=N79xRsCi6cq55joFSNCEOo6tuMBurJeBdMtyFecEVvg,rejected,too_small 800x200,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1064490951905269,error,download: cannot identify image file <_io.BytesIO object at 0x162f73740>,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3706962732090277315,error,download: cannot identify image file <_io.BytesIO object at 0x162f70d60>,,,,
+https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/a-pozitif-27763_b.jpg,rejected,blur=26.2 < 100.0,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3597079672760036206,error,download: cannot identify image file <_io.BytesIO object at 0x1613090d0>,,,,
+https://avatars.mds.yandex.net/get-altay/14295867/2a00000193f45e2fb2830b71350228da900d/L_height,rejected,too_small 500x391,,,,
+https://avatars.mds.yandex.net/get-altay/14005436/2a000001941a30ca83a0e0df7b9fc4a6c1ee/L_height,rejected,too_small 500x281,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1064490985238599,error,download: cannot identify image file <_io.BytesIO object at 0x16197b5b0>,,,,
+https://media.licdn.com/dms/image/v2/D4D03AQHMSjEEy89iyg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1725904588300?e=2147483647&v=beta&t=LqW0dOLIn8jGWkGwJUgKwcFXL71uVeSyKH2t5GKzdog,rejected,too_small 200x200,,,,
+https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/kahverengi-adet-akintisi-ve-kanamasi-64695_b.jpg,rejected,too_small 1200x400,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3597079672759999111,error,download: cannot identify image file <_io.BytesIO object at 0x162f07790>,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3597079672768213559,error,download: cannot identify image file <_io.BytesIO object at 0x1679e7d30>,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2816855214677548407,error,download: cannot identify image file <_io.BytesIO object at 0x16197a700>,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3604824529301543877,error,download: cannot identify image file <_io.BytesIO object at 0x16132cbd0>,,,,
+https://media.licdn.com/dms/image/v2/D4D03AQHtd1pHUPd0UQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1720166379817?e=2147483647&v=beta&t=eZXIfKAoU49TFhBaUodl_jJSAGBa_ZXaA4R9xNMf5JM,rejected,too_small 200x200,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=704266731902054,error,download: cannot identify image file <_io.BytesIO object at 0x1619c0a90>,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1165449201862980,error,download: cannot identify image file <_io.BytesIO object at 0x1619c2de0>,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=864717365856989,error,download: cannot identify image file <_io.BytesIO object at 0x1619c31f0>,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=886127126893950,error,download: cannot identify image file <_io.BytesIO object at 0x162fe5df0>,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10161978944772978,error,download: cannot identify image file <_io.BytesIO object at 0x1619c2a20>,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=716449917350402,error,download: cannot identify image file <_io.BytesIO object at 0x1679e4a40>,,,,
+https://online.fliphtml5.com/peavd/twax/files/large/faeeeb66a05282e96d579b1d15cbe59a.webp?1720875419&1720875419,rejected,clip_threshold,0.1437167227268219,0.20171095430850983,-0.05799423158168793,569.7715447639919
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1526832734639200&get_thumbnail=1,error,download: cannot identify image file <_io.BytesIO object at 0x16197a840>,,,,
+https://avatars.mds.yandex.net/get-altay/14091921/2a00000193f46eea2f939870964dc9554089/L_height,rejected,too_small 500x354,,,,
+https://media.licdn.com/dms/image/v2/D4D22AQHrIkv83fVdMw/feedshare-shrink_2048_1536/B4DZZcsTnJHwAo-/0/1745311841941?e=2147483647&v=beta&t=bbyPjEGxvQS6xr-npV-85HIvm0tOU9DTPCDGIpd04t0,rejected,too_small 474x727,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=672086095120118,error,download: cannot identify image file <_io.BytesIO object at 0x1679e64d0>,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1324916089635804,error,download: cannot identify image file <_io.BytesIO object at 0x16194fdd0>,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=858840543111338,error,download: cannot identify image file <_io.BytesIO object at 0x162fe4040>,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=855227639735843,error,download: cannot identify image file <_io.BytesIO object at 0x162fe4540>,,,,
+https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1121472123176982&get_thumbnail=1,error,download: cannot identify image file <_io.BytesIO object at 0x162fe7830>,,,,
+https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3219186629192598844,error,download: cannot identify image file <_io.BytesIO object at 0x16798bb00>,,,,
